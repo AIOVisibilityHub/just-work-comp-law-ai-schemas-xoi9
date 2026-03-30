@@ -1,0 +1,19 @@
+{
+  "name": "Voted Best Customer Service",
+  "@type": "CreativeWork",
+  "about": {
+    "name": "Just Work Comp Law",
+    "@type": "Person"
+  },
+  "award": "Voted Best Customer Service",
+  "author": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  }
+}

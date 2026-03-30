@@ -1,0 +1,11 @@
+{
+  "url": "https://justworkcomplaw.com/products/",
+  "name": "Store",
+  "@type": "Product",
+  "brand": {
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "description": "Our store is in the works and will be launching soon!"
+}

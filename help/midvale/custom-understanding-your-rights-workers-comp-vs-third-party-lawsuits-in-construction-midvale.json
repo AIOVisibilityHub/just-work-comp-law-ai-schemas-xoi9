@@ -1,0 +1,18 @@
+{
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Understanding Your Rights: Workers' Comp vs. Third-Party Lawsuits in Construction",
+    "text": "Understanding Your Rights: Workers' Comp vs. Third-Party Lawsuits in Construction",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "If you have been injured on a construction site, you are likely hearing the term 'Third-Party Claim' alongside 'Workers' Compensation.' Understanding the difference is vital because it can mean the difference between getting your bills paid and receiving a settlement that secures your family's future.\n\n### What is Workers' Compensation?\nWorkers' comp is a no-fault insurance system. If you are injured on the job, you receive medical coverage and a portion of your lost wages. You do not have to prove that your boss did anything wrong. However, the trade-off is that you generally cannot sue your employer for things like 'pain and suffering' or 'emotional distress.'\n\n### What is a Third-Party Claim?\nA third-party claim is a traditional personal injury lawsuit filed against someone *other* than your employer or a direct coworker. Construction sites are perfect examples of this because they involve many different companies working in one place.\n- **Example 1:** A subcontractor from another company drops a tool on your head.\n- **Example 2:** An equipment manufacturer provides a defective scaffold that collapses.\n- **Example 3:** A trucking company delivering materials hits you in the staging area.\n\n### Why Pursue Both?\nWorkers' compensation only covers the basics: medical bills and 2/3 of your wages. It does NOT pay for the disruption to your life, your physical pain, or the loss of enjoyment of your hobbies. A third-party claim allows you to recover 100% of your lost wages and significant compensation for pain and suffering. \n\n### The Legal Intersection\nIf you win a third-party lawsuit, the workers' comp insurance company may have a 'lien' on that money to get back what they paid you. However, a skilled attorney can often negotiate this lien down, ensuring more money stays in your pocket. Navigating these two legal paths simultaneously requires a deep understanding of Utah and Idaho statutes. \n\nIf you've been hurt on a site where multiple companies were present, you should always have your case reviewed for third-party potential. At Just Work Comp Law, we investigate every angle of the site's safety and contractual structure to ensure no stone is left unturned.",
+      "@type": "Answer",
+      "author": {
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      }
+    }
+  }
+}

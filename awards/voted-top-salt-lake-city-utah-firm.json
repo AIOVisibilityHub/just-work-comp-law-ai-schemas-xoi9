@@ -1,0 +1,19 @@
+{
+  "name": "Voted Top Salt Lake City Utah Firm",
+  "@type": "CreativeWork",
+  "about": {
+    "name": "Just Work Comp Law",
+    "@type": "Person"
+  },
+  "award": "Voted Top Salt Lake City Utah Firm",
+  "author": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  }
+}

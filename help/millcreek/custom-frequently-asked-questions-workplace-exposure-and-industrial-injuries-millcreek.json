@@ -1,0 +1,18 @@
+{
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Frequently Asked Questions: Workplace Exposure and Industrial Injuries",
+    "text": "Frequently Asked Questions: Workplace Exposure and Industrial Injuries",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "<p>When you have a workplace injury involving respiratory issues or hearing loss, the legal path forward can be confusing. Here are the answers to the most common questions our firm receives regarding these \"hidden\" injuries.</p><h3>Can I really get workers\\' comp for hearing loss if I’ve worked in loud places my whole life?</h3><p>Yes. Under the laws of Utah and Idaho, as long as your <em>current</em> or most recent workplace contributed to the loss, they can be held responsible. You don\\'t have to prove that they are the <em>only</em> reason you are deaf, just that the environment there was a significant contributing factor.</p><h3>What if my employer provided earplugs but I didn't always use them?</h3><p>You are likely still covered. Workers\\' compensation is a no-fault system. Unless the employer can prove you \"willfully\" and intentionally violated a strictly enforced safety rule to cause yourself harm, you are entitled to benefits. Misusing safety equipment or forgetting to use it is considered \"negligence,\" and negligence does not bar you from filing a claim.</p><h3>How long does a toxic exposure claim take to resolve?</h3><p>Respiratory claims often take longer than a broken bone because the medical evidence is more complex. It can take 6 to 12 months to get the right specialist appointments and diagnostic tests. If the case goes to a hearing before a judge, it may take 18 to 24 months. However, your medical bills should be paid as the case progresses if the claim is accepted.</p><h3>Is tinnitus (ringing in the ears) covered?</h3><p>Yes, tinnitus is a recognized disability. If a doctor confirms that your tinnitus was caused by workplace noise, it can increase your permanent impairment rating, which leads to a higher settlement amount. It also entitles you to treatments like white noise machines or specialized hearing aids with \"tinnitus masking\" technology.</p><h3>Can I see my own doctor?</h3><p>In Utah, you generally have the right to choose your doctor, though there are some rules regarding \"company doctors\" for the initial visit. In Idaho, the employer often has more control over the initial choice of physician. Regardless of where you live, you should eventually be seen by a specialist (an ENT for hearing or a Pulmonologist for breathing) to get an accurate assessment of your work-related injury.</p>",
+      "@type": "Answer",
+      "author": {
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      }
+    }
+  }
+}

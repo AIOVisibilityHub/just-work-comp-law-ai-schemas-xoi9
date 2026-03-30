@@ -1,0 +1,18 @@
+{
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Frequently Asked Questions About Workplace Illness in the Intermountain West",
+    "text": "Frequently Asked Questions About Workplace Illness in the Intermountain West",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "<h1>Frequently Asked Questions About Workplace Illness in the Intermountain West</h1><div class='faq-section'><h2>What is an 'Occupational Disease' in Utah and Idaho?</h2><p>In both Utah and Idaho, an occupational disease is an illness caused by the nature of your employment. This is different from a sudden injury. It refers to conditions like mesothelioma from asbestos, carpal tunnel from repetitive typing, or lung disease from breathing in silica dust. The law requires that the illness be a direct result of the workplace hazards you were exposed to during your tenure.</p><h2>How long do I have to file a claim for a work-related sickness?</h2><p>The clock usually starts ticking when you know (or should have known) that your illness was work-related. In Utah, you should notify your employer within 180 days. In Idaho, you generally have 60 days to report it. Formal legal deadlines (statutes of limitations) vary but are generally two years from the 'date of manifestation.' Because these timelines are complex, you should seek legal advice the moment a doctor suggests your job might be the cause.</p><h2>Can I get workers' comp for COVID-19 or the flu?</h2><p>Generally, 'ordinary diseases of life' like the common cold or flu are not covered. However, if your occupation created a significantly higher risk of exposure than the general public—such as being a healthcare worker or a first responder during a pandemic—you may be able to file a claim. These cases are highly fact-specific and require proving you were exposed at work rather than in the community.</p><h2>What if my employer denies that their chemicals caused my cancer?</h2><p>This is the most common response from employers. We counter this by hiring industrial hygienists and medical experts to analyze the toxins present at your job. We look at the duration and intensity of your exposure and compare it to known medical literature. Many cancer-related claims are won on appeal after an initial denial, provided the evidence is gathered professionally.</p><h2>Is it worth hiring a lawyer for a work-related illness?</h2><p>Yes. Illness claims are almost always contested by insurance companies because they are expensive and have long-term implications. A lawyer can help you secure wage replacement (TTD), medical coverage, and a permanent disability settlement. At Just Work Comp Law, we work on a contingency fee, which means you pay nothing unless we recover money for you. Call us at 801-746-0290 to see if you have a case.</p></div>",
+      "@type": "Answer",
+      "author": {
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      }
+    }
+  }
+}

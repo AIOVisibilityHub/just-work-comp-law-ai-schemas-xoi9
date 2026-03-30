@@ -1,0 +1,18 @@
+{
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Frequently Asked Questions: Forklift Accidents at Work",
+    "text": "Frequently Asked Questions: Forklift Accidents at Work",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "<h1>Frequently Asked Questions: Forklift Accidents at Work</h1>\n\n<p>Forklift accidents are among the most dangerous incidents in the workplace. If you’ve been hurt, you likely have many questions about how to pay for your bills and what happens next. Here are the most common questions our firm receives regarding forklift injuries in Utah and Idaho.</p>\n\n<h3>Can I file for workers' comp if the forklift accident was my fault?</h3>\n<p>Generally, yes. Workers' compensation is a \"no-fault\" system. In Utah and Idaho, even if you made a mistake—such as taking a turn too fast or failing to set the brake—you are still eligible for benefits. The only major exceptions are if you were under the influence of drugs or alcohol at the time, or if you intentionally caused the accident for the purpose of getting benefits.</p>\n\n<h3>What if I was hit by a forklift as a pedestrian?</h3>\n<p>If you were hit by a coworker while walking in a warehouse, you are covered by workers' compensation. However, forklift-pedestrian accidents often cause catastrophic injuries like crushed limbs or spinal trauma. You should also investigate if the forklift was being operated by a person from a different company (like a vendor or third-party contractor). If a third party was responsible, you might be able to sue them for pain and suffering in addition to your workers' comp claim.</p>\n\n<h3>The insurance company says I wasn't 'properly certified'—does that matter?</h3>\n<p>Employers are required by OSHA to ensure all forklift operators are certified. If your employer allowed you to operate a forklift without proper training, that is a safety violation on their part. It should not prevent you from receiving workers' compensation benefits. In fact, an employer's failure to train you often strengthens your case by showing they maintained an unsafe workplace.</p>\n\n<h3>Can I get more than just workers' comp?</h3>\n<p>Under the \"exclusive remedy\" rule, you usually cannot sue your employer directly for a forklift accident. However, you can seek \"third-party\" damages if the accident was caused by:\n<ul>\n<li>A mechanical defect in the forklift (suing the manufacturer).</li>\n<li>A contractor from another company operating the machine.</li>\n<li>Improper repair work done by an outside maintenance company.</li>\n</ul>\nThese third-party claims can provide compensation for pain and suffering, which workers' comp does not cover.</p>\n\n<h3>How much is my forklift injury case worth?</h3>\n<p>The value depends on the permanent impact on your life. Forklift injuries often lead to high \"impairment ratings\" because they frequently involve surgery or permanent loss of mobility. A settlement will account for your past and future medical bills, the wages you lost while recovering, and a lump sum for any permanent disability. At Just Work Comp Law, we fight to ensure the insurance company doesn't ignore the long-term costs of your recovery.</p>",
+      "@type": "Answer",
+      "author": {
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      }
+    }
+  }
+}
