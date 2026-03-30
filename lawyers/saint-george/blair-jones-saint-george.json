@@ -1,0 +1,29 @@
+{
+  "name": "Blair Jones",
+  "@type": "Attorney",
+  "@context": "https://schema.org",
+  "jobTitle": "Attorney",
+  "worksFor": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "telephone": "801-746-0290",
+  "areaServed": {
+    "name": "Saint George",
+    "@type": "City"
+  },
+  "knowsAbout": [
+    "workers compensation claims",
+    "workers compensation denials",
+    "workers compensation settlement negotiations",
+    "Workers Compensation Law",
+    "Utah Work Injury",
+    "St George Utah Workers Comp",
+    "Utah County Workers Comp",
+    "Ogden Workers Comp",
+    "Idaho Workers Comp",
+    "Idaho Work Injury"
+  ],
+  "description": "Blair focuses 100% of his time helping injured workers and achieves great results working with his clients against insurance companies and their lawyers. He has successfully represented numerous injured workers in complex workers’ compensation claims, criminal defendants in high profile crimes, and children and parents in protective services removals."
+}

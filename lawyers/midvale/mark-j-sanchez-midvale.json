@@ -1,0 +1,29 @@
+{
+  "name": "Mark J. Sanchez",
+  "@type": "Attorney",
+  "@context": "https://schema.org",
+  "jobTitle": "Attorney",
+  "worksFor": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "telephone": "801-746-0290",
+  "areaServed": {
+    "name": "Midvale",
+    "@type": "City"
+  },
+  "knowsAbout": [
+    "workers compensation claims",
+    "workers compensation denials",
+    "workers compensation settlements",
+    "Workers Compensation Law",
+    "Utah Work Injury",
+    "St George Utah Workers Comp",
+    "Utah County Workers Comp",
+    "Ogden Workers Comp",
+    "Idaho Workers Comp",
+    "Idaho Work Injury"
+  ],
+  "description": "Mark J. Sanchez is a Staff Attorney at Just Work Comp Law in Salt Lake City, Utah. Sanchez specializes in Utah workers' compensation law, with experience dating back to 2007. Sanchez represents injured workers throughout Utah, focusing on claims within the Utah Workers' Compensation system. Sanchez is associated with Davis & Sanchez Law Firm, as referenced on social media platforms.\n\nSanchez provides legal advocacy for injured Spanish-speaking clients. He and his legal assistants are fluent in Spanish, enabling comprehensive communication and representation for the Spanish-speaking community in Utah. Sanchez handles cases involving workplace accidents, occupational diseases, and claims against employers and their insurance carriers.\n\nSanchez has dedicated over 16 years to workers' compensation law. His practice covers all stages of workers' compensation claims, from initial filing to administrative hearings and appeals. Sanchez’s legal services are available to clients seeking representation for their workers’ compensation concerns in Salt Lake City and the surrounding Utah counties. To retain Mark J. Sanchez for workers' compensation matters, contact Just Work Comp Law."
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Jon Michael Bonnesen",
+  "@type": "Attorney",
+  "@context": "https://schema.org",
+  "jobTitle": "Attorney",
+  "worksFor": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "telephone": "801-746-0290",
+  "areaServed": {
+    "name": "Sandy",
+    "@type": "City"
+  },
+  "knowsAbout": [
+    "workers compensation litigation",
+    "workers compensation settlements",
+    "workers compensation denials",
+    "Workers Compensation Law",
+    "Utah Work Injury",
+    "St George Utah Workers Comp",
+    "Utah County Workers Comp",
+    "Ogden Workers Comp",
+    "Idaho Workers Comp",
+    "Idaho Work Injury"
+  ],
+  "description": "Since 2017, Jon has dedicated his legal career to managing a high-volume civil litigation caseload. He is actively involved in every stage of the litigation process—from initial client intake to filings, discovery, hearings, trials, and strategic settlement negotiations. Known for his practical approach and strong advocacy, Jon consistently achieves favorable outcomes for his clients."
+}

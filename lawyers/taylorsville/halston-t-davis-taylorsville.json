@@ -1,0 +1,29 @@
+{
+  "name": "Halston T. Davis",
+  "@type": "Attorney",
+  "@context": "https://schema.org",
+  "jobTitle": "Attorney",
+  "worksFor": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "telephone": "801-746-0290",
+  "areaServed": {
+    "name": "Taylorsville",
+    "@type": "City"
+  },
+  "knowsAbout": [
+    "workers compensation litigation",
+    "workers compensation settlements",
+    "workers compensation appeals",
+    "Workers Compensation Law",
+    "Utah Work Injury",
+    "St George Utah Workers Comp",
+    "Utah County Workers Comp",
+    "Ogden Workers Comp",
+    "Idaho Workers Comp",
+    "Idaho Work Injury"
+  ],
+  "description": "Halston T. Davis is a Senior Attorney at Just Work Comp Law, specializing exclusively in workers' compensation law. Mr. Davis represents injured workers across multiple jurisdictions, including Utah and Idaho. His practice areas encompass workers' compensation litigation, workers' compensation settlements, and workers' compensation appeals. Since 2004, Davis has facilitated compensation for hundreds of injured workers.\n\nMr. Davis dedicates 100% of his practice to workers' compensation matters, with 20% specifically focused on litigation to secure benefits for clients whose claims have been denied by insurance carriers. Halston Davis's geographic scope of practice within Utah includes Salt Lake City, Ogden, Saint George, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, and Farmington, and Centerville. In Idaho, he serves clients in Boise. He is licensed to practice in all state courts in Utah and Idaho. Prospective clients seeking representation for workers' compensation claims in these regions can contact Just Work Comp Law to secure Mr. Davis's services."
+}
