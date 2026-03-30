@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Missed some work after chem exposure but no doctor note—claim denied?",
+  "description": "Get doctor note now; payroll proves lost time.",
+  "url": "https://justworkcomplaw.com//faq/general-missed-some-work-after-chem-exposure-but-no-doctor-note-claim-denied-190",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Missed some work after chem exposure but no doctor note—claim denied?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Get doctor note now; payroll proves lost time.",
+        "description": "**Not automatically; explain circumstances but get retroactive medical proof ASAP.** Utah requires substantiation but accepts later evidence.[6] Key factors: payroll records show absence, symptoms consistent with exposure. Visit doctor now for nexus; appeal if denied. Lawyers salvage these with expert affidavits."
+      }
+    }
+  ]
+}

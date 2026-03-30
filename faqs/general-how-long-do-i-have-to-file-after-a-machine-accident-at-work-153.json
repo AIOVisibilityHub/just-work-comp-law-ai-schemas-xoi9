@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to file after a machine accident at work?",
+  "description": "Report immediately; filing 1-3 years but notify employer within days[1][2].",
+  "url": "https://justworkcomplaw.com//faq/general-how-long-do-i-have-to-file-after-a-machine-accident-at-work-153",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to file after a machine accident at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report immediately; filing 1-3 years but notify employer within days[1][2].",
+        "description": "**Typically 1-3 years depending on state, but report injury within days.** Utah has no strict filing deadline but prompt notice (within 180 days) is key; Idaho similar for comp claims[1][2]. Third-party suits: 2-4 years. **Key factors:** Delays risk denial; medical reports start clock. **Practical guidance:** Report same day, file formally soon after. Check state rules—Utah workers report ASAP[4]. Attorney ensures deadlines met."
+      }
+    }
+  ]
+}

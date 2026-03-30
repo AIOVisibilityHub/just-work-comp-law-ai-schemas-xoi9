@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Boss is mad I fell off ladder, threatening my job, what rights?",
+  "description": "Illegal retaliation; file complaint immediately.",
+  "url": "https://justworkcomplaw.com//faq/general-boss-is-mad-i-fell-off-ladder-threatening-my-job-what-rights-137",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Boss is mad I fell off ladder, threatening my job, what rights?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Illegal retaliation; file complaint immediately.",
+        "description": "**Protected from retaliation; firing for comp claim is illegal.**\n\nFile retaliation complaint with labor dept alongside comp. Document threats.\n\n- Utah/Idaho ban reprisals.\n- Seek reinstatement or damages.\n- Witnesses help.\n\nReport to EEOC if discrimination; attorney essential."
+      }
+    }
+  ]
+}

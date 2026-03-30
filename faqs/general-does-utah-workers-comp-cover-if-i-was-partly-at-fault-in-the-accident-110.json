@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does Utah workers comp cover if I was partly at fault in the accident?",
+  "description": "Yes, no-fault ignores your partial fault.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-does-utah-workers-comp-cover-if-i-was-partly-at-fault-in-the-accident-110",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does Utah workers comp cover if I was partly at fault in the accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, no-fault ignores your partial fault.[1]",
+        "description": "Yes, Utah's no-fault system covers regardless of your fault, as long as work-related.[1][2] Fault irrelevant for benefits.[1] Key factors: Confirm on-job occurrence; report timely. Practical guidance: Don't admit fault to insurer; focus on facts. Benefits same even if careless.[2] No-fault simplifies claims.[1]"
+      }
+    }
+  ]
+}

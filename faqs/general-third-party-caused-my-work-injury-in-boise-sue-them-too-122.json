@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Third party caused my work injury in Boise, sue them too?",
+  "description": "Yes, sue third-party alongside comp.[4]",
+  "url": "https://justworkcomplaw.com//faq/general-third-party-caused-my-work-injury-in-boise-sue-them-too-122",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Third party caused my work injury in Boise, sue them too?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, sue third-party alongside comp.[4]",
+        "description": "Yes, pursue civil suit against non-employer separately from comp; comp doesn't bar it.[4] Key factors: Prove their fault; comp offsets some. Practical guidance: File comp first for quick benefits; lawyer for personal injury suit. Dual recovery possible.[5] Maximizes total comp.[4]"
+      }
+    }
+  ]
+}

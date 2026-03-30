@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my employer if I got hurt at work in Salt Lake City?",
+  "description": "No, workers' comp is exclusive; sue third parties.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-employer-if-i-got-hurt-at-work-in-salt-lake-city-15",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my employer if I got hurt at work in Salt Lake City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, workers' comp is exclusive; sue third parties.[3]",
+        "description": "**Generally no—Utah workers' comp is exclusive remedy, barring suits against employers.** Third-party negligence allows personal injury claims.[3][4] Key factors: Exceptions rare like gross negligence. File comp first, explore third parties. Limits employer liability but guarantees benefits."
+      }
+    }
+  ]
+}

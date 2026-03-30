@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will I lose my job if I file for breathing problems from work dust?",
+  "description": "No—Utah bans retaliation; report violations for protection.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-will-i-lose-my-job-if-i-file-for-breathing-problems-from-work-dust-208",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will I lose my job if I file for breathing problems from work dust?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No—Utah bans retaliation; report violations for protection.[1]",
+        "description": "**Utah law prohibits retaliation** for filing legitimate workers' comp claims; violations lead to reinstatement, back pay, and penalties.[1]\n\nEmployers can't fire or demote you for injury reports, but prove retaliation with timing evidence.[3]\n\n**Key factors:**\n- Claim filing date vs. adverse action\n- Performance records\n- Witness statements\n\n**Practical guidance:** Document all interactions; file retaliation charge if occurs. Lawyer protects you.\nYour job is safeguarded."
+      }
+    }
+  ]
+}

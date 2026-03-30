@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much is my chemical exposure at work case worth in Salt Lake?",
+  "description": "$50K-$200K+ based on bills, wages, and disability—get a free eval.",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-is-my-chemical-exposure-at-work-case-worth-in-salt-lake-182",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much is my chemical exposure at work case worth in Salt Lake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$50K-$200K+ based on bills, wages, and disability—get a free eval.",
+        "description": "**Value depends on medical costs, lost wages, disability rating, and permanency; settlements average $50K-$200K+ for serious cases.** Utah workers' comp uses scheduled benefits for body parts affected by chemical injuries like respiratory damage.[6] Key factors: documented exposure duration, symptom severity, future care needs, and comparable verdicts. Calculate economic losses first, add pain/suffering if third-party suit possible; use attorney calculators. Free case reviews estimate your specific value accurately."
+      }
+    }
+  ]
+}

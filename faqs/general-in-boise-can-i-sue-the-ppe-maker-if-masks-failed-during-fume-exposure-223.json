@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Boise, can I sue the PPE maker if masks failed during fume exposure?",
+  "description": "Yes—product defect lawsuit in Idaho.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-in-boise-can-i-sue-the-ppe-maker-if-masks-failed-during-fume-exposure-223",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Boise, can I sue the PPE maker if masks failed during fume exposure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—product defect lawsuit in Idaho.[1]",
+        "description": "**Yes, third-party product liability** suit for defective respirators, outside workers' comp exclusivity.[1]\n\nIdaho allows parallel claims.[5]\n\n**Key factors:**\n- Defect proof (lab tests)\n- Failure causation\n\n**Practical guidance:** Preserve mask; expert analysis needed.\nExtra compensation possible."
+      }
+    }
+  ]
+}

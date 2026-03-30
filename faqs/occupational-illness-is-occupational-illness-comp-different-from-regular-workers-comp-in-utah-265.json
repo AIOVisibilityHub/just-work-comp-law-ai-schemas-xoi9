@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is occupational illness comp different from regular workers comp in Utah?",
+  "description": "Yes, ODA for diseases vs. WCA for injuries.[1]",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-is-occupational-illness-comp-different-from-regular-workers-comp-in-utah-265",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is occupational illness comp different from regular workers comp in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, ODA for diseases vs. WCA for injuries.[1]",
+        "description": "Yes, Utah's ODA handles diseases separately from WCA injuries, with distinct exclusivity rules.[1] WCA excludes diseases; ODA excludes accidents.[1] Key factors: classify as disease (e.g., lead poisoning) for ODA path, no intentional tort extension yet.[1] Understand split to file correctly; misclassification causes denials."
+      }
+    }
+  ]
+}

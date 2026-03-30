@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Symptoms showed up weeks after work accident - too late?",
+  "description": "No, prove medical causation.[4]",
+  "url": "https://justworkcomplaw.com//faq/general-symptoms-showed-up-weeks-after-work-accident-too-late-38",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Symptoms showed up weeks after work accident - too late?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, prove medical causation.[4]",
+        "description": "No, if medically linked to incident; delayed injuries compensable.[4] Context: Causation via expert testimony required.[4] Key factors: Continuous treatment; no intervening cause. Practical guidance: See doctor ASAP on symptoms; get MRI linking back. File amendment if needed. Deadlines from discovery date sometimes."
+      }
+    }
+  ]
+}

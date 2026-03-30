@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No witnesses to my chem spill at work in Boise, can I still get comp?",
+  "description": "Yes, medicals and job records prove it without witnesses.",
+  "url": "https://justworkcomplaw.com//faq/general-no-witnesses-to-my-chem-spill-at-work-in-boise-can-i-still-get-comp-187",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No witnesses to my chem spill at work in Boise, can I still get comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, medicals and job records prove it without witnesses.",
+        "description": "**Yes, medical records, your testimony, and circumstantial evidence like safety logs suffice.** Idaho accepts solo claims if exposure is probable from job duties.[6] Key factors: consistent medical history, MSDS confirming hazards, employer admissions. Reconstruct via emails/shifts; doctor reports carry weight. Lawyers prove cases without witnesses routinely."
+      }
+    }
+  ]
+}

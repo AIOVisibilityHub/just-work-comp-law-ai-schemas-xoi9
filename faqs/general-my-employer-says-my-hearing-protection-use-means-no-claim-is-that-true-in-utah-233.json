@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My employer says my hearing protection use means no claim, is that true in Utah?",
+  "description": "No, harmful noise exposure still compensable.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-my-employer-says-my-hearing-protection-use-means-no-claim-is-that-true-in-utah-233",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My employer says my hearing protection use means no claim, is that true in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, harmful noise exposure still compensable.[2]",
+        "description": "**No, consistent protection use reduces but doesn't bar claims if ambient noise exceeded harmful levels per Utah Code §34A-2-503.** Courts consider actual noise reaching ears, but prove exposure caused loss despite protection.[2] Get independent noise dosimetry tests. Employer defenses often fail with strong medical links.[2] Challenge via appeal."
+      }
+    }
+  ]
+}

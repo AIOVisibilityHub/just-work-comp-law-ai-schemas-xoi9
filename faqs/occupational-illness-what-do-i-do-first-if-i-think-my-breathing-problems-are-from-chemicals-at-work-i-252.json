@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What do I do first if I think my breathing problems are from chemicals at work in Ogden?",
+  "description": "Notify employer in writing, see a doctor for work-link documentation, and file with Utah Labor Commission ASAP.[6]",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-what-do-i-do-first-if-i-think-my-breathing-problems-are-from-chemicals-at-work-i-252",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What do I do first if I think my breathing problems are from chemicals at work in Ogden?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Notify employer in writing, see a doctor for work-link documentation, and file with Utah Labor Commission ASAP.[6]",
+        "description": "Immediately notify your employer in writing and seek medical attention to document the link between your exposure and symptoms.[6][9] Occupational illnesses in Utah fall under the ODA, requiring proof that the disease resulted directly from workplace conditions, separate from standard workers' comp injuries.[1] Key factors: timely reporting within 180 days, medical evidence of causation, and distinguishing from pre-existing conditions.[3][6] Get a doctor's diagnosis specifying work-relatedness, file a claim with the Utah Labor Commission, and avoid signing anything without review. Prompt action secures medical benefits and lost wages before statutes expire."
+      }
+    }
+  ]
+}

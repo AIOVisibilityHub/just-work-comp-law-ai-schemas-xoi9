@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Ice slip outside work building in Murray UT—whose fault?",
+  "description": "Comp primary; sue mgr if negligent.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-ice-slip-outside-work-building-in-murray-ut-whose-fault-69",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Ice slip outside work building in Murray UT—whose fault?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp primary; sue mgr if negligent.[1]",
+        "description": "**Workers' comp if during shift; third-party if property mgr negligent.** Course-of-employment key.[1][4] Photos of uncleared ice vital. Dual claims possible."
+      }
+    }
+  ]
+}

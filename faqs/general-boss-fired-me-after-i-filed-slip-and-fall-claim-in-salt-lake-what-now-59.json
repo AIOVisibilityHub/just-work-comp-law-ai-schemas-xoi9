@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Boss fired me after I filed slip and fall claim in Salt Lake—what now?",
+  "description": "File retaliation claim—illegal to fire you for comp filing.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-boss-fired-me-after-i-filed-slip-and-fall-claim-in-salt-lake-what-now-59",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Boss fired me after I filed slip and fall claim in Salt Lake—what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "File retaliation claim—illegal to fire you for comp filing.[2]",
+        "description": "**Utah/Idaho law prohibits retaliation for workers' comp filings; file a retaliation complaint.** Evidence like timing and comments proves it; remedies include reinstatement, back pay.[1][2] Consult attorney immediately—statute is 180 days. Comp benefits continue regardless. Document all post-injury interactions."
+      }
+    }
+  ]
+}

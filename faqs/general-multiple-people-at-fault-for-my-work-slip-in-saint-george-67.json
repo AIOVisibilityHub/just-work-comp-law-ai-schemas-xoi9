@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Multiple people at fault for my work slip in Saint George?",
+  "description": "Comp for boss, sue third parties.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-multiple-people-at-fault-for-my-work-slip-in-saint-george-67",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Multiple people at fault for my work slip in Saint George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp for boss, sue third parties.[1]",
+        "description": "**Comp covers employer portion; sue others separately.** Subcontractors/property owners liable via negligence.[1] Coordinate claims carefully. Lawyer apportions fault, maximizes total recovery."
+      }
+    }
+  ]
+}

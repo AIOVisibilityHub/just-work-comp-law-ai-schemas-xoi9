@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Claim denied after ladder fall on job, what now?",
+  "description": "Appeal fast with lawyer and new proof.",
+  "url": "https://justworkcomplaw.com//faq/general-claim-denied-after-ladder-fall-on-job-what-now-139",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Claim denied after ladder fall on job, what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal fast with lawyer and new proof.",
+        "description": "**Appeal within 20 days in Utah, 21 in Idaho to the commission.**\n\nGather more evidence, request hearing. Common for disputed causation.\n\n- Hire attorney; success rates rise.\n- New medical opinions.\n- Challenge insurer reasons.\n\nMany overturned; don't miss deadline."
+      }
+    }
+  ]
+}

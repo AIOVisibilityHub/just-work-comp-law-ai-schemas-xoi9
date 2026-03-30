@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can my employer fire me for filing workers comp in West Valley City?",
+  "description": "Illegal retaliation—protected by law.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-can-my-employer-fire-me-for-filing-workers-comp-in-west-valley-city-22",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can my employer fire me for filing workers comp in West Valley City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Illegal retaliation—protected by law.[1]",
+        "description": "**No, Utah prohibits retaliation for filing claims.** Violations fined heavily.[1][2] Key factors: Job protection during recovery. Document issues, report. Law safeguards your employment."
+      }
+    }
+  ]
+}

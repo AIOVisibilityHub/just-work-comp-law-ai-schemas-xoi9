@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Uninsured employer after my injury - options?",
+  "description": "Use state fund; sue employer.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-uninsured-employer-after-my-injury-options-46",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Uninsured employer after my injury - options?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use state fund; sue employer.[2]",
+        "description": "Utah Uninsured Employer Fund covers; sue employer too.[2] Context: Employers must carry insurance; penalties apply.[2] Key factors: Prove no coverage; fund has limits. Practical guidance: Verify policy first; file dual claims. Fund slower. Lawyer accelerates."
+      }
+    }
+  ]
+}

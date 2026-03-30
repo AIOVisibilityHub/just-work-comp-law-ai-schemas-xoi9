@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have a pre-existing condition but got worse after chem exposure at work—can I still claim?",
+  "description": "Yes, claim aggravation with medical proof linking it to work exposure.",
+  "url": "https://justworkcomplaw.com//faq/general-i-have-a-pre-existing-condition-but-got-worse-after-chem-exposure-at-work-can-i--181",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have a pre-existing condition but got worse after chem exposure at work—can I still claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, claim aggravation with medical proof linking it to work exposure.",
+        "description": "**Yes, if the exposure aggravated your condition, workers' comp covers the worsening.** Laws in most states, including Utah and Idaho, compensate aggravation of pre-existing issues from job exposures.[1][6] Key factors: medical evidence showing aggravation (not just coincidence), work-related exposure proof, and no sole fault on your part. Get a doctor's nexus letter linking worsening to work; avoid signing insurer releases. An attorney can differentiate compensable aggravation."
+      }
+    }
+  ]
+}

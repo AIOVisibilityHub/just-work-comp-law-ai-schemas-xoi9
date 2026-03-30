@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No one saw my ladder fall at work, can I still get comp?",
+  "description": "Yes, medical + your account enough.",
+  "url": "https://justworkcomplaw.com//faq/general-no-one-saw-my-ladder-fall-at-work-can-i-still-get-comp-138",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No one saw my ladder fall at work, can I still get comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, medical + your account enough.",
+        "description": "**Yes, your testimony plus medical evidence suffices; circumstantial proof works.**\n\nConsistent story, site photos, ladder state build case. No witnesses common.\n\n- Corroborate with coworkers' knowledge.\n- Medical matches mechanism.\n- Commissions accept.[1]\n\nAvoid inconsistencies; lawyer strengthens."
+      }
+    }
+  ]
+}

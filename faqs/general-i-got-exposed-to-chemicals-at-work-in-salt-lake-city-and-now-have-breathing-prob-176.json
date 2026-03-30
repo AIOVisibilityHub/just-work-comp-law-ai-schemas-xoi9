@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I got exposed to chemicals at work in Salt Lake City and now have breathing problems, what do I do first?",
+  "description": "Report to employer, get medical help, and file workers' comp claim ASAP—Utah requires notice within 180 days.",
+  "url": "https://justworkcomplaw.com//faq/general-i-got-exposed-to-chemicals-at-work-in-salt-lake-city-and-now-have-breathing-prob-176",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I got exposed to chemicals at work in Salt Lake City and now have breathing problems, what do I do first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report to employer, get medical help, and file workers' comp claim ASAP—Utah requires notice within 180 days.",
+        "description": "**Report the incident to your employer immediately and seek medical attention to document your symptoms.** Chemical exposure at work typically falls under workers' compensation laws in Utah, where you can claim benefits for medical treatment and lost wages if the exposure occurred during employment.[1][6] Key factors include proving the exposure happened on the job, linking it to your symptoms via medical records, and notifying your employer within statutory deadlines (often 180 days in Utah). Preserve all evidence like incident reports, coworker statements, and safety data sheets; then file a workers' comp claim promptly to avoid denial. Consult a workers' comp attorney experienced in Utah for free evaluation."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Uninsured employer after my machine injury—what happens?",
+  "description": "State fund steps in[1].",
+  "url": "https://justworkcomplaw.com//faq/general-uninsured-employer-after-my-machine-injury-what-happens-173",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Uninsured employer after my machine injury—what happens?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "State fund steps in[1].",
+        "description": "**State fund covers in Utah/Idaho; sue employer possibly.** Rare but protected[1]. **Key factors:** Prove non-coverage. **Practical guidance:** Report to state agency; attorney accesses fund."
+      }
+    }
+  ]
+}

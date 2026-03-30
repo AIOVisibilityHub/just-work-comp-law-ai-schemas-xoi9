@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Symptoms from asbestos at work showed up years later in Murray—too late?",
+  "description": "No, claim when disabled; latency allowed under ODA.[4]",
+  "url": "https://justworkcomplaw.com//faq/general-symptoms-from-asbestos-at-work-showed-up-years-later-in-murray-too-late-260",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Symptoms from asbestos at work showed up years later in Murray—too late?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, claim when disabled; latency allowed under ODA.[4]",
+        "description": "No, latency is common for occupational diseases; file when diagnosed if linked to past exposure.[4] Utah ODA ties claims to disability onset, not exposure date.[1][4] Key factors: continuous employment proof, medical causation despite delay, within 1-year filing post-diagnosis. Document job history thoroughly, get retroactive tests; courts accept delayed manifestations. File now to avoid bars."
+      }
+    }
+  ]
+}

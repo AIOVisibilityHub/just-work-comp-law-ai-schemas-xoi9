@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if equipment failure caused my injury in Saint George—can I sue the maker?",
+  "description": "Yes, product liability beyond comp.[4]",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-equipment-failure-caused-my-injury-in-saint-george-can-i-sue-the-maker-24",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if equipment failure caused my injury in Saint George—can I sue the maker?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, product liability beyond comp.[4]",
+        "description": "**Yes, file workers' comp and separate product liability suit against manufacturer.** Third-party claim.[4] Key factors: Comp for employer, suit for others. Preserve evidence. Dual claims maximize recovery."
+      }
+    }
+  ]
+}

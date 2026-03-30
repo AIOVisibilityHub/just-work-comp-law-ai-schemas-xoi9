@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to report my warehouse injury in Saint George before I lose benefits?",
+  "description": "180 days max in Utah, but report now to protect claim.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-how-long-do-i-have-to-report-my-warehouse-injury-in-saint-george-before-i-lose-b-80",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to report my warehouse injury in Saint George before I lose benefits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "180 days max in Utah, but report now to protect claim.[1]",
+        "description": "180 days in Utah from injury date, but report ASAP to build case and avoid disputes.[1][5] Late reports risk disqualification.[1] Key factors: Document immediately; employer has 7 days to insurer.[1] Get doctor report (Form 123); request copies.[1] Lawyer preserves evidence timely.[5]"
+      }
+    }
+  ]
+}

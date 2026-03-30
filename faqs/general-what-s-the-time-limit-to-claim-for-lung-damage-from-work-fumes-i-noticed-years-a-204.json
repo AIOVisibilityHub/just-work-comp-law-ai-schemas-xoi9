@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the time limit to claim for lung damage from work fumes I noticed years ago?",
+  "description": "Utah: 3 years from diagnosis for occupational respiratory claims—file now if recent.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-the-time-limit-to-claim-for-lung-damage-from-work-fumes-i-noticed-years-a-204",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the time limit to claim for lung damage from work fumes I noticed years ago?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Utah: 3 years from diagnosis for occupational respiratory claims—file now if recent.[2]",
+        "description": "In Utah, you have **3 years from diagnosis** for occupational disease workers' comp claims, or 1 year from when you knew or should have known it was work-related.[2]\n\nLatent diseases like silicosis allow filing upon discovery, but delays weaken cases due to evidence loss. Federal OSHA rules emphasize prompt reporting.[1]\n\n**Key factors:**\n- Date of medical diagnosis\n- When symptoms became apparent\n- Employer's knowledge of hazards\n- Statute variations for third-party suits (2-4 years)\n\n**Practical guidance:** Gather old employment records now; consult a lawyer to calculate your deadline accurately. Don't wait for worse symptoms.\nActing fast preserves benefits."
+      }
+    }
+  ]
+}

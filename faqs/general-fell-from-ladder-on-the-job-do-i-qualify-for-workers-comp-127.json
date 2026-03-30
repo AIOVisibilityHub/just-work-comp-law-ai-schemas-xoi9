@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Fell from ladder on the job, do I qualify for workers comp?",
+  "description": "Yes, if during job duties; report immediately for medical and wage benefits regardless of fault.",
+  "url": "https://justworkcomplaw.com//faq/general-fell-from-ladder-on-the-job-do-i-qualify-for-workers-comp-127",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Fell from ladder on the job, do I qualify for workers comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if during job duties; report immediately for medical and wage benefits regardless of fault.",
+        "description": "**Yes, ladder falls at work are generally compensable under workers' compensation** if they occurred during job duties.\n\nThese are typically 'arising out of employment' since ladders are common work tools. Exceptions apply for idiopathic falls (personal health issues), but courts like Utah's have ruled hard floors can aggravate them.[1]\n\n- Injury must be work-related, not purely personal.\n- No fault needed; benefits cover medical, lost wages.\n- Pre-existing conditions may complicate if not worsened by work.\n\nFile a claim promptly via employer. In Utah/Idaho, commissions review evidence of work contribution.[1][5]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long until I get paid after work ladder fall?",
+  "description": "2-4 weeks for first, then regular.",
+  "url": "https://justworkcomplaw.com//faq/general-how-long-until-i-get-paid-after-work-ladder-fall-141",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long until I get paid after work ladder fall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2-4 weeks for first, then regular.",
+        "description": "**First check 14-30 days; ongoing weekly biweekly during disability.**\n\nUtah/Idaho: TTD starts after 3-day wait, retroactive if over 14.\n\n- Medical paid directly.\n- Delays if disputed.\n- Settlements months later.\n\nPush insurer; attorney speeds."
+      }
+    }
+  ]
+}

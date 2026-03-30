@@ -1,0 +1,22 @@
+{
+  "@type": "Article",
+  "about": {
+    "name": "Workers' Compensation",
+    "@type": "Service"
+  },
+  "genre": "Case Study",
+  "author": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Jane Lands Full Treatment Coverage and Lost Wages After “Workplace” Soccer Injury",
+  "publisher": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "articleBody": "Jane’s manufacturing company sponsored a county recreational soccer team, where employees and their families were encouraged to compete—even letting employees clock out early to train for games.One day, Jane and another player ran into each other at full speed, causing Jane to suffer a head injury that would cause her a number of debilitating symptoms for months afterward—including dizziness, anger issues, and difficulty speaking. Jane had made a workers comp claim for treatment of her post-concussion symptoms, but as you can imagine, the carrier denied her claim because it was not “work-related.” Normally, sporting injuries would not fall under workers compensation coverage. We argued that because Jane’s employer encouraged employees to take part in the league (even making it into part of their marketing campaign) that the injury was indeed work-related. Our firm was able to settle Jane’s case, getting her the lost wages and medical treatment she deserved.\n\nOutcome: Jane received full treatment coverage and lost wages.",
+  "datePublished": "June 25, 2020"
+}

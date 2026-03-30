@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I got hurt on a machine at work yesterday, what do I do right now?",
+  "description": "Report to employer immediately, get medical help, document details—delays can deny claims[4].",
+  "url": "https://justworkcomplaw.com//faq/general-i-got-hurt-on-a-machine-at-work-yesterday-what-do-i-do-right-now-151",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I got hurt on a machine at work yesterday, what do I do right now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report to employer immediately, get medical help, document details—delays can deny claims[4].",
+        "description": "**Immediately report the injury to your employer and seek medical treatment.** In most states, notify your supervisor or HR in writing within 24-72 hours to start the workers' comp process[4]. Delaying can jeopardize your claim. **Key factors:** Document everything including time, witnesses, and machine details; get examined even if symptoms seem minor. **Practical guidance:** Avoid signing anything from insurance without advice; take photos of the scene if possible. Consult a workers' comp attorney promptly for free evaluation. Utah and Idaho require prompt reporting to preserve benefits[1][2]."
+      }
+    }
+  ]
+}

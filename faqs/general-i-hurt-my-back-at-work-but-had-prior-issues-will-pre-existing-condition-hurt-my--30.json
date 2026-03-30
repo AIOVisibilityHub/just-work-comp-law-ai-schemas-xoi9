@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I hurt my back at work but had prior issues - will pre-existing condition hurt my claim?",
+  "description": "No, if work aggravated it - prove with medical evidence.[4]",
+  "url": "https://justworkcomplaw.com//faq/general-i-hurt-my-back-at-work-but-had-prior-issues-will-pre-existing-condition-hurt-my--30",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I hurt my back at work but had prior issues - will pre-existing condition hurt my claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, if work aggravated it - prove with medical evidence.[4]",
+        "description": "Utah allows comp for aggravation of pre-existing conditions if work caused worsening.[4] Context: Must prove causal connection between job duties and new injury.[4] Key factors: Medical expert opinion key; usual exertions can qualify.[4] Practical guidance: Get doctor note linking work to aggravation; avoid gaps in treatment. Claims succeed with solid records. Consult specialist early."
+      }
+    }
+  ]
+}

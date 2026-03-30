@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Pre-existing diabetes worsened by night shifts in Draper—claimable?",
+  "description": "Yes if work substantially aggravated.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-pre-existing-diabetes-worsened-by-night-shifts-in-draper-claimable-268",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Pre-existing diabetes worsened by night shifts in Draper—claimable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes if work substantially aggravated.[3]",
+        "description": "Possibly, if shifts substantially aggravated it beyond normal life risks.[3] Utah compensates work 'lighting up' conditions.[3] Key factors: medical proof of causation, exposure logs. Specialist opinion critical; file emphasizing aggravation. Viable with strong evidence."
+      }
+    }
+  ]
+}

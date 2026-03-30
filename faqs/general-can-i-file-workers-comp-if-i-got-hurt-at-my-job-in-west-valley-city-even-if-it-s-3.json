@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I file workers comp if I got hurt at my job in West Valley City even if it's partly my fault?",
+  "description": "Yes, Utah's no-fault workers' comp covers you even if partly at fault.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-file-workers-comp-if-i-got-hurt-at-my-job-in-west-valley-city-even-if-it-s-3",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I file workers comp if I got hurt at my job in West Valley City even if it's partly my fault?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Utah's no-fault workers' comp covers you even if partly at fault.[2]",
+        "description": "**Yes, Utah workers' compensation is no-fault, covering injuries regardless of your partial responsibility.** It protects employees from proving employer negligence.[2][10] Key factors: Covers medical bills, lost wages, disability; excludes injuries from intoxication or intentional self-harm. Report promptly, seek treatment, file a claim. No-fault system simplifies access but limits lawsuits against employers. Consult an attorney for complex fault issues."
+      }
+    }
+  ]
+}

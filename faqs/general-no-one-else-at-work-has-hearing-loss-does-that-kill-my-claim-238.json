@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No one else at work has hearing loss, does that kill my claim?",
+  "description": "No, personal evidence suffices.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-no-one-else-at-work-has-hearing-loss-does-that-kill-my-claim-238",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No one else at work has hearing loss, does that kill my claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, personal evidence suffices.[1]",
+        "description": "**No, individual susceptibility varies; your claim stands on personal medical proof and exposure.** Not all exposed develop loss equally due to genetics, protection compliance.[1][2] Coworker affidavits help but not required. Focus on your audiograms and dosimetry.[4] Solo claims succeed often."
+      }
+    }
+  ]
+}

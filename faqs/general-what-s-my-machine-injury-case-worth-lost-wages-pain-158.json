@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's my machine injury case worth? Lost wages, pain?",
+  "description": "Medical, 2/3 wages, disability—varies by severity[4].",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-my-machine-injury-case-worth-lost-wages-pain-158",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's my machine injury case worth? Lost wages, pain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical, 2/3 wages, disability—varies by severity[4].",
+        "description": "**Covers medical bills, lost wages (2/3 pay), permanent disability, pain via settlement.** Value varies by injury severity, job pay[4]. **Key factors:** Multipliers for permanency; Utah caps some. **Practical guidance:** Use attorney calculator; don't settle early. Factors like surgery boost value."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is fault decided in respiratory illness workers comp cases?",
+  "description": "No-fault system—benefits if job-caused, no blame needed.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-how-is-fault-decided-in-respiratory-illness-workers-comp-cases-212",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is fault decided in respiratory illness workers comp cases?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No-fault system—benefits if job-caused, no blame needed.[3]",
+        "description": "Workers' comp is **no-fault**—you get benefits regardless of employer negligence, as long as job-related.[1][3]\n\nFault matters only for third-party suits or piercing exclusivity (rare).[3]\n\n**Key factors:**\n- Medical causation\n- Exposure occurrence at work\n- No intentional self-harm\n\n**Practical guidance:** Focus on proof, not blame; lawyer navigates exceptions.\nNo-fault simplifies claims."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much is my broken leg from work worth in Sandy?",
+  "description": "Medical + 66% wages + permanent rating value; lawyer assesses.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-is-my-broken-leg-from-work-worth-in-sandy-84",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much is my broken leg from work worth in Sandy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical + 66% wages + permanent rating value; lawyer assesses.[1]",
+        "description": "Varies by medical costs, lost wages, impairment rating; permanent partial based on stability.[1] No strict caps like some damages.[8] Key factors: Doctor rates impairment; total disability if can't work anywhere.[1] Calculate via benefits formula.[1] Lawyer values accurately.[1]"
+      }
+    }
+  ]
+}

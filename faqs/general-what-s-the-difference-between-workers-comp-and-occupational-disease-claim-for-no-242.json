@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between workers comp and occupational disease claim for noise loss?",
+  "description": "Disease for gradual; same benefits.[6]",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-the-difference-between-workers-comp-and-occupational-disease-claim-for-no-242",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between workers comp and occupational disease claim for noise loss?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Disease for gradual; same benefits.[6]",
+        "description": "**Occupational disease claims cover gradual losses like noise; standard comp for acute incidents.** Utah has specific hearing loss statute under both.[6][2] Same benefits, different proof burdens. Disease needs cumulative exposure link.[1] File under whichever fits."
+      }
+    }
+  ]
+}

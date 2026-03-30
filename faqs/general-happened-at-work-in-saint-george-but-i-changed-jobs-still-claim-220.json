@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Happened at work in Saint George but I changed jobs—still claim?",
+  "description": "Yes—file against last Utah employer.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-happened-at-work-in-saint-george-but-i-changed-jobs-still-claim-220",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Happened at work in Saint George but I changed jobs—still claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—file against last Utah employer.[2]",
+        "description": "**Yes, last injurious exposure** rule attributes to final Utah employer if continuous hazard.[2]\n\nPrior jobs may contribute via second injury fund.[1]\n\n**Key factors:**\n- Disease progression timeline\n- Multiple employer records\n\n**Practical guidance:** Lawyer coordinates multi-employer claims.\nNot barred."
+      }
+    }
+  ]
+}

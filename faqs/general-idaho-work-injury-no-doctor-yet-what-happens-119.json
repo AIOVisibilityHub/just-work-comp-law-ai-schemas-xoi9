@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Idaho work injury—no doctor yet, what happens?",
+  "description": "See work-related doctor immediately.[4]",
+  "url": "https://justworkcomplaw.com//faq/general-idaho-work-injury-no-doctor-yet-what-happens-119",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Idaho work injury—no doctor yet, what happens?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "See work-related doctor immediately.[4]",
+        "description": "Must seek medical ASAP and tell provider work-related for Form 123; delays hurt claim.[4][5] Report employer first within 60 days.[4] Key factors: Prompt care starts process. Practical guidance: Choose authorized doc; get reports. Untreated claims weaken.[5] Benefits cover care.[4]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My claim in Boise Idaho was denied for late reporting—can I fix it?",
+  "description": "Appeal with good cause explanation.[4]",
+  "url": "https://justworkcomplaw.com//faq/general-my-claim-in-boise-idaho-was-denied-for-late-reporting-can-i-fix-it-19",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My claim in Boise Idaho was denied for late reporting—can I fix it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal with good cause explanation.[4]",
+        "description": "**Appeal if within deadlines, providing good cause for delay.** Idaho allows some extensions.[4] Key factors: Document reasons; strong evidence revives. File fast, get lawyer. Many denials overturned with help."
+      }
+    }
+  ]
+}

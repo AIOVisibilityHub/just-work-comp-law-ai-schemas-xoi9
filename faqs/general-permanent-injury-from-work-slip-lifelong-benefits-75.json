@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Permanent injury from work slip—lifelong benefits?",
+  "description": "Yes, PPD + medical for life if proven.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-permanent-injury-from-work-slip-lifelong-benefits-75",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Permanent injury from work slip—lifelong benefits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, PPD + medical for life if proven.[1]",
+        "description": "**Yes, impairment rating gets PPD payments.** Ongoing medical if related.[1] Factors: doc eval, % disability. Can be substantial. Lawyer maximizes."
+      }
+    }
+  ]
+}

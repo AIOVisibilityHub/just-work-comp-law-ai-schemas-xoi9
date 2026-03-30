@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I got hurt by a forklift on the job, do I qualify for workers comp in Ogden?",
+  "description": "Yes, Utah workers' comp covers on-job forklift injuries regardless of fault if reported timely.",
+  "url": "https://justworkcomplaw.com//faq/general-i-got-hurt-by-a-forklift-on-the-job-do-i-qualify-for-workers-comp-in-ogden-277",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I got hurt by a forklift on the job, do I qualify for workers comp in Ogden?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Utah workers' comp covers on-job forklift injuries regardless of fault if reported timely.",
+        "description": "Yes, if the accident happened during your employment duties, Utah workers' comp covers medical bills and lost wages for forklift injuries.[5] Context: These are no-fault systems, meaning your or coworker's fault doesn't bar benefits unless intoxication is proven. Key factors: Must prove injury arose out of and in course of employment; common in warehouses. Practical guidance: Report within 180 days; get all treatment authorized by insurer. Consult an attorney if denied."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No witnesses to my slip at work - claim doomed?",
+  "description": "No, medicals and photos enough.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-no-witnesses-to-my-slip-at-work-claim-doomed-40",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No witnesses to my slip at work - claim doomed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, medicals and photos enough.[3]",
+        "description": "No, medical records and surveillance can suffice.[3] Context: Self-reported ok if consistent with evidence.[3] Key factors: Photos of hazard; prior complaints. Practical guidance: Note details immediately; doctor corroborate story. Many solo claims win. Build circumstantial case."
+      }
+    }
+  ]
+}

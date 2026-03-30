@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's workers comp vs lawsuit for chem exposure at work in Salt Lake City?",
+  "description": "Comp for basics, lawsuit for extras vs non-employers.",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-workers-comp-vs-lawsuit-for-chem-exposure-at-work-in-salt-lake-city-191",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's workers comp vs lawsuit for chem exposure at work in Salt Lake City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp for basics, lawsuit for extras vs non-employers.",
+        "description": "**Workers' comp provides quick no-fault benefits; lawsuits target third parties for higher damages like pain/suffering.** Comp covers bills/wages; suits for negligence beyond employer.[1][6] Key factors: comp first (mandatory), then third-party if viable (e.g., faulty PPE maker). Comp limits employer liability; suits uncapped. Pursue both via experienced counsel."
+      }
+    }
+  ]
+}

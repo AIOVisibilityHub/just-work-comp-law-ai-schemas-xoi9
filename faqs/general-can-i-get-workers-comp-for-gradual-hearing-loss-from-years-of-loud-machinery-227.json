@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get workers comp for gradual hearing loss from years of loud machinery?",
+  "description": "Yes, if medically linked to job noise exposure; get audiogram and file claim.[4]",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-workers-comp-for-gradual-hearing-loss-from-years-of-loud-machinery-227",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get workers comp for gradual hearing loss from years of loud machinery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if medically linked to job noise exposure; get audiogram and file claim.[4]",
+        "description": "**Yes, gradual hearing loss from occupational noise exposure qualifies as a compensable occupational disease in most states including Utah and Idaho.** Prolonged exposure to noise above safe levels without adequate protection entitles you to benefits like medical care and disability pay.[1][2][4] Prove causation with audiograms showing noise-induced patterns, work history of exposure, and expert medical opinions.[2] Employer-provided hearing protection use may reduce but not eliminate claims if noise was harmful.[2] File promptly and gather evidence before symptoms worsen."
+      }
+    }
+  ]
+}

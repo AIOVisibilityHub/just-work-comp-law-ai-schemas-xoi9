@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is fault decided in on-job forklift collision?",
+  "description": "No-fault comp; negligence/OSHA for lawsuits.",
+  "url": "https://justworkcomplaw.com//faq/general-how-is-fault-decided-in-on-job-forklift-collision-289",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is fault decided in on-job forklift collision?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No-fault comp; negligence/OSHA for lawsuits.",
+        "description": "Workers' comp no-fault; third-party via negligence, OSHA standards, witness/expert testimony.[3] Context: Operator training failures common culprit. Key factors: Violation presumptive negligence. Practical guidance: Investigator analyzes; lawyer proves liability. Employer vicarious."
+      }
+    }
+  ]
+}

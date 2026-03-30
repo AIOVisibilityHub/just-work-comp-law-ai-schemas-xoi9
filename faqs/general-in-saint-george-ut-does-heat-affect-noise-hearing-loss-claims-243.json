@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Saint George UT, does heat affect noise hearing loss claims?",
+  "description": "No, standard Utah noise statute applies.[6]",
+  "url": "https://justworkcomplaw.com//faq/general-in-saint-george-ut-does-heat-affect-noise-hearing-loss-claims-243",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Saint George UT, does heat affect noise hearing loss claims?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, standard Utah noise statute applies.[6]",
+        "description": "**No direct impact, but document all conditions; focus on noise proof.** Utah statute applies uniformly; local climate irrelevant to causation.[2][6] Audiograms control. Rural sites may lack surveys; recreate exposure evidence. Statewide rules.[3]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Third party caused my injury at work in Centerville, sue them too?",
+  "description": "Yes, sue third party separately after comp.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-third-party-caused-my-injury-at-work-in-centerville-sue-them-too-89",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Third party caused my injury at work in Centerville, sue them too?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, sue third party separately after comp.[3]",
+        "description": "Yes, workers comp doesn't bar third-party civil suits.[3] Key factors: Comp for employer part; court for others.[3] Preserve evidence.[3] Lawyer coordinates.[3]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have a pre-existing back issue, can I claim new work aggravation in Ogden?",
+  "description": "Yes for work-aggravated pre-existing; prove with medical link.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-i-have-a-pre-existing-back-issue-can-i-claim-new-work-aggravation-in-ogden-111",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have a pre-existing back issue, can I claim new work aggravation in Ogden?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes for work-aggravated pre-existing; prove with medical link.[1]",
+        "description": "Yes if work injury aggravated it; comp covers aggravation of pre-existing conditions if work-related.[1] Doctor must link worsening to job.[2] Key factors: Medical opinion on causation; before/after comparisons. Practical guidance: Get specialist eval; document work exposure. Insurers scrutinize these—use attorney.[1] Aggravation qualifies fully.[2]"
+      }
+    }
+  ]
+}

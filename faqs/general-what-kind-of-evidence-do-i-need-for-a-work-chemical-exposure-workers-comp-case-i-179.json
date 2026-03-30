@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of evidence do I need for a work chemical exposure workers comp case in Boise?",
+  "description": "Medical records, MSDS, coworker statements, and incident reports are essential.",
+  "url": "https://justworkcomplaw.com//faq/general-what-kind-of-evidence-do-i-need-for-a-work-chemical-exposure-workers-comp-case-i-179",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of evidence do I need for a work chemical exposure workers comp case in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical records, MSDS, coworker statements, and incident reports are essential.",
+        "description": "**Collect medical records, exposure logs, coworker testimonies, and workplace safety documents.** In Idaho, workers' comp requires proving the exposure caused your injury via documentation like Material Safety Data Sheets (MSDS) and incident reports.[1][6] Key factors: clear job-related link, timely filing (1 year from injury), and no pre-existing conditions undermining causation. Photograph conditions, save PPE records, and get doctor statements; avoid discussing with insurers without advice. Idaho attorneys specialize in building strong evidence packages."
+      }
+    }
+  ]
+}

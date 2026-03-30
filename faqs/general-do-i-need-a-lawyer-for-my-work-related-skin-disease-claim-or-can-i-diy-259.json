@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer for my work-related skin disease claim or can I DIY?",
+  "description": "Recommended for denials or complex proof; contingency basis.[6]",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-need-a-lawyer-for-my-work-related-skin-disease-claim-or-can-i-diy-259",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer for my work-related skin disease claim or can I DIY?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recommended for denials or complex proof; contingency basis.[6]",
+        "description": "DIY possible for simple claims, but a lawyer boosts success for complex ODA cases with denials or disputes.[6] Utah's system favors represented claimants in appeals involving causation fights.[1][6] Key factors: denial history, pre-existing issues, employer resistance. Handle reporting yourself but hire for hearings; contingency fees make it low-risk. Improves outcomes significantly."
+      }
+    }
+  ]
+}

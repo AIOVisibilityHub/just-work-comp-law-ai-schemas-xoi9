@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How's permanent disability rated for occupational hearing loss in Riverton?",
+  "description": "AMA Guides audiogram percentage.[9]",
+  "url": "https://justworkcomplaw.com//faq/general-how-s-permanent-disability-rated-for-occupational-hearing-loss-in-riverton-274",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How's permanent disability rated for occupational hearing loss in Riverton?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AMA Guides audiogram percentage.[9]",
+        "description": "By AMA Guides via doctor exam, percentage based on audiometric thresholds.[9] Utah uses impairment ratings for ODA benefits.[9] Key factors: binaural loss calculation, functional impact. Get rated post-stabilization; determines lifelong pay. Accurate testing essential."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my boss if they knew about the toxic fumes causing my cancer but did nothing?",
+  "description": "Unlikely due to ODA exclusivity; intentional tort exception unextended to diseases.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-boss-if-they-knew-about-the-toxic-fumes-causing-my-cancer-but-did-n-255",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my boss if they knew about the toxic fumes causing my cancer but did nothing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unlikely due to ODA exclusivity; intentional tort exception unextended to diseases.[1]",
+        "description": "Probably not, as Utah's ODA provides exclusive remedies without a clear intentional tort exception for occupational diseases yet.[1] The Utah Supreme Court remanded a lead poisoning case to check if intentional tort applies to ODA claims, hinting it might not.[1] Key factors: prove employer knew of certain harm and acted intentionally, distinguish ODA from WCA, and overcome exclusivity barriers.[1] Document everything including complaints ignored, but expect workers' comp as primary path; rare suits require strong evidence. Consult for case-specific viability."
+      }
+    }
+  ]
+}

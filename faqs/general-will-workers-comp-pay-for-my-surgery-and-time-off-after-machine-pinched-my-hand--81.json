@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will workers comp pay for my surgery and time off after machine pinched my hand at work?",
+  "description": "Yes, medical and partial lost wages covered; permanent if impaired.[1][4]",
+  "url": "https://justworkcomplaw.com//faq/general-will-workers-comp-pay-for-my-surgery-and-time-off-after-machine-pinched-my-hand--81",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will workers comp pay for my surgery and time off after machine pinched my hand at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, medical and partial lost wages covered; permanent if impaired.[1][4]",
+        "description": "Yes, covers medical care, temporary disability for lost wages (typically 66-75% pay).[1][4] Permanent benefits if lasting impairment.[1] Key factors: Reach medical stability for ratings; employer can't deny legit claims.[1][2] Follow treatment; track missed work.[4] Appeal denials at adjudication.[1]"
+      }
+    }
+  ]
+}

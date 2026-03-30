@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My employer in West Valley City says it's not their fault, now what?",
+  "description": "Ignore—file claim; no-fault covers you.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-my-employer-in-west-valley-city-says-it-s-not-their-fault-now-what-216",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My employer in West Valley City says it's not their fault, now what?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ignore—file claim; no-fault covers you.[3]",
+        "description": "**Proceed with claim anyway**—workers' comp doesn't require fault proof; denial can be appealed.[3]\n\nTheir denial doesn't stop benefits if evidence supports.[1]\n\n**Key factors:**\n- Independent medical exam\n- OSHA violation history\n- Similar case precedents\n\n**Practical guidance:** Lawyer counters defenses effectively.\nFault irrelevant."
+      }
+    }
+  ]
+}

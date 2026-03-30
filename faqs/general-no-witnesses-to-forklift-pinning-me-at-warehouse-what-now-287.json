@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No witnesses to forklift pinning me at warehouse, what now?",
+  "description": "Medical, forklift inspection, logs suffice; lawyer reconstructs.",
+  "url": "https://justworkcomplaw.com//faq/general-no-witnesses-to-forklift-pinning-me-at-warehouse-what-now-287",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No witnesses to forklift pinning me at warehouse, what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical, forklift inspection, logs suffice; lawyer reconstructs.",
+        "description": "Use medical records, forklift damage, coworker logs, video; circumstantial evidence works.[5] Context: Solo incidents common. Key factors: Timestamped logs, expert reconstruction. Practical guidance: Attorney subpoenas records; builds case without eyes. Viable claims."
+      }
+    }
+  ]
+}

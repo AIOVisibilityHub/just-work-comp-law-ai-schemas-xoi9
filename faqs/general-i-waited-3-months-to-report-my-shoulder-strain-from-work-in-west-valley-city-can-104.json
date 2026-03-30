@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I waited 3 months to report my shoulder strain from work in West Valley City, can I still get comp?",
+  "description": "Yes in Utah up to 180 days, but report ASAP to avoid denial risks.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-i-waited-3-months-to-report-my-shoulder-strain-from-work-in-west-valley-city-can-104",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I waited 3 months to report my shoulder strain from work in West Valley City, can I still get comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes in Utah up to 180 days, but report ASAP to avoid denial risks.[1]",
+        "description": "Utah allows 180 days to report without barring your claim, so yes if within that window.[1][2] Delays can lead to insurer doubts or denials, so promptness helps.[1] Key factors: Document why delayed (e.g., symptoms worsened); provide strong evidence like medical records. Insurer has 21-45 days to decide.[2] Practical guidance: Report now in writing; see doctor immediately and link to work. Appeal denials quickly via Labor Commission. Early reporting strengthens validity.[1]"
+      }
+    }
+  ]
+}

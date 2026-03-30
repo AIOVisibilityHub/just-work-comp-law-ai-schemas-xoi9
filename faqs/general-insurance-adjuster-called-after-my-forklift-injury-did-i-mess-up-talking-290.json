@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Insurance adjuster called after my forklift injury, did I mess up talking?",
+  "description": "Yes, risky; lawyer handles adjusters from now.",
+  "url": "https://justworkcomplaw.com//faq/general-insurance-adjuster-called-after-my-forklift-injury-did-i-mess-up-talking-290",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Insurance adjuster called after my forklift injury, did I mess up talking?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, risky; lawyer handles adjusters from now.",
+        "description": "Possibly; statements used against you for lowball or denial.[5] Context: They probe for fault. Key factors: Recorded calls admissible. Practical guidance: Stop talking, refer to attorney; polite hangup fine. Get advice first."
+      }
+    }
+  ]
+}

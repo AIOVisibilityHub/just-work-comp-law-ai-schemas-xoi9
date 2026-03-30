@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long to hear back on my Utah work comp claim?",
+  "description": "21 days standard, up to 45.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-how-long-to-hear-back-on-my-utah-work-comp-claim-116",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long to hear back on my Utah work comp claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "21 days standard, up to 45.[2]",
+        "description": "Insurer must decide within 21 days of reports, or 45 with extension request.[1][2] Delays possible but appealable. Key factors: Complete employer/doctor reports. Practical guidance: Follow up after 21 days; call Division if needed. Quick reports speed it.[2] Benefits start if accepted.[1]"
+      }
+    }
+  ]
+}

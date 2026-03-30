@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How's fault decided in Utah work injury cases?",
+  "description": "No-fault system if job-related.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-how-s-fault-decided-in-utah-work-injury-cases-90",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How's fault decided in Utah work injury cases?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No-fault system if job-related.[1]",
+        "description": "Workers comp is no-fault; covers if work-related regardless.[1] Key factors: Prove arose from employment.[1] Insurer investigates.[1] Disputes at adjudication.[1]"
+      }
+    }
+  ]
+}

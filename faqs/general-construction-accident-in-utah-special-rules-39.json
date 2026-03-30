@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Construction accident in Utah - special rules?",
+  "description": "Workers comp primary; sue third parties.[5]",
+  "url": "https://justworkcomplaw.com//faq/general-construction-accident-in-utah-special-rules-39",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Construction accident in Utah - special rules?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers comp primary; sue third parties.[5]",
+        "description": "Standard workers comp applies; third-party suits common for equipment fails.[5] Context: High risk jobs get full medical/lost wages.[5] Key factors: OSHA reports help; scaffold laws strict. Practical guidance: Report to OSHA too; preserve gear photos. Lawyer handles complexity. Benefits generous for severe cases."
+      }
+    }
+  ]
+}

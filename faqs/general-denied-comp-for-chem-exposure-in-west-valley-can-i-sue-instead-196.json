@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Denied comp for chem exposure in West Valley—can I sue instead?",
+  "description": "Appeal comp; sue third parties only.",
+  "url": "https://justworkcomplaw.com//faq/general-denied-comp-for-chem-exposure-in-west-valley-can-i-sue-instead-196",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Denied comp for chem exposure in West Valley—can I sue instead?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal comp; sue third parties only.",
+        "description": "**No, workers' comp exclusivity blocks employer suits; appeal comp or target third parties.** Utah law mandates comp route first.[6] Key factors: exhaust appeals, identify non-immune defendants. Dual track possible; win comp then sue others. Lawyer strategizes both."
+      }
+    }
+  ]
+}

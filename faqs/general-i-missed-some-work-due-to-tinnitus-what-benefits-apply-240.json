@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I missed some work due to tinnitus, what benefits apply?",
+  "description": "TTD for lost wages during recovery.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-i-missed-some-work-due-to-tinnitus-what-benefits-apply-240",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I missed some work due to tinnitus, what benefits apply?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TTD for lost wages during recovery.[1]",
+        "description": "**Temporary total disability (TTD) pays 2/3 wages while unable to work, plus medical for treatment.** Requires doctor excuse linking to noise exposure.[1][4] PPI follows recovery. Track all days off. Insurers scrutinize; solid proof needed.[2] Combine with permanent awards."
+      }
+    }
+  ]
+}

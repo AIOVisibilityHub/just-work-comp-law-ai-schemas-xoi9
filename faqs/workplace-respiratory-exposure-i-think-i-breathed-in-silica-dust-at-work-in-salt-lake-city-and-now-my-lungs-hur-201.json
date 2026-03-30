@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I think I breathed in silica dust at work in Salt Lake City and now my lungs hurt, what do I do first?",
+  "description": "Seek medical care now, notify employer in writing, and consult a Utah workers' comp lawyer to file a claim before insurance contacts you.[2]",
+  "url": "https://justworkcomplaw.com//faq/workplace-respiratory-exposure-i-think-i-breathed-in-silica-dust-at-work-in-salt-lake-city-and-now-my-lungs-hur-201",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I think I breathed in silica dust at work in Salt Lake City and now my lungs hurt, what do I do first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seek medical care now, notify employer in writing, and consult a Utah workers' comp lawyer to file a claim before insurance contacts you.[2]",
+        "description": "**Immediately seek medical attention** to document your symptoms and get tested for respiratory issues like silicosis. Notify your employer in writing about the exposure and symptoms to start a workers' compensation claim. Preserve any evidence like work logs or photos of dust conditions.[2][1]\n\nWorkplace respiratory exposure often falls under workers' comp in Utah, covering medical costs and lost wages if linked to job duties. Employers must provide ventilation and PPE, and failure can strengthen claims.[1][2]\n\n**Key factors:**\n- Medical diagnosis confirming exposure-related illness\n- Proof of inadequate safety measures (e.g., no respirators)\n- Timely reporting within Utah's 1-year statute for occupational diseases\n- Exposure duration and intensity\n\n**Practical guidance:** Get a lawyer experienced in Utah workers' comp before talking to insurance adjusters; they can file Form 5A quickly. Avoid signing anything without review. Track all doctor visits and bills.\nThis protects your health and rights under Utah law."
+      }
+    }
+  ]
+}

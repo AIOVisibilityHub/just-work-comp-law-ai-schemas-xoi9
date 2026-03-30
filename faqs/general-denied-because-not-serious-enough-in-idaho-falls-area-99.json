@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Denied because 'not serious enough' in Idaho Falls area?",
+  "description": "Wrong—appeal; minor still covered.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-denied-because-not-serious-enough-in-idaho-falls-area-99",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Denied because 'not serious enough' in Idaho Falls area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wrong—appeal; minor still covered.[3]",
+        "description": "Appeal; all work injuries qualify if reported timely.[3] Key factors: Covers medical regardless.[3] Evidence overrides.[3] Get help.[3]"
+      }
+    }
+  ]
+}

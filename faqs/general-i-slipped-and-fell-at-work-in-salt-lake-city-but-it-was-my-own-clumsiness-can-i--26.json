@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I slipped and fell at work in Salt Lake City but it was my own clumsiness - can I still get workers comp?",
+  "description": "Yes in Utah if workplace like hard floor made injuries worse, even if fall was idiopathic.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-i-slipped-and-fell-at-work-in-salt-lake-city-but-it-was-my-own-clumsiness-can-i--26",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I slipped and fell at work in Salt Lake City but it was my own clumsiness - can I still get workers comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes in Utah if workplace like hard floor made injuries worse, even if fall was idiopathic.[3]",
+        "description": "Idiopathic falls at work in Utah may be compensable if workplace conditions like a hard floor worsened the injury.[3] Context: Utah courts require showing that work increased the risk or aggravated the harm from a personal fall.[3] Key factors: Prove the fall originated internally but job site made injuries worse; no need for employer fault.[3][4] Practical guidance: Document medical records linking floor hardness to injury severity; file claim promptly with Utah Labor Commission. Consult a workers comp attorney to build causation evidence. Utah law favors compensability if employment contributed.[3]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How's fault decided in my Utah work comp claim?",
+  "description": "No-fault system ignores fault.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-how-s-fault-decided-in-my-utah-work-comp-claim-125",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How's fault decided in my Utah work comp claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No-fault system ignores fault.[1]",
+        "description": "No fault determination needed—it's no-fault for work injuries, covering you regardless.[1][2] Key factors: Only if work-related. Practical guidance: Avoid fault talks with insurer; report facts. Simplifies vs. lawsuits.[1] Benefits flow faster.[2]"
+      }
+    }
+  ]
+}

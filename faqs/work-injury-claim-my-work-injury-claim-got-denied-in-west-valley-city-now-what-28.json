@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My work injury claim got denied in West Valley City - now what?",
+  "description": "Appeal to Labor Commission within 20 days with stronger evidence.[2]",
+  "url": "https://justworkcomplaw.com//faq/work-injury-claim-my-work-injury-claim-got-denied-in-west-valley-city-now-what-28",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My work injury claim got denied in West Valley City - now what?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal to Labor Commission within 20 days with stronger evidence.[2]",
+        "description": "Appeal to Utah Labor Commission within 20 days of denial notice.[2] Context: Denials often due to causation disputes or scope of employment issues.[2][3] Key factors: Gather more medical evidence; idiopathic falls need proof of work aggravation.[3] Practical guidance: File appeal form online; consider attorney for hearing prep. Many denials overturned with better proof. Act fast as deadlines strict."
+      }
+    }
+  ]
+}

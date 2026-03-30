@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Claim denied because no witnesses to my chemical exposure in Taylorsville?",
+  "description": "Medical/job records enough; appeal denial.[9]",
+  "url": "https://justworkcomplaw.com//faq/general-claim-denied-because-no-witnesses-to-my-chemical-exposure-in-taylorsville-264",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Claim denied because no witnesses to my chemical exposure in Taylorsville?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical/job records enough; appeal denial.[9]",
+        "description": "Witnesses help but not required; medical records and job logs suffice for causation.[9] Utah ODA relies on objective evidence over testimony.[1] Key factors: exposure documentation, doctor reports, safety data. Appeal with alternatives like manifests or co-worker statements later. Denials overturned routinely."
+      }
+    }
+  ]
+}

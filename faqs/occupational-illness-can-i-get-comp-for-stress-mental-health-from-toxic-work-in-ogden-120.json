@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get comp for stress/mental health from toxic work in Ogden?",
+  "description": "Unlikely without physical injury; prove work causation.[1]",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-can-i-get-comp-for-stress-mental-health-from-toxic-work-in-ogden-120",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get comp for stress/mental health from toxic work in Ogden?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unlikely without physical injury; prove work causation.[1]",
+        "description": "Rarely; Utah requires physical injury first or extreme conditions; mental-only claims hard.[1] Occupational illnesses covered if proven.[1] Key factors: Doctor diagnosis tied to work; no pre-existing. Practical guidance: Document incidents; psych eval. Consult attorney—success low without physical.[2] Focus on provable links.[1]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Multiple jobs caused my hearing loss, which claim to file?",
+  "description": "Last noisy job employer.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-multiple-jobs-caused-my-hearing-loss-which-claim-to-file-247",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Multiple jobs caused my hearing loss, which claim to file?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Last noisy job employer.[1]",
+        "description": "**File against last injurious exposure employer under Utah/Idaho 'last exposure' rule.** Proves successive causation; prior bars don't apply.[1][2] Apportion if needed. Document all histories for doctors. Current employer liable.[6]"
+      }
+    }
+  ]
+}

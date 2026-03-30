@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Workers comp vs suing for slip at work in Boise—which is better?",
+  "description": "Comp for sure benefits; sue third party for extras if possible.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-workers-comp-vs-suing-for-slip-at-work-in-boise-which-is-better-60",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Workers comp vs suing for slip at work in Boise—which is better?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp for sure benefits; sue third party for extras if possible.[1]",
+        "description": "**Workers' comp is faster, no-fault benefits; suing only viable against third parties for fuller damages.** Comp lacks pain/suffering; suits risk loss if fault >50%.[1][6] Comp: guaranteed medical/wages; suit: higher potential but 2-year limit. Most choose comp first. Lawyer evaluates both paths."
+      }
+    }
+  ]
+}

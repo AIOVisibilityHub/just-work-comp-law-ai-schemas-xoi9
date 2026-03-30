@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Estimate my case worth: twisted ankle, 2 weeks off work?",
+  "description": "$10-25K for mild; doc records key.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-estimate-my-case-worth-twisted-ankle-2-weeks-off-work-70",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Estimate my case worth: twisted ankle, 2 weeks off work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$10-25K for mild; doc records key.[2]",
+        "description": "**$10K-$25K typically: wages + medical.** More if surgery/PT.[2] Factors: bills, wage loss, impairment rating. Third-party adds pain damages. Free eval needed."
+      }
+    }
+  ]
+}

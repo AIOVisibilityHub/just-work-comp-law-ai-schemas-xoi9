@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What proof do I need for my back injury claim at my Murray job?",
+  "description": "Medical reports, employer incident form, wages, witnesses.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-what-proof-do-i-need-for-my-back-injury-claim-at-my-murray-job-9",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proof do I need for my back injury claim at my Murray job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical reports, employer incident form, wages, witnesses.[1]",
+        "description": "**Medical records, incident report, witness statements, and wage documentation.** Explain to doctors how/when/where it happened for Form 123.[1] Key factors: Photos, supervisor notes strengthen cases; pre-existing issues need aggravation proof. Report immediately, follow treatment, collect employer forms. Solid evidence prevents denials."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have a pre-existing knee problem that flared up at work in Ogden—can I claim?",
+  "description": "Yes, if work aggravated it—get medical proof.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-i-have-a-pre-existing-knee-problem-that-flared-up-at-work-in-ogden-can-i-claim-11",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have a pre-existing knee problem that flared up at work in Ogden—can I claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if work aggravated it—get medical proof.[2]",
+        "description": "**Yes, if work aggravated it, Utah covers aggravation of pre-existing conditions.** Prove work caused worsening.[2] Key factors: Medical opinion key; not just natural progression. Get specialist eval, document incident. Aggravation claims succeed with strong doctor support."
+      }
+    }
+  ]
+}

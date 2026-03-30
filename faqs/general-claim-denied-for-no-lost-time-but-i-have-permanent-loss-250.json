@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Claim denied for no lost time, but I have permanent loss?",
+  "description": "PPI doesn't need lost time.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-claim-denied-for-no-lost-time-but-i-have-permanent-loss-250",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Claim denied for no lost time, but I have permanent loss?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PPI doesn't need lost time.[1]",
+        "description": "**PPI payable without lost time; only need rated impairment from work noise.** TTD requires absence; PPI scheduled regardless.[1][2] Commissions erred if denied solely on this. Appeal citing statutes.[1] Doctor rating unlocks benefits."
+      }
+    }
+  ]
+}

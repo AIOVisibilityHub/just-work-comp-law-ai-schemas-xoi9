@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I was partly at fault for slipping at work in Saint George, still get paid?",
+  "description": "Yes for comp; reduced if suing third party under 50% fault.[1][5]",
+  "url": "https://justworkcomplaw.com//faq/general-i-was-partly-at-fault-for-slipping-at-work-in-saint-george-still-get-paid-58",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I was partly at fault for slipping at work in Saint George, still get paid?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes for comp; reduced if suing third party under 50% fault.[1][5]",
+        "description": "**Yes, workers' comp pays regardless of your fault.** Utah/Idaho exclusivity ignores partial blame for employer claims.[1][5] Third-party suits use comparative negligence: recover if under 50% at fault, reduced proportionally. Admit nothing initially. Document hazard prominence. Lawyer assesses split fault accurately."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Talked to insurance adjuster already after injury, did I mess up my Utah claim?",
+  "description": "Maybe if incriminating; get lawyer, proceed with report.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-talked-to-insurance-adjuster-already-after-injury-did-i-mess-up-my-utah-claim-113",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Talked to insurance adjuster already after injury, did I mess up my Utah claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maybe if incriminating; get lawyer, proceed with report.[1]",
+        "description": "Possibly if you admitted fault or downplayed; statements can be used against you.[1] But claim still viable if reported timely.[2] Key factors: Recorded details; what was said. Practical guidance: Get claim number; stop talking without lawyer. Review any recordings. Attorney protects from adjuster tactics.[1] Report proceeds regardless.[2]"
+      }
+    }
+  ]
+}

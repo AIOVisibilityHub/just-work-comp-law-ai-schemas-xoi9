@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Office chair broke causing my back pain in Cottonwood Heights, who pays?",
+  "description": "Comp covers; sue maker if faulty.[6]",
+  "url": "https://justworkcomplaw.com//faq/general-office-chair-broke-causing-my-back-pain-in-cottonwood-heights-who-pays-98",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Office chair broke causing my back pain in Cottonwood Heights, who pays?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp covers; sue maker if faulty.[6]",
+        "description": "Workers comp primary; third-party suit if defective.[6][3] Key factors: Prove work link.[1] Lawyer checks liability.[6]"
+      }
+    }
+  ]
+}

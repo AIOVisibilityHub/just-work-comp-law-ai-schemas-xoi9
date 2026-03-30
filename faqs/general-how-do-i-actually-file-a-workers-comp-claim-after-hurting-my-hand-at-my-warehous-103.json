@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I actually file a workers comp claim after hurting my hand at my warehouse job?",
+  "description": "Report to employer, see doctor (say work-related), they file reports; insurer decides soon after.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-actually-file-a-workers-comp-claim-after-hurting-my-hand-at-my-warehous-103",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I actually file a workers comp claim after hurting my hand at my warehouse job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report to employer, see doctor (say work-related), they file reports; insurer decides soon after.[2]",
+        "description": "Notify employer immediately, get medical treatment and tell the doctor it's work-related; employer and doctor file First Reports to insurer.[1][2] Insurer decides within 21 days (extendable).[2] In Utah, this starts your no-fault claim for medical and lost wages.[1] Key factors: Provide incident details; employer reports in 7 days; get Form 100 rights notice. Multiple jobs? Disclose for wage calc.[2] Practical guidance: Request report copies; don't miss follow-ups. If issues, contact Industrial Accidents Division at (801) 530-6800.[2] Filing promptly secures benefits faster.[3]"
+      }
+    }
+  ]
+}

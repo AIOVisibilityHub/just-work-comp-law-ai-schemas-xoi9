@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No video or witnesses to my kitchen slip at work—claim doomed?",
+  "description": "No, docs + statement enough for comp.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-no-video-or-witnesses-to-my-kitchen-slip-at-work-claim-doomed-64",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No video or witnesses to my kitchen slip at work—claim doomed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, docs + statement enough for comp.[1]",
+        "description": "**No, your testimony, photos, maintenance logs prove it.** Comp doesn't need witnesses; hazard history sways.[1] Request employer records via lawyer. Consistent medical story key. Many win without video."
+      }
+    }
+  ]
+}

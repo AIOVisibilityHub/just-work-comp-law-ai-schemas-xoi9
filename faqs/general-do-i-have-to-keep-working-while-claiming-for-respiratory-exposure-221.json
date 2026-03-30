@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I have to keep working while claiming for respiratory exposure?",
+  "description": "No—benefits replace wages if unable.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-have-to-keep-working-while-claiming-for-respiratory-exposure-221",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I have to keep working while claiming for respiratory exposure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No—benefits replace wages if unable.[1]",
+        "description": "**No, if medically restricted**—light duty or total benefits apply; refusal of suitable work reduces pay.[1]\n\nEmployer must accommodate.[2]\n\n**Key factors:**\n- Doctor's work limits\n- Available positions\n\n**Practical guidance:** Follow medical advice; document offers.\nProtected leave options."
+      }
+    }
+  ]
+}

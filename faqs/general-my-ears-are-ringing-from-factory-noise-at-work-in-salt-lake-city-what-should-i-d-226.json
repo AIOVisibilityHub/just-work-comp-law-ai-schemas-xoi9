@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My ears are ringing from factory noise at work in Salt Lake City, what should I do first?",
+  "description": "See a doctor for audiogram, notify employer in writing, document everything immediately.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-my-ears-are-ringing-from-factory-noise-at-work-in-salt-lake-city-what-should-i-d-226",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My ears are ringing from factory noise at work in Salt Lake City, what should I do first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "See a doctor for audiogram, notify employer in writing, document everything immediately.[2]",
+        "description": "**Immediately see a doctor for an audiogram and notify your employer in writing.** In Utah, workplace hearing loss from harmful industrial noise is compensable under workers' compensation if linked to job exposure.[2][6] Key factors include documenting noise levels over 90 decibels, your use of provided protection, and medical proof of causation.[1][2] Get all records, file a claim promptly within statutory limits (typically 1-3 years), and avoid signing insurer statements without advice. Consult a workers' comp specialist to protect your rights.[3]"
+      }
+    }
+  ]
+}

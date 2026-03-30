@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My comp claim got denied in Riverton, what now?",
+  "description": "Appeal via conference/hearing; lawyer helps overturn.[1][3]",
+  "url": "https://justworkcomplaw.com//faq/general-my-comp-claim-got-denied-in-riverton-what-now-87",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My comp claim got denied in Riverton, what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal via conference/hearing; lawyer helps overturn.[1][3]",
+        "description": "Request hearing or Claims Resolution Conference in Utah; appeal to commission in Idaho.[1][3] Key factors: Prove compensable via evidence.[3] Don't miss deadlines.[1] Get lawyer for disputes.[3]"
+      }
+    }
+  ]
+}

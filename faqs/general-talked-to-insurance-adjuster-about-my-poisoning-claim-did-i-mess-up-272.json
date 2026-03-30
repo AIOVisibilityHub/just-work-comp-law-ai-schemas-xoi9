@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Talked to insurance adjuster about my poisoning claim—did I mess up?",
+  "description": "Potentially; stop talking, get lawyer.[6]",
+  "url": "https://justworkcomplaw.com//faq/general-talked-to-insurance-adjuster-about-my-poisoning-claim-did-i-mess-up-272",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Talked to insurance adjuster about my poisoning claim—did I mess up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Potentially; stop talking, get lawyer.[6]",
+        "description": "Possibly, if you admitted non-work causes; statements can be used against you.[6] Adjusters seek denial ammo in ODA claims.[1] Key factors: recorded inconsistencies, lack of lawyer. Review what was said, get claim status, cease solo talks. Lawyer protects now."
+      }
+    }
+  ]
+}

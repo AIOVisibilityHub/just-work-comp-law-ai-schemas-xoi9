@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Partially my fault in work accident - still get benefits?",
+  "description": "Yes, no-fault for workers comp.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-partially-my-fault-in-work-accident-still-get-benefits-43",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Partially my fault in work accident - still get benefits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, no-fault for workers comp.[2]",
+        "description": "Yes, workers comp no-fault system covers regardless.[2] Context: Fault irrelevant for employer claim.[2] Key factors: Work-relatedness only. Practical guidance: Don't volunteer blame; focus on injury proof. Full benefits apply. Third-party comparative fault matters.[1]"
+      }
+    }
+  ]
+}

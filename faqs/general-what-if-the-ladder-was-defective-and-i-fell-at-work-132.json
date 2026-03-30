@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if the ladder was defective and I fell at work?",
+  "description": "Comp for basics, sue maker for extras if defective.",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-the-ladder-was-defective-and-i-fell-at-work-132",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if the ladder was defective and I fell at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp for basics, sue maker for extras if defective.",
+        "description": "**Workers' comp covers treatment first; sue ladder manufacturer separately if defect proven.**\n\nComp is no-fault; third-party product liability possible beyond comp limits.[8]\n\n- Inspect for manufacturing flaws, poor maintenance.\n- OSHA requires proper ladders.[7]\n- Expert analysis needed.\n\nFile comp claim immediately, then explore lawsuit. Consult attorney for dual claims."
+      }
+    }
+  ]
+}

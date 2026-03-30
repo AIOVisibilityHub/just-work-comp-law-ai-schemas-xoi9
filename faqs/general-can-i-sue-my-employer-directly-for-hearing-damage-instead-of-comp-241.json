@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my employer directly for hearing damage instead of comp?",
+  "description": "No, use workers' comp unless intentional.[5]",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-employer-directly-for-hearing-damage-instead-of-comp-241",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my employer directly for hearing damage instead of comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, use workers' comp unless intentional.[5]",
+        "description": "**Generally no, workers' comp is exclusive remedy barring gross negligence or intentional acts.** Third-party suits ok for faulty gear suppliers.[5] Utah/Idaho limit employer suits.[2][1] Exceptions rare like no protection despite known risks. Comp faster, no-fault.[3]"
+      }
+    }
+  ]
+}

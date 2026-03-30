@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Multiple employers, how wages calculated for comp in Utah?",
+  "description": "All concurrent job wages combined.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-multiple-employers-how-wages-calculated-for-comp-in-utah-118",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Multiple employers, how wages calculated for comp in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All concurrent job wages combined.[2]",
+        "description": "Insurer uses all wages from concurrent jobs at injury time for benefit rate.[2] Disclose fully. Key factors: Pay stubs from all; verify averages. Practical guidance: Provide employment history; track stubs. Higher base means better temporary disability pay.[2] Maximizes benefits.[1]"
+      }
+    }
+  ]
+}

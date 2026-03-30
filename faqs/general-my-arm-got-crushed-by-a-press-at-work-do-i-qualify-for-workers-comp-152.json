@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My arm got crushed by a press at work, do I qualify for workers comp?",
+  "description": "Yes, machine injuries at work during duties qualify for workers comp[1][4].",
+  "url": "https://justworkcomplaw.com//faq/general-my-arm-got-crushed-by-a-press-at-work-do-i-qualify-for-workers-comp-152",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My arm got crushed by a press at work, do I qualify for workers comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, machine injuries at work during duties qualify for workers comp[1][4].",
+        "description": "**Yes, if the injury happened during job duties on company time.** Workers' comp covers machine accidents arising out of employment, even routine tasks[1][4]. Pre-existing issues don't disqualify if work aggravated them. **Key factors:** Must be reported timely; employer can't retaliate. **Practical guidance:** File claim via employer; track medical records. Get legal help if denied. This applies nationwide including Utah[1]."
+      }
+    }
+  ]
+}

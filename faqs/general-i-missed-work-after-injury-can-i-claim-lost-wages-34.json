@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I missed work after injury - can I claim lost wages?",
+  "description": "Yes, 2/3 of wages via workers comp.[6]",
+  "url": "https://justworkcomplaw.com//faq/general-i-missed-work-after-injury-can-i-claim-lost-wages-34",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I missed work after injury - can I claim lost wages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, 2/3 of wages via workers comp.[6]",
+        "description": "Yes, workers comp reimburses lost wages at 2/3 rate during recovery.[6] Context: Covers full or part-time; self-employed too if documented.[6] Key factors: Doctor release needed; temporary total disability rate applies. Practical guidance: Submit pay stubs; track missed shifts. Employer can't fire for claiming. File even short absences."
+      }
+    }
+  ]
+}

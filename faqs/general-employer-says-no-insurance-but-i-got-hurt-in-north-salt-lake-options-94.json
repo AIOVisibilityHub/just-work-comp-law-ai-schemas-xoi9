@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Employer says no insurance but I got hurt in North Salt Lake, options?",
+  "description": "Call commission; file claim anyway.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-employer-says-no-insurance-but-i-got-hurt-in-north-salt-lake-options-94",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Employer says no insurance but I got hurt in North Salt Lake, options?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Call commission; file claim anyway.[3]",
+        "description": "Contact commission; they may cover or sue employer.[3] Key factors: Most required to insure.[2] File yourself.[3] Lawyer pursues.[3]"
+      }
+    }
+  ]
+}

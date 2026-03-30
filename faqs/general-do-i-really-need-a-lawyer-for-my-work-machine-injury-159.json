@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I really need a lawyer for my work machine injury?",
+  "description": "Yes, boosts payout, handles denials—no fee unless win[4].",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-really-need-a-lawyer-for-my-work-machine-injury-159",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I really need a lawyer for my work machine injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, boosts payout, handles denials—no fee unless win[4].",
+        "description": "**Yes, to maximize benefits and fight denials.** Insurers lowball; attorneys get 20-30% more on average[4]. Free consults common. **Key factors:** Complex third-parties, denials. **Practical guidance:** Hire early; no upfront fees. Essential in Utah for causation fights[1]."
+      }
+    }
+  ]
+}

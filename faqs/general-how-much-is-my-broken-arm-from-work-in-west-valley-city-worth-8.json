@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much is my broken arm from work in West Valley City worth?",
+  "description": "Medical + 2/3 wages + disability; get a lawyer evaluation.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-is-my-broken-arm-from-work-in-west-valley-city-worth-8",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much is my broken arm from work in West Valley City worth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical + 2/3 wages + disability; get a lawyer evaluation.[2]",
+        "description": "**Value depends on medical costs, lost wages, and disability duration—typically 66-2/3% of wages plus medical.** Utah caps permanent partial disability.[2] Key factors: No precise formula; factors include injury severity, job impact. Document bills and pay stubs, get impairment rating. Consult for accurate estimate based on your specifics."
+      }
+    }
+  ]
+}

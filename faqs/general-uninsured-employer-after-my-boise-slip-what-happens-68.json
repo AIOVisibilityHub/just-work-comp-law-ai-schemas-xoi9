@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Uninsured employer after my Boise slip—what happens?",
+  "description": "State fund covers you; boss gets penalized.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-uninsured-employer-after-my-boise-slip-what-happens-68",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Uninsured employer after my Boise slip—what happens?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "State fund covers you; boss gets penalized.[1]",
+        "description": "**Idaho penalizes uninsured; you claim from state compensation fund.** Benefits same; employer fined.[1] Report to Industrial Commission. Lawyer enforces rare but serious violation."
+      }
+    }
+  ]
+}

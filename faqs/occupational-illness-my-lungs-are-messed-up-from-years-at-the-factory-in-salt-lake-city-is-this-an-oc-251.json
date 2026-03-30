@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My lungs are messed up from years at the factory in Salt Lake City, is this an occupational illness I can claim workers comp for?",
+  "description": "Yes, lung issues from factory exposure in Utah qualify under the ODA if linked to work; file promptly with medical proof.[1][9]",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-my-lungs-are-messed-up-from-years-at-the-factory-in-salt-lake-city-is-this-an-oc-251",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My lungs are messed up from years at the factory in Salt Lake City, is this an occupational illness I can claim workers comp for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lung issues from factory exposure in Utah qualify under the ODA if linked to work; file promptly with medical proof.[1][9]",
+        "description": "Yes, if your lung condition like lead poisoning or other diseases directly resulted from workplace exposure, it qualifies as an occupational illness under Utah's Occupational Disease Act (ODA).[1][9] Utah separates occupational diseases from regular injuries, treating them under the ODA which provides exclusive remedies distinct from the Workers' Compensation Act (WCA).[1] Key factors include proving the illness arose from work conditions, such as handling scrap lead, and not a pre-existing condition unrelated to employment.[1][3] Report to your employer immediately, gather medical records linking exposure to symptoms, and file with the Utah Labor Commission within deadlines; consult a specialist if denied.[6] Acting quickly preserves your benefits like medical care and wage replacement."
+      }
+    }
+  ]
+}

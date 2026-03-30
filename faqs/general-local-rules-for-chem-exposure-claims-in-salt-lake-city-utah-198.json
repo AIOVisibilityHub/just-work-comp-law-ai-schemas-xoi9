@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Local rules for chem exposure claims in Salt Lake City Utah?",
+  "description": "File via Utah Labor Commission portal, 180-day notice.",
+  "url": "https://justworkcomplaw.com//faq/general-local-rules-for-chem-exposure-claims-in-salt-lake-city-utah-198",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Local rules for chem exposure claims in Salt Lake City Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "File via Utah Labor Commission portal, 180-day notice.",
+        "description": "**Utah Labor Commission handles via online portal; hearings in SLC for northern cases.** Strict 180-day notice.[6] Key factors: Form 12 filing, ALJ decisions appealable to court. Regional differences minimal; Boise follows Idaho Industrial Commission. Local firms know nuances."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's max time off workers comp pays in Provo?",
+  "description": "Til recovery or permanent award.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-max-time-off-workers-comp-pays-in-provo-100",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's max time off workers comp pays in Provo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Til recovery or permanent award.[1]",
+        "description": "Temporary til stable; then permanent or total.[1] Key factors: 66% wages cap; rehab option.[2] No fixed max.[1] Lawyer maximizes.[1]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Ogden UT, how long until I get my first workers comp check?",
+  "description": "2-4 weeks post-approval.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-in-ogden-ut-how-long-until-i-get-my-first-workers-comp-check-23",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Ogden UT, how long until I get my first workers comp check?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2-4 weeks post-approval.[1]",
+        "description": "**Typically 14-30 days after approval, but delays common.** Insurer reports in 14 days.[1] Key factors: Disability starts post-3 days; medical first. Follow up aggressively. Lawyer speeds process."
+      }
+    }
+  ]
+}

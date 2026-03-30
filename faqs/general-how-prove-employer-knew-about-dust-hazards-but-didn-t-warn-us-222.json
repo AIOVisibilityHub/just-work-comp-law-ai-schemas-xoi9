@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How prove employer knew about dust hazards but didn't warn us?",
+  "description": "Prior complaints, OSHA records, internal docs.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-how-prove-employer-knew-about-dust-hazards-but-didn-t-warn-us-222",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How prove employer knew about dust hazards but didn't warn us?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prior complaints, OSHA records, internal docs.[1]",
+        "description": "**OSHA citations, emails, or prior complaints** show knowledge; safety meetings prove failure to warn.[1][2]\n\nCoworker testimony key.[6]\n\n**Key factors:**\n- Internal memos\n- Violation history\n- Training records gaps\n\n**Practical guidance:** Subpoena via lawyer; FOIA OSHA files.\nKnowledge strengthens."
+      }
+    }
+  ]
+}

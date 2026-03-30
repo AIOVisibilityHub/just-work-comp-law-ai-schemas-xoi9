@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much is my workplace hearing loss case worth?",
+  "description": "$20K+ based on audiogram % loss and state schedules.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-is-my-workplace-hearing-loss-case-worth-234",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much is my workplace hearing loss case worth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$20K+ based on audiogram % loss and state schedules.[1]",
+        "description": "**Value depends on impairment rating (5-50%+), lost wages, and medical costs; averages $20K-$100K+ for moderate bilateral loss.** PPI pays per percentage via state schedules; Utah/Idaho factor age and binaural loss.[1][2] Add TTD if off work, future care. Expert ratings determine amounts; lawyers negotiate higher. Document all impacts."
+      }
+    }
+  ]
+}

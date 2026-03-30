@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What common mistakes derail workplace lung exposure claims?",
+  "description": "Delay, no docs, solo insurer talks—get lawyer.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-what-common-mistakes-derail-workplace-lung-exposure-claims-224",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What common mistakes derail workplace lung exposure claims?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Delay, no docs, solo insurer talks—get lawyer.[2]",
+        "description": "**Delaying medical care, missing deadlines, talking to adjusters alone**, or not documenting exposure.[2]\n\nAssuming no case without accident.[1]\n\n**Key factors:**\n- Poor records\n- Signing releases early\n- Ignoring appeals\n\n**Practical guidance:** Lawyer from day 1; track everything.\nAvoid these pitfalls."
+      }
+    }
+  ]
+}

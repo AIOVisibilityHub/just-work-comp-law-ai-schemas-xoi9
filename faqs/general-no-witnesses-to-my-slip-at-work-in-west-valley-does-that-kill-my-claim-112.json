@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No witnesses to my slip at work in West Valley, does that kill my claim?",
+  "description": "No, use medical/docs/your account instead.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-no-witnesses-to-my-slip-at-work-in-west-valley-does-that-kill-my-claim-112",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No witnesses to my slip at work in West Valley, does that kill my claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, use medical/docs/your account instead.[1]",
+        "description": "No, medical records, your detailed account, photos, and incident reports suffice; witnesses help but not required.[1][2] Prompt reporting aids credibility.[1] Key factors: Consistent story; doctor notes matching description. Practical guidance: Take photos immediately; log details. Many claims succeed without witnesses.[2] Build case with records.[1]"
+      }
+    }
+  ]
+}

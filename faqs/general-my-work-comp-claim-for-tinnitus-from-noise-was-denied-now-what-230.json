@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My work comp claim for tinnitus from noise was denied, now what?",
+  "description": "Appeal immediately with better medical proof; get a lawyer.[5]",
+  "url": "https://justworkcomplaw.com//faq/general-my-work-comp-claim-for-tinnitus-from-noise-was-denied-now-what-230",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My work comp claim for tinnitus from noise was denied, now what?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal immediately with better medical proof; get a lawyer.[5]",
+        "description": "**Appeal the denial within 20 days in Utah or per Idaho timelines by requesting Labor Commission review.** Common denial reasons include failure to prove causation or deeming loss age-related; rebut with independent medical exams.[1][2] Gather stronger evidence like new audiologist reports. Deadlines are strict, so act fast. Legal help boosts success rates on appeal.[4]"
+      }
+    }
+  ]
+}

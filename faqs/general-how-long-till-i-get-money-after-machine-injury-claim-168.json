@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long till I get money after machine injury claim?",
+  "description": "Weeks for first pay, months for settlement[4].",
+  "url": "https://justworkcomplaw.com//faq/general-how-long-till-i-get-money-after-machine-injury-claim-168",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long till I get money after machine injury claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Weeks for first pay, months for settlement[4].",
+        "description": "**First check in 2-4 weeks; full settlement 6-18 months.** Depends on injury, disputes[4]. **Key factors:** Medical stability. **Practical guidance:** Advance pay possible; push insurer. Utah process via commission[1]."
+      }
+    }
+  ]
+}

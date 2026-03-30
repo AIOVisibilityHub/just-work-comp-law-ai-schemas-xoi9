@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Boss is mad I filed for my repetitive strain illness—can they fire me?",
+  "description": "Protected by law; retaliation illegal.[9]",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-boss-is-mad-i-filed-for-my-repetitive-strain-illness-can-they-fire-me-261",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Boss is mad I filed for my repetitive strain illness—can they fire me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Protected by law; retaliation illegal.[9]",
+        "description": "No, Utah protects against retaliation for valid workers' comp or ODA claims.[9] Filing occupational illness triggers anti-retaliation safeguards. Key factors: prove temporal link between filing and adverse action, document threats. Report to Labor Commission, keep records; wrongful termination suits possible. Your job is protected during claims."
+      }
+    }
+  ]
+}

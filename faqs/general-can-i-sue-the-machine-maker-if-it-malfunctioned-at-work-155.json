@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue the machine maker if it malfunctioned at work?",
+  "description": "Yes, third-party suit against manufacturer possible alongside comp[2][4].",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-the-machine-maker-if-it-malfunctioned-at-work-155",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue the machine maker if it malfunctioned at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, third-party suit against manufacturer possible alongside comp[2][4].",
+        "description": "**Yes, via third-party claim beyond workers comp if manufacturer negligent.** Workers comp is exclusive vs employer, but sue equipment makers for defects[2][4]. Idaho allows if not employer[2]. **Key factors:** Prove fault; 2-year limit in Idaho. **Practical guidance:** Notify attorney fast; comp pays first, sue for more. Common in construction/machinery cases."
+      }
+    }
+  ]
+}

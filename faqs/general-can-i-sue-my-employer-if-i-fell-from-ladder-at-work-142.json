@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my employer if I fell from ladder at work?",
+  "description": "No, use comp system instead.",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-employer-if-i-fell-from-ladder-at-work-142",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my employer if I fell from ladder at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, use comp system instead.",
+        "description": "**No, workers' comp is exclusive remedy against employer; no lawsuits.**\n\nSuits only for gross negligence (rare) or third parties like ladder maker.[8]\n\n- Comp limits employer liability.\n- Intentional harm exception.\n- UT/ID strict.\n\nFocus on comp; explore others separately."
+      }
+    }
+  ]
+}

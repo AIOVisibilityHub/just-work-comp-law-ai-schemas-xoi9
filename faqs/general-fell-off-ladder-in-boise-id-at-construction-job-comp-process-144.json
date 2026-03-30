@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Fell off ladder in Boise ID at construction job, comp process?",
+  "description": "Report now, file Form 1 with ID Commission.",
+  "url": "https://justworkcomplaw.com//faq/general-fell-off-ladder-in-boise-id-at-construction-job-comp-process-144",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Fell off ladder in Boise ID at construction job, comp process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report now, file Form 1 with ID Commission.",
+        "description": "**Report to employer, file with Idaho Industrial Commission within 1 year.**\n\nNo-fault; covers falls from height. Local rules emphasize prompt notice.\n\n- Form 1 submission.\n- Hearing if disputed.[5]\n- Pre-existing ok if aggravated.\n\nAttorney advised for Boise filings."
+      }
+    }
+  ]
+}

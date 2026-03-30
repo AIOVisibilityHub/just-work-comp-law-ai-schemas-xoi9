@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My claim says loss is age-related not work, how to fight?",
+  "description": "Get noise-specific audiogram pattern proof.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-my-claim-says-loss-is-age-related-not-work-how-to-fight-244",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My claim says loss is age-related not work, how to fight?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Get noise-specific audiogram pattern proof.[1]",
+        "description": "**Counter with audiologist report showing noise-pattern (high-frequency notch) inconsistent with presbycusis.** Independent medical exam (IME) often rebuts.[1][2] Age 50-60 common; prove acceleration. Expert testimony sways commissions.[1] Appeal with new evidence."
+      }
+    }
+  ]
+}

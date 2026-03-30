@@ -1,0 +1,22 @@
+{
+  "@type": "Article",
+  "about": {
+    "name": "Workers' Compensation",
+    "@type": "Service"
+  },
+  "genre": "Case Study",
+  "author": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Blinded By Workplace Horseplay, Juan Gets Lost Wages, Medical Expenses and More",
+  "publisher": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "articleBody": "Juan worked at a company that assembled tractor trailers. He and his young coworkers would sometimes horse around by shooting each other with small pieces of putty from the end of an air hose used in the construction of these trailers. Unfortunately, one day Juan turned around at the wrong time.\n\nOutcome: Juan received lost wages and medical expenses.",
+  "datePublished": "June 25, 2020"
+}

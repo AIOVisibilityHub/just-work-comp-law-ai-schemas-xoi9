@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My employer says the ladder fall was my fault, can they deny comp?",
+  "description": "No, comp is no-fault regardless of your role.",
+  "url": "https://justworkcomplaw.com//faq/general-my-employer-says-the-ladder-fall-was-my-fault-can-they-deny-comp-134",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My employer says the ladder fall was my fault, can they deny comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, comp is no-fault regardless of your role.",
+        "description": "**No, workers' comp is no-fault; your negligence doesn't bar benefits.**\n\nCoverage if on job; employer can't deny for 'fault'. Disputes go to commission.[1]\n\n- Fault affects third-party suits only.\n- Prove work-related.\n- Avoid signing fault admissions.\n\nAppeal denials; Utah/Idaho favor employees on arising-out-of claims."
+      }
+    }
+  ]
+}

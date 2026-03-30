@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I hurt my shoulder working construction in Boise Idaho—does workers comp cover me here?",
+  "description": "Yes, Idaho workers' comp covers on-the-job injuries; report immediately.[4]",
+  "url": "https://justworkcomplaw.com//faq/general-i-hurt-my-shoulder-working-construction-in-boise-idaho-does-workers-comp-cover-m-4",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I hurt my shoulder working construction in Boise Idaho—does workers comp cover me here?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Idaho workers' comp covers on-the-job injuries; report immediately.[4]",
+        "description": "**Yes, if injured on the job in Idaho, you're eligible for workers' compensation benefits through your employer's insurance.** Covers medical care and wage replacement without proving fault.[4] Key factors: Report immediately; employer handles insurer filing; third-party negligence may allow extra claims. Seek medical attention, document everything, avoid signing away rights. Idaho follows similar no-fault rules to Utah—get local advice promptly."
+      }
+    }
+  ]
+}

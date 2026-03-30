@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Multiple injuries from one work accident - all covered?",
+  "description": "Yes, all work-related injuries.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-multiple-injuries-from-one-work-accident-all-covered-47",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Multiple injuries from one work accident - all covered?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, all work-related injuries.[3]",
+        "description": "Yes, all arising from incident compensable.[3] Context: List all in claim; medical for each.[4] Key factors: Related causation proof. Practical guidance: Detail symptoms to doctor; update claim. No limit if work-linked. Maximize with full eval."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What proof do I need if I slipped on a wet floor at work with no witnesses?",
+  "description": "Photos, report, medical docs—even without witnesses, comp covers you.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-what-proof-do-i-need-if-i-slipped-on-a-wet-floor-at-work-with-no-witnesses-56",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proof do I need if I slipped on a wet floor at work with no witnesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Photos, report, medical docs—even without witnesses, comp covers you.[2]",
+        "description": "**Photos of the hazard, incident report, medical records, and your detailed statement suffice initially.** Security footage or coworker recollections strengthen it; workers' comp doesn't require fault proof.[1][2] Timestamp everything and note prior complaints about the area. If denied, expert testimony on unsafe conditions helps. Preserve shoes/clothes if relevant. A lawyer gathers and presents evidence effectively."
+      }
+    }
+  ]
+}

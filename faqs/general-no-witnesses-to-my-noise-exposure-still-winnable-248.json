@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No witnesses to my noise exposure, still winnable?",
+  "description": "Yes, via records and tests.[4]",
+  "url": "https://justworkcomplaw.com//faq/general-no-witnesses-to-my-noise-exposure-still-winnable-248",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No witnesses to my noise exposure, still winnable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, via records and tests.[4]",
+        "description": "**Yes, medical tests and records suffice; witnesses helpful but not essential.** Job descriptions, machinery logs prove exposure.[4] Dosimetry or surveys reconstruct. Self-alone claims approved.[2] Focus on objective evidence."
+      }
+    }
+  ]
+}

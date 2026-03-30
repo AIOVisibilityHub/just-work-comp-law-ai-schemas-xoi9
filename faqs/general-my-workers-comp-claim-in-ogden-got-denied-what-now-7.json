@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My workers comp claim in Ogden got denied—what now?",
+  "description": "Appeal via Claims Resolution Conference in Utah.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-my-workers-comp-claim-in-ogden-got-denied-what-now-7",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My workers comp claim in Ogden got denied—what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal via Claims Resolution Conference in Utah.[1]",
+        "description": "**Request a Claims Resolution Conference or file for a hearing with Utah's Industrial Accidents Division.** This resolves disputes without full litigation.[1] Key factors: Common denial reasons include late reporting or pre-existing conditions; gather medical evidence. Appeal within deadlines, avoid insurer traps. A specialist can navigate this effectively."
+      }
+    }
+  ]
+}

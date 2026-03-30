@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much money can I get for slipping at work and missing weeks of pay?",
+  "description": "66-75% wages + medical; $20K+ possible—depends on injury proof.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-money-can-i-get-for-slipping-at-work-and-missing-weeks-of-pay-55",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much money can I get for slipping at work and missing weeks of pay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "66-75% wages + medical; $20K+ possible—depends on injury proof.[1]",
+        "description": "**Workers' comp typically covers 66-75% of lost wages, medical bills, and disability benefits—no cap on medical.** Value depends on injury severity, like back surgery or permanent impairment.[1][2] No pain/suffering in comp, but third-party suits allow more. Factors: pre-injury wage, recovery time, future care. Settlements average $20K-$50K for moderate cases. Use a calculator or attorney for estimate based on your records."
+      }
+    }
+  ]
+}

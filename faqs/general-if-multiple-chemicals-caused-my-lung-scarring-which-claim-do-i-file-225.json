@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If multiple chemicals caused my lung scarring, which claim do I file?",
+  "description": "Single cumulative occupational disease claim.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-if-multiple-chemicals-caused-my-lung-scarring-which-claim-do-i-file-225",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If multiple chemicals caused my lung scarring, which claim do I file?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Single cumulative occupational disease claim.[2]",
+        "description": "**Cumulative injury claim** under workers' comp for all exposures; specify primary hazards like silica/diacetyl.[2][4]\n\nOne filing covers totality.[1]\n\n**Key factors:**\n- Combined medical causation\n- All employer periods\n\n**Practical guidance:** Toxicologist report links them; lawyer unifies.\nHolistic approach wins."
+      }
+    }
+  ]
+}

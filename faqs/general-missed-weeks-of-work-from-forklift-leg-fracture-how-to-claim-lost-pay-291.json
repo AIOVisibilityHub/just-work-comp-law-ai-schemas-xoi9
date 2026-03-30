@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Missed weeks of work from forklift leg fracture, how to claim lost pay?",
+  "description": "Comp covers 66% lost wages; submit pay proof.",
+  "url": "https://justworkcomplaw.com//faq/general-missed-weeks-of-work-from-forklift-leg-fracture-how-to-claim-lost-pay-291",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Missed weeks of work from forklift leg fracture, how to claim lost pay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp covers 66% lost wages; submit pay proof.",
+        "description": "Workers' comp pays 66-75% wages from day 8; file Form 100 with proof.[5] Context: Temporary total disability standard. Key factors: Pay stubs verify. Practical guidance: Attorney speeds approval; tracks all losses. Includes training."
+      }
+    }
+  ]
+}

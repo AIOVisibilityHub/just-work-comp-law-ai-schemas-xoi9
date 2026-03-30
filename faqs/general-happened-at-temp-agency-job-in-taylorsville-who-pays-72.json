@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Happened at temp agency job in Taylorsville—who pays?",
+  "description": "Agency or host comp—file both.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-happened-at-temp-agency-job-in-taylorsville-who-pays-72",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Happened at temp agency job in Taylorsville—who pays?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Agency or host comp—file both.[2]",
+        "description": "**Host employer or agency's comp insurance.** File with both; one primary.[2] Lawyer IDs correct carrier, avoids gaps."
+      }
+    }
+  ]
+}

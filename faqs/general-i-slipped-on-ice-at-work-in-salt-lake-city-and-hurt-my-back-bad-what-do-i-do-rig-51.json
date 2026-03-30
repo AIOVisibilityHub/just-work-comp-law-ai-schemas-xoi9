@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I slipped on ice at work in Salt Lake City and hurt my back bad, what do I do right now?",
+  "description": "Report to employer immediately, get medical help, take photos, and call a workers' comp lawyer—Utah requires prompt notice for claims.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-i-slipped-on-ice-at-work-in-salt-lake-city-and-hurt-my-back-bad-what-do-i-do-rig-51",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I slipped on ice at work in Salt Lake City and hurt my back bad, what do I do right now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report to employer immediately, get medical help, take photos, and call a workers' comp lawyer—Utah requires prompt notice for claims.[1]",
+        "description": "**Immediately report the injury to your employer and seek medical attention.** In Utah workplaces, workers' compensation covers slip-and-fall injuries regardless of fault, but you must notify your employer promptly to preserve your claim.[1][2] Key factors include documenting the scene with photos, getting witness statements, and avoiding any admission of fault to HR. Follow up with a doctor's visit for a full evaluation, as delayed symptoms can complicate claims. Consult a workers' comp attorney to file properly and avoid denials. This ensures you get medical bills paid and lost wages."
+      }
+    }
+  ]
+}

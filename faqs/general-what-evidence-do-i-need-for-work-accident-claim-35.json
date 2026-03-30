@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need for work accident claim?",
+  "description": "Medicals, reports, photos, witnesses.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-what-evidence-do-i-need-for-work-accident-claim-35",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need for work accident claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medicals, reports, photos, witnesses.[2]",
+        "description": "Medical records, witness statements, incident reports, photos.[2] Context: Proves arising out of employment and causation.[4] Key factors: Timely employer notice; doctor links injury to work.[3] Practical guidance: Collect immediately; video unsafe conditions. Strengthen idiopathic claims with floor risk proof. Lawyer organizes submission."
+      }
+    }
+  ]
+}

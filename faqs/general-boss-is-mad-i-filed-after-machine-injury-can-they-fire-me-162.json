@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Boss is mad I filed after machine injury—can they fire me?",
+  "description": "Retaliation illegal—document and report[1].",
+  "url": "https://justworkcomplaw.com//faq/general-boss-is-mad-i-filed-after-machine-injury-can-they-fire-me-162",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Boss is mad I filed after machine injury—can they fire me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Retaliation illegal—document and report[1].",
+        "description": "**No, retaliation illegal in most states including Utah/Idaho.** Protected for comp claims[1]. **Key factors:** Prove timing link. **Practical guidance:** Document threats; file complaint if fired. Lawyer protects rights."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No witnesses to my machine accident at work—still get comp?",
+  "description": "Yes, medicals and reports enough[4].",
+  "url": "https://justworkcomplaw.com//faq/general-no-witnesses-to-my-machine-accident-at-work-still-get-comp-163",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No witnesses to my machine accident at work—still get comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, medicals and reports enough[4].",
+        "description": "**Yes, your report, medicals, and scene evidence suffice.** Circumstantial proof works[4]. **Key factors:** Consistent story key. **Practical guidance:** Photo machine, note supervisor response. Attorney builds case."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the time limit to report slip and fall at my job in Boise?",
+  "description": "ID: 60 days max, UT: 180 days—report now to protect your claim.[1][4]",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-the-time-limit-to-report-slip-and-fall-at-my-job-in-boise-54",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the time limit to report slip and fall at my job in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ID: 60 days max, UT: 180 days—report now to protect your claim.[1][4]",
+        "description": "**Report immediately, but Idaho requires notification within 60 days of injury.** Delays can lead to disputes over work-relatedness, risking claim denial.[1] Utah has a 180-day rule for workers' comp, but sooner preserves evidence. Statute for third-party suits is 2 years in ID, 4 in UT.[4][6] Act fast to avoid complications from faded memories or cleaned hazards. Document and consult a lawyer promptly."
+      }
+    }
+  ]
+}

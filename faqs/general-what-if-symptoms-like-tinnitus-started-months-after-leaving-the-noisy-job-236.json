@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if symptoms like tinnitus started months after leaving the noisy job?",
+  "description": "Still claimable if proven from past work noise.[4]",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-symptoms-like-tinnitus-started-months-after-leaving-the-noisy-job-236",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if symptoms like tinnitus started months after leaving the noisy job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Still claimable if proven from past work noise.[4]",
+        "description": "**Delayed symptoms don't bar claims if medically tied to prior exposure; file within discovery statute.** Cumulative noise effects emerge gradually; link via work history and tests.[4] Utah recognizes occupational diseases without strict accident dates.[6] Document all jobs and get causal nexus opinion. Time limits run from awareness.[2]"
+      }
+    }
+  ]
+}

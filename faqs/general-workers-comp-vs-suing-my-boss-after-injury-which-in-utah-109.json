@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Workers comp vs suing my boss after injury, which in Utah?",
+  "description": "File workers' comp (no-fault, covers basics); suing employer rare.[1][6]",
+  "url": "https://justworkcomplaw.com//faq/general-workers-comp-vs-suing-my-boss-after-injury-which-in-utah-109",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Workers comp vs suing my boss after injury, which in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "File workers' comp (no-fault, covers basics); suing employer rare.[1][6]",
+        "description": "Workers' comp is primary no-fault path for medical/wages; suing employer barred unless gross negligence (rare).[1][6] Third-party suits possible if others at fault.[4] Key factors: Prove negligence for suit (hard); comp faster/surer. Practical guidance: File comp first; explore third-party if applicable. Comp exclusive remedy usually.[6] Choose comp for most cases.[1]"
+      }
+    }
+  ]
+}

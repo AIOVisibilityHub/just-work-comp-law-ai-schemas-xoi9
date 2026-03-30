@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How's fault decided in occupational disease claims since no one's 'at fault'?",
+  "description": "No-fault; work causation suffices.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-how-s-fault-decided-in-occupational-disease-claims-since-no-one-s-at-fault-262",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How's fault decided in occupational disease claims since no one's 'at fault'?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No-fault; work causation suffices.[1]",
+        "description": "No-fault system; compensable if work caused or aggravated the illness, regardless of blame.[1][3] ODA focuses on exposure causation, not negligence.[1] Key factors: substantial work risk increase, medical nexus. Employer negligence irrelevant unless intentional tort proven rarely.[1] Benefits flow from proof alone."
+      }
+    }
+  ]
+}

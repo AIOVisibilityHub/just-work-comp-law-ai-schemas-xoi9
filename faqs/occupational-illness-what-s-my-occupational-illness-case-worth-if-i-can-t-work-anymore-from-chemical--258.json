@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's my occupational illness case worth if I can't work anymore from chemical exposure?",
+  "description": "Lost wages, medicals, disability rating—often $50K+ for permanent cases.[9]",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-what-s-my-occupational-illness-case-worth-if-i-can-t-work-anymore-from-chemical--258",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's my occupational illness case worth if I can't work anymore from chemical exposure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lost wages, medicals, disability rating—often $50K+ for permanent cases.[9]",
+        "description": "Value depends on medical costs, lost wages (up to 312 weeks at 2/3 rate), permanent disability rating, and pain.[9] Utah caps partial disability but totals can reach six figures for severe cases like lead poisoning.[1] Key factors: impairment percentage from doctor, future care needs, age, and wage history. Calculate using Labor Commission guidelines, factor settlements; many exceed $100K with strong proof. Get a rating evaluation early."
+      }
+    }
+  ]
+}

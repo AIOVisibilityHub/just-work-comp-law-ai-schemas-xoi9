@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I switch doctors for my work injury in Millcreek?",
+  "description": "Usually after first visit; request via insurer.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-switch-doctors-for-my-work-injury-in-millcreek-95",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I switch doctors for my work injury in Millcreek?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Usually after first visit; request via insurer.[1]",
+        "description": "Often yes after initial; check rights form.[1] Key factors: For better treatment; insurer approves.[1] Document need.[1] Lawyer advises.[1]"
+      }
+    }
+  ]
+}

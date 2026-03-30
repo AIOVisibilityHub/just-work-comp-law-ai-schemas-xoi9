@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's permanent partial disability pay like in Boise?",
+  "description": "Impairment-rated pay after stable.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-permanent-partial-disability-pay-like-in-boise-92",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's permanent partial disability pay like in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Impairment-rated pay after stable.[1]",
+        "description": "Paid post-stability per impairment rating by authorized doctor.[1] Key factors: For lasting effects not total disablement.[1] Covers impairment loss.[1] Appeal rating if unfair.[1]"
+      }
+    }
+  ]
+}

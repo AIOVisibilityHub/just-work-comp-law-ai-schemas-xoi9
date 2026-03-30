@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I work with ethylene oxide at sterilization plant in West Valley—covered by workers comp?",
+  "description": "Yes, file workers' comp for EtO-related health issues.",
+  "url": "https://justworkcomplaw.com//faq/general-i-work-with-ethylene-oxide-at-sterilization-plant-in-west-valley-covered-by-work-186",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I work with ethylene oxide at sterilization plant in West Valley—covered by workers comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, file workers' comp for EtO-related health issues.",
+        "description": "**Yes, EtO exposure qualifies as occupational injury under workers' comp in Utah.** EtO is a known carcinogen; claims cover related cancers/illnesses if work-linked.[1][2][3] Key factors: 1+ year exposure, medical diagnosis (e.g., lymphoma), monitoring data. Collect air samples, training records; third-party suits possible vs. manufacturers. Specialized lawyers handle EtO multidistrict litigation alongside comp."
+      }
+    }
+  ]
+}

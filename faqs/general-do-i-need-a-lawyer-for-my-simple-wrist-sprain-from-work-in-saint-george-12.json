@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer for my simple wrist sprain from work in Saint George?",
+  "description": "Maybe not for simple, but yes if denied.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-need-a-lawyer-for-my-simple-wrist-sprain-from-work-in-saint-george-12",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer for my simple wrist sprain from work in Saint George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maybe not for simple, but yes if denied.[1]",
+        "description": "**Not always for simple cases, but recommended if denied or complex.** Utah Division offers info, not representation.[1] Key factors: Insurers minimize payouts; lawyers boost settlements. Free consults common, no win no fee. For disputes, expertise maximizes benefits."
+      }
+    }
+  ]
+}

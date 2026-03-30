@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Injured on job by coworker driving company car - sue employer?",
+  "description": "Yes via vicarious liability if work-related.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-injured-on-job-by-coworker-driving-company-car-sue-employer-37",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Injured on job by coworker driving company car - sue employer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes via vicarious liability if work-related.[1]",
+        "description": "Vicarious liability if within scope of employment in Utah.[1] Context: Employer liable for employee negligence during duties.[1] Key factors: Course/scope proof via logs, schedules.[1] Practical guidance: Workers comp first, then third-party if extra damages. Evidence key. Consult for dual claims."
+      }
+    }
+  ]
+}

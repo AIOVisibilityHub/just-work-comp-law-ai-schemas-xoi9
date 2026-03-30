@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have pre-existing hearing issues, can I still claim new work-related loss?",
+  "description": "Yes, for aggravation portion with medical proof.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-i-have-pre-existing-hearing-issues-can-i-still-claim-new-work-related-loss-235",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have pre-existing hearing issues, can I still claim new work-related loss?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, for aggravation portion with medical proof.[1]",
+        "description": "**Yes, you can claim aggravation or new loss superimposed on pre-existing conditions if work noise substantially contributed.** Apportionment applies; only work-related portion compensable in Idaho per §72-406.[1] Need comparative audiograms and doctor opinions isolating job impact.[2] Common in long-career workers; prove acceleration.[1] Medical experts key."
+      }
+    }
+  ]
+}

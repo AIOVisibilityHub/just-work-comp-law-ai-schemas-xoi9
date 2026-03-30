@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Fell from ladder in Salt Lake City at work, next steps?",
+  "description": "Report today, file UT claim, get lawyer.",
+  "url": "https://justworkcomplaw.com//faq/general-fell-from-ladder-in-salt-lake-city-at-work-next-steps-135",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Fell from ladder in Salt Lake City at work, next steps?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report today, file UT claim, get lawyer.",
+        "description": "**Seek medical care and report to employer immediately; file with Utah Labor Commission.**\n\nUtah law requires notice within 180 days, but prompt action key. Local firms handle comp efficiently.\n\n- Document site per OSHA.[7]\n- Covers medical, TTD benefits.\n- Recent Ackley case aids claims.[1]\n\nContact attorney familiar with SLC processes before insurer talks."
+      }
+    }
+  ]
+}

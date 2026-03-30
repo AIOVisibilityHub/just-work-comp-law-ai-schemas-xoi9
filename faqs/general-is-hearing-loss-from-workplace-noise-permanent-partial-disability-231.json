@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is hearing loss from workplace noise permanent partial disability?",
+  "description": "Yes, PPI based on audiogram impairment rating.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-is-hearing-loss-from-workplace-noise-permanent-partial-disability-231",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is hearing loss from workplace noise permanent partial disability?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, PPI based on audiogram impairment rating.[1]",
+        "description": "**Yes, noise-induced hearing loss often qualifies for permanent partial impairment (PPI) benefits based on audiometric ratings.** Utah and Idaho compensate using AMA Guides for percentage loss, covering medical care and wage replacement.[1][2] Ratings consider binaural impairment; even mild loss pays if proven occupational.[1] No lost time needed for PPI. Ratings drive payout amounts."
+      }
+    }
+  ]
+}

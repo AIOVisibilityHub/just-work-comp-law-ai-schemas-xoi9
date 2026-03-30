@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My claim involves both injury and disease from same exposure—how to file?",
+  "description": "File under ODA for disease; exclusive paths.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-my-claim-involves-both-injury-and-disease-from-same-exposure-how-to-file-270",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My claim involves both injury and disease from same exposure—how to file?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "File under ODA for disease; exclusive paths.[1]",
+        "description": "Classify under ODA if disease-dominant; WCA/ODA mutually exclusive.[1] Utah courts determine based on facts like lead poisoning.[1] Key factors: primary cause analysis, medical classification. Seek ruling if disputed; dual filing risks denial. Accurate categorization key."
+      }
+    }
+  ]
+}

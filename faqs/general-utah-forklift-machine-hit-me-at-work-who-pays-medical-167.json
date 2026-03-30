@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Utah forklift machine hit me at work—who pays medical?",
+  "description": "Workers comp pays medical bills fully[4].",
+  "url": "https://justworkcomplaw.com//faq/general-utah-forklift-machine-hit-me-at-work-who-pays-medical-167",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Utah forklift machine hit me at work—who pays medical?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers comp pays medical bills fully[4].",
+        "description": "**Workers comp covers 100% medical if work-related.** No deductibles[1][4]. **Key factors:** Authorized providers. **Practical guidance:** Go to ER if needed; bill employer insurer. Lawyer ensures full coverage."
+      }
+    }
+  ]
+}

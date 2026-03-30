@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss is pressuring me not to file after I got hurt in Taylorsville, is that legal?",
+  "description": "Illegal—Utah bans retaliation; document and report claim.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-is-pressuring-me-not-to-file-after-i-got-hurt-in-taylorsville-is-that-le-83",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss is pressuring me not to file after I got hurt in Taylorsville, is that legal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Illegal—Utah bans retaliation; document and report claim.[1]",
+        "description": "No, Utah law prohibits retaliation or interference with claims; fines up to $5,000.[1] Report anyway.[1] Key factors: Can't fire solely for filing if able to work; ADA may protect if disabled.[2] Document threats; report to Labor Commission.[1] Lawyer prevents coercion.[1]"
+      }
+    }
+  ]
+}

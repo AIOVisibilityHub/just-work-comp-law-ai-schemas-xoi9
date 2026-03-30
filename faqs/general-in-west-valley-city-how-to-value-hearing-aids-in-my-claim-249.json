@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In West Valley City, how to value hearing aids in my claim?",
+  "description": "As medical; prove necessity.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-in-west-valley-city-how-to-value-hearing-aids-in-my-claim-249",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In West Valley City, how to value hearing aids in my claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "As medical; prove necessity.[3]",
+        "description": "**Include full cost of prescription aids, fittings, batteries as medical benefits.** Impairment rating factors device needs into PPI.[1][3] Utah comp covers occupational aids. Receipts and quotes required. Future replacements too.[4]"
+      }
+    }
+  ]
+}

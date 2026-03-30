@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss is mad I filed hearing loss claim, can they fire me?",
+  "description": "Illegal; file retaliation complaint.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-is-mad-i-filed-hearing-loss-claim-can-they-fire-me-237",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss is mad I filed hearing loss claim, can they fire me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Illegal; file retaliation complaint.[3]",
+        "description": "**No, retaliation for workers' comp filing violates laws in Utah and Idaho; protected activity.** Document threats; file retaliation charge with Labor Commission.[3] Seek unemployment if terminated. Courts award backpay, reinstatement. Report immediately to preserve rights.[4] Common in high-risk industries."
+      }
+    }
+  ]
+}

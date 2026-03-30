@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my boss if I was exposed to toxic chemicals at work in Ogden?",
+  "description": "File workers' comp, not a lawsuit against employer—it's exclusive remedy in Utah.",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-boss-if-i-was-exposed-to-toxic-chemicals-at-work-in-ogden-177",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my boss if I was exposed to toxic chemicals at work in Ogden?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "File workers' comp, not a lawsuit against employer—it's exclusive remedy in Utah.",
+        "description": "**No, you generally cannot sue your employer directly; instead, file a workers' compensation claim which provides no-fault benefits.** In Utah, workers' comp is the exclusive remedy for job-related injuries including chemical exposure, covering medical bills and disability without proving negligence.[1][6] Exceptions exist for intentional harm or third-party negligence (e.g., equipment manufacturer). Key factors: exposure must be work-related, documented medically, and claimed timely. Gather employment records, medical reports, and exposure logs; if a third party is involved, a lawyer can pursue additional claims. Utah workers' comp attorneys can guide you without upfront costs."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need to prove my work caused my hearing loss?",
+  "description": "Audiograms, noise logs, medical opinions proving job causation.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-what-evidence-do-i-need-to-prove-my-work-caused-my-hearing-loss-229",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need to prove my work caused my hearing loss?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Audiograms, noise logs, medical opinions proving job causation.[1]",
+        "description": "**Medical audiograms, work exposure records, and expert testimony linking loss to job noise are essential.** Noise-induced hearing loss shows specific high-frequency patterns on tests, distinguishing from age-related loss.[1][2] Collect employer noise surveys, protection logs, coworker statements, and pre/post-job hearing tests. Lack of protection strengthens cases.[4] Preserve all documents before they disappear."
+      }
+    }
+  ]
+}

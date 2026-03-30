@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my employer fires me after I file a work injury claim in Boise?",
+  "description": "Illegal retaliation; file claim anyway, pursue wrongful termination separately.[4]",
+  "url": "https://justworkcomplaw.com//faq/work-injury-claim-what-if-my-employer-fires-me-after-i-file-a-work-injury-claim-in-boise-107",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my employer fires me after I file a work injury claim in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Illegal retaliation; file claim anyway, pursue wrongful termination separately.[4]",
+        "description": "Workers' comp is no-fault and retaliation illegal, but Idaho doesn't require job holding post-injury; sue for wrongful termination separately if proven.[4][5] Report injury within 60 days to preserve rights.[4] Key factors: Timing of firing vs. claim; performance records pre-injury. Key factors: Document communications.[5] Practical guidance: File comp claim first, then consult employment lawyer. Idaho Industrial Commission handles disputes.[4] Protect records to fight retaliation claims.[9]"
+      }
+    }
+  ]
+}

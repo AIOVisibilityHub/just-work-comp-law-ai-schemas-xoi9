@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What proof do I need for a respiratory exposure claim at my factory job?",
+  "description": "Medical diagnosis, work records, exposure proof, and negligence evidence.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-what-proof-do-i-need-for-a-respiratory-exposure-claim-at-my-factory-job-206",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proof do I need for a respiratory exposure claim at my factory job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical diagnosis, work records, exposure proof, and negligence evidence.[1]",
+        "description": "**Medical records** diagnosing illness like pneumoconiosis, plus work history showing exposure (job descriptions, coworker statements, safety violations).[1][4]\n\nEvidence includes pulmonary tests, CT scans, exposure logs, and proof of missing PPE. OSHA complaints help.[2]\n\n**Key factors:**\n- Causation linking job to disease\n- Employer negligence (no ventilation)\n- Witness accounts\n- Product labels or MSDS sheets\n\n**Practical guidance:** Photograph worksite hazards; request personnel file. Lawyer can subpoena air monitoring data.\nStrong evidence speeds approval."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if symptoms from work dust show up 10 years later like silicosis?",
+  "description": "Claim from diagnosis date despite latency.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-symptoms-from-work-dust-show-up-10-years-later-like-silicosis-213",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if symptoms from work dust show up 10 years later like silicosis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Claim from diagnosis date despite latency.[2]",
+        "description": "**File upon diagnosis**—statutes start from discovery in Utah/Idaho for latent occupational diseases.[2]\n\nLong latency common; back pay from disability onset.[1]\n\n**Key factors:**\n- Continuous employment proof\n- Progressive disease evidence\n- No intervening causes\n\n**Practical guidance:** Reconstruct exposure timeline; expert links it.\nDelayed claims valid."
+      }
+    }
+  ]
+}

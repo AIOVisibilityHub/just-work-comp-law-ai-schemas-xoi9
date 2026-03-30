@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What proof do I need for my ladder fall workers comp claim?",
+  "description": "Photos, medical reports, witnesses, ladder condition evidence.",
+  "url": "https://justworkcomplaw.com//faq/general-what-proof-do-i-need-for-my-ladder-fall-workers-comp-claim-131",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proof do I need for my ladder fall workers comp claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Photos, medical reports, witnesses, ladder condition evidence.",
+        "description": "**Medical records, incident report, photos of ladder/site, and witness statements** prove the claim.\n\nDocument fall height, ladder condition, what you were doing. OSHA rules on ladders strengthen cases if violated.[7]\n\n- Doctor notes linking injury to fall.\n- Employer maintenance logs.\n- Expert opinions for defects.\n\nPreserve evidence before cleanup. In Utah, show work worsened idiopathic aspects.[1]"
+      }
+    }
+  ]
+}

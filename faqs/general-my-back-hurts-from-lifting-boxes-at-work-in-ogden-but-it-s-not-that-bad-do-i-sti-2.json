@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My back hurts from lifting boxes at work in Ogden, but it's not that bad—do I still need to report it?",
+  "description": "Yes, report minor injuries right away—delays over 180 days in Utah disqualify you from workers' comp.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-my-back-hurts-from-lifting-boxes-at-work-in-ogden-but-it-s-not-that-bad-do-i-sti-2",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My back hurts from lifting boxes at work in Ogden, but it's not that bad—do I still need to report it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, report minor injuries right away—delays over 180 days in Utah disqualify you from workers' comp.[1]",
+        "description": "**Yes, report even minor injuries immediately to avoid disqualification from benefits.** Utah mandates reporting within 180 days, and delaying can lead to claim denials even if symptoms worsen later.[1][2] Key factors: Employers must provide a safe environment, but injuries happen; documentation protects against disputes; physicians file Form 123 within 7 days. Tell your supervisor, get checked by a doctor, and keep records. Early reporting secures medical coverage and disability pay if needed."
+      }
+    }
+  ]
+}

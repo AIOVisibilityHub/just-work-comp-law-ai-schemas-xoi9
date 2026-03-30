@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Multiple chemicals exposed at work—how to prove which caused my cancer?",
+  "description": "Toxicology experts prove causation from records.",
+  "url": "https://justworkcomplaw.com//faq/general-multiple-chemicals-exposed-at-work-how-to-prove-which-caused-my-cancer-192",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Multiple chemicals exposed at work—how to prove which caused my cancer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Toxicology experts prove causation from records.",
+        "description": "**Expert toxicologists link via exposure history, dose, and medical differential diagnosis.** Courts accept cumulative exposure claims in Utah/Idaho.[1][3] Key factors: biomonitoring, job logs, epi studies on chemicals. Hire specialists early; avoid single-cause fixation. Lawyers coordinate multi-toxin cases effectively."
+      }
+    }
+  ]
+}

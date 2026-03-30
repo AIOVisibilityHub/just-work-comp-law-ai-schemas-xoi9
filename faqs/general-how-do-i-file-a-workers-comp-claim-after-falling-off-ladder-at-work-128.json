@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I file a workers comp claim after falling off ladder at work?",
+  "description": "Notify employer now, file claim form with state commission, provide medical proof.",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-file-a-workers-comp-claim-after-falling-off-ladder-at-work-128",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I file a workers comp claim after falling off ladder at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Notify employer now, file claim form with state commission, provide medical proof.",
+        "description": "**Start by notifying your employer orally and in writing within 30 days**, then file Form 1 with your state's workers' comp division.\n\nProcess varies slightly: Utah Labor Commission, Idaho Industrial Commission. Employer reports to insurer who investigates.\n\n- Gather incident report, medical records, witness statements.\n- Submit claim form detailing fall circumstances.\n- Expect adjuster contact; record all interactions.\n\nIf denied, appeal within deadlines (Utah: 20 days). Hire an attorney for complex cases like disputed fault.[1][5]"
+      }
+    }
+  ]
+}

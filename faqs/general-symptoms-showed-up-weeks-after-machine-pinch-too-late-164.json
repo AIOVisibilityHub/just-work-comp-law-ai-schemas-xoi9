@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Symptoms showed up weeks after machine pinch—too late?",
+  "description": "No, doctor link allows late reporting[1][4].",
+  "url": "https://justworkcomplaw.com//faq/general-symptoms-showed-up-weeks-after-machine-pinch-too-late-164",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Symptoms showed up weeks after machine pinch—too late?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, doctor link allows late reporting[1][4].",
+        "description": "**No, if linked to accident by doctor.** Delayed injuries common, report anyway[4]. **Key factors:** Medical causation proof. **Practical guidance:** See specialist; document timeline. Utah accepts if work-related[1]."
+      }
+    }
+  ]
+}

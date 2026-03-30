@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My employer uninsured after my Boise injury, what do I do?",
+  "description": "File with Industrial Commission; they cover via fund.[4]",
+  "url": "https://justworkcomplaw.com//faq/general-my-employer-uninsured-after-my-boise-injury-what-do-i-do-115",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My employer uninsured after my Boise injury, what do I do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "File with Industrial Commission; they cover via fund.[4]",
+        "description": "File claim with Idaho Industrial Commission; they notify employer and enforce insurance or pay from uninsured fund.[4] Report within 60 days.[4] Key factors: Prove uninsured status; injury details. Practical guidance: Submit to Boise office; Commission handles compliance. You still get benefits.[4] Don't delay.[5]"
+      }
+    }
+  ]
+}

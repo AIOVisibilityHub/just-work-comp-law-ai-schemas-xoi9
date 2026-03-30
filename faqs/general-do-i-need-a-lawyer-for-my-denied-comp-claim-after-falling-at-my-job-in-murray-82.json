@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer for my denied comp claim after falling at my job in Murray?",
+  "description": "Yes if denied—insurers lowball; lawyers paid from settlement.[9]",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-need-a-lawyer-for-my-denied-comp-claim-after-falling-at-my-job-in-murray-82",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer for my denied comp claim after falling at my job in Murray?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes if denied—insurers lowball; lawyers paid from settlement.[9]",
+        "description": "Yes, especially if denied, as insurers fight claims; lawyers handle disputes free until win.[9] Utah offers Claims Resolution Conferences.[1] Key factors: Check accepted injury description; prove work link.[9][1] Gather records, witness statements.[1] Free consult clarifies rights.[9]"
+      }
+    }
+  ]
+}

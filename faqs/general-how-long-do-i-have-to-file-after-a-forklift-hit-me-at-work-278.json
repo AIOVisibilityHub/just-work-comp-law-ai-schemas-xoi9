@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to file after a forklift hit me at work?",
+  "description": "Utah: 1 year for workers' comp, 180 days notice to employer. Don't wait.",
+  "url": "https://justworkcomplaw.com//faq/general-how-long-do-i-have-to-file-after-a-forklift-hit-me-at-work-278",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to file after a forklift hit me at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Utah: 1 year for workers' comp, 180 days notice to employer. Don't wait.",
+        "description": "In Utah, file workers' comp within 1 year of the accident; third-party suits have a 4-year statute.[3] Context: Delays risk claim denial as evidence fades. Key factors: Date of injury or discovery starts clock; employer notice within 180 days required. Practical guidance: File immediately via employer or Utah Labor Commission; preserve forklift and footage. Act fast to protect benefits."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my claim gets denied after slip at warehouse job?",
+  "description": "Appeal fast with lawyer and doctor proof—most denials overturn.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-my-claim-gets-denied-after-slip-at-warehouse-job-57",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my claim gets denied after slip at warehouse job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal fast with lawyer and doctor proof—most denials overturn.[1]",
+        "description": "**Appeal within 20 days in Utah or request Idaho Industrial Commission hearing.** Common denials cite 'no work relation' or pre-existing issues—provide more medical proof.[1][4] Hire an attorney; they win 70% of appeals. Key: strong doctor nexus letter linking fall to symptoms. Don't sign insurer releases hastily. Persistence often leads to approval or settlement."
+      }
+    }
+  ]
+}

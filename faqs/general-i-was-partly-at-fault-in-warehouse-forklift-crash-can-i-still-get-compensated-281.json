@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I was partly at fault in warehouse forklift crash, can I still get compensated?",
+  "description": "Workers' comp yes (no-fault); lawsuit maybe if under 51% at fault.",
+  "url": "https://justworkcomplaw.com//faq/general-i-was-partly-at-fault-in-warehouse-forklift-crash-can-i-still-get-compensated-281",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I was partly at fault in warehouse forklift crash, can I still get compensated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers' comp yes (no-fault); lawsuit maybe if under 51% at fault.",
+        "description": "Yes, workers' comp is no-fault so you get benefits; third-party claims reduced by Utah's modified comparative fault (51% bar).[2] Context: Operator error often primary, but your actions may lower extras. Key factors: Prove employer's OSHA violations override minor fault. Practical guidance: Disclose honestly but get lawyer to argue percentages. Full medical first."
+      }
+    }
+  ]
+}

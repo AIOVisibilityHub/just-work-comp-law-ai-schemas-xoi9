@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much money can I get for falling off a ladder at my job?",
+  "description": "$50K-$200K typical; based on medical costs, lost pay, disability.",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-money-can-i-get-for-falling-off-a-ladder-at-my-job-130",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much money can I get for falling off a ladder at my job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$50K-$200K typical; based on medical costs, lost pay, disability.",
+        "description": "**Settlements average $50K-$200K+ depending on injury severity, lost wages, and permanency.**\n\nFactors: medical bills, time off work, disability rating. Back fractures or concussions boost value.\n\n- Temporary benefits: 2/3 wages during recovery.\n- Permanent: based on impairment schedule.\n- Pain/suffering not covered in workers' comp.\n\nGet a free case evaluation; Utah/Idaho caps apply for severe cases. Multipliers for surgery/lifelong issues.[5]"
+      }
+    }
+  ]
+}

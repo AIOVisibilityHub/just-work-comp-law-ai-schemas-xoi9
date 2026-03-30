@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is fault determined in work chemical exposure cases?",
+  "description": "No-fault in workers' comp—benefits if job-related.",
+  "url": "https://justworkcomplaw.com//faq/general-how-is-fault-determined-in-work-chemical-exposure-cases-189",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is fault determined in work chemical exposure cases?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No-fault in workers' comp—benefits if job-related.",
+        "description": "**Workers' comp is no-fault; you get benefits regardless of employer negligence unless intentional.** Fault matters only for third-party suits (e.g., chemical supplier).[1][6] Key factors: pure work-relatedness proven by evidence. No contributory negligence bar in comp; focus on causation. Attorney identifies liable third parties for extra damages."
+      }
+    }
+  ]
+}

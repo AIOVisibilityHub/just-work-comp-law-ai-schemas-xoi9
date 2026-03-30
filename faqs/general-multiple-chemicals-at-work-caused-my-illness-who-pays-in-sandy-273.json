@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Multiple chemicals at work caused my illness—who pays in Sandy?",
+  "description": "Employer's comp insurer; no-fault.[9]",
+  "url": "https://justworkcomplaw.com//faq/general-multiple-chemicals-at-work-caused-my-illness-who-pays-in-sandy-273",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Multiple chemicals at work caused my illness—who pays in Sandy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Employer's comp insurer; no-fault.[9]",
+        "description": "Employer's insurer covers under no-fault ODA; apportion if multiple employers proven.[9] Utah aggregates exposures for causation.[1] Key factors: primary employer records, medical attribution. Single claim usually; sue third parties rarely. Employer handles."
+      }
+    }
+  ]
+}

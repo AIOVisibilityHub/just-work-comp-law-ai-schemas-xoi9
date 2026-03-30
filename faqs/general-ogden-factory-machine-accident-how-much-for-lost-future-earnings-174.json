@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Ogden factory machine accident—how much for lost future earnings?",
+  "description": "Comp partial; third-party fuller future pay[4].",
+  "url": "https://justworkcomplaw.com//faq/general-ogden-factory-machine-accident-how-much-for-lost-future-earnings-174",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Ogden factory machine accident—how much for lost future earnings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp partial; third-party fuller future pay[4].",
+        "description": "**Comp covers wage loss; third-party for full future if permanent.** Utah limits comp[1][4]. **Key factors:** Life expectancy, skills. **Practical guidance:** Vocational expert values; settle high."
+      }
+    }
+  ]
+}

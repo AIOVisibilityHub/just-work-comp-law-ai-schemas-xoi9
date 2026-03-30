@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the biggest mistake people make filing occupational claims in Idaho?",
+  "description": "Not reporting/documenting immediately.[6]",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-the-biggest-mistake-people-make-filing-occupational-claims-in-idaho-269",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the biggest mistake people make filing occupational claims in Idaho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not reporting/documenting immediately.[6]",
+        "description": "Delaying reporting or filing, assuming symptoms will resolve without documentation.[6] Idaho follows similar timelines to Utah, emphasizing prompt action.[5] Key factors: 180-day notice, causation proof early. Document from day one, avoid insurer talks alone. Fixes most denials."
+      }
+    }
+  ]
+}

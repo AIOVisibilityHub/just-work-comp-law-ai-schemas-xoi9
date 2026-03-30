@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Family member died on job in Salt Lake - what benefits?",
+  "description": "Death comp + possible third-party claim.[7]",
+  "url": "https://justworkcomplaw.com//faq/general-family-member-died-on-job-in-salt-lake-what-benefits-41",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Family member died on job in Salt Lake - what benefits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Death comp + possible third-party claim.[7]",
+        "description": "Dependents get death benefits via workers comp; third-party suit possible.[7] Context: Exclusive vs employer; extras if negligence.[7] Key factors: Burial costs, wage replacement to spouse/kids. Practical guidance: File promptly; gather death certificate. Lawyer pursues all avenues. Compassionate process."
+      }
+    }
+  ]
+}

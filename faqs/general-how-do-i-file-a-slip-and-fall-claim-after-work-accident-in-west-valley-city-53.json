@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I file a slip and fall claim after work accident in West Valley City?",
+  "description": "Report to employer ASAP, file with UT Labor Commission, provide evidence—lawyer helps navigate denials.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-file-a-slip-and-fall-claim-after-work-accident-in-west-valley-city-53",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I file a slip and fall claim after work accident in West Valley City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report to employer ASAP, file with UT Labor Commission, provide evidence—lawyer helps navigate denials.[2]",
+        "description": "**Notify your employer in writing within 30 days, then file a workers' comp claim with the state labor commission.** Utah requires formal reporting to trigger benefits like medical care and wage replacement.[2][5] Gather incident reports, medical records, and photos as evidence. The insurer investigates; if denied, request a hearing. Deadlines are strict—missing them bars your claim. Hire an attorney experienced in Utah workers' comp for guidance through the process."
+      }
+    }
+  ]
+}

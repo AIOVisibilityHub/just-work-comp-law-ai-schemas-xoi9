@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I get future medical for ongoing tinnitus from work noise?",
+  "description": "Yes, for related treatments.[4]",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-get-future-medical-for-ongoing-tinnitus-from-work-noise-245",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I get future medical for ongoing tinnitus from work noise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, for related treatments.[4]",
+        "description": "**Yes, if doctor deems necessary for work-related loss; covers aids, visits, therapy.** Permanent awards include future care estimates.[1][4] Prove ongoing relation. Insurers resist; fight via rating docs.[2] Lifelong monitoring possible."
+      }
+    }
+  ]
+}

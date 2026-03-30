@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Claim denied saying my fall-related illness was idiopathic in Farmington?",
+  "description": "Appeal if work aggravated; hard floor proof.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-claim-denied-saying-my-fall-related-illness-was-idiopathic-in-farmington-275",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Claim denied saying my fall-related illness was idiopathic in Farmington?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal if work aggravated; hard floor proof.[2]",
+        "description": "Appealable if work conditions worsened injury, like hard floors amplifying idiopathic fall.[2] Utah courts require actual aggravation proof.[2] Key factors: floor hardness evidence, medical worsening link. Remand common; bolster with experts. Overturn possible."
+      }
+    }
+  ]
+}

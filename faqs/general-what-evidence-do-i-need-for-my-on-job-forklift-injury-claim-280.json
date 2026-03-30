@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need for my on-job forklift injury claim?",
+  "description": "Scene photos, medical records, witnesses, forklift inspection, OSHA reports.",
+  "url": "https://justworkcomplaw.com//faq/general-what-evidence-do-i-need-for-my-on-job-forklift-injury-claim-280",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need for my on-job forklift injury claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Scene photos, medical records, witnesses, forklift inspection, OSHA reports.",
+        "description": "Photos of scene/forklift, witness statements, medical records, OSHA logs, and incident report.[5] Context: Proves negligence like untrained operator or faulty equipment. Key factors: Surveillance video critical; expert analysis of forklift. Practical guidance: Don't let employer discard evidence; request preservation letter via attorney. Build strong file early."
+      }
+    }
+  ]
+}

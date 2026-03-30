@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do they prove my hearing loss is really from the noisy shop in Saint George?",
+  "description": "Medical tests, exposure logs, and expert links to job noise levels.[9]",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-they-prove-my-hearing-loss-is-really-from-the-noisy-shop-in-saint-george-257",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do they prove my hearing loss is really from the noisy shop in Saint George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical tests, exposure logs, and expert links to job noise levels.[9]",
+        "description": "By medical evidence like audiograms showing progressive loss tied to workplace noise levels exceeding safe limits.[9] Utah ODA claims require direct causation from occupational exposure, often needing expert testimony.[1] Key factors: exposure duration/logs, baseline hearing tests, ruling out non-work causes, and employer records.[9] Collect noise measurements, coworker affidavits, and doctor opinions; submit to Labor Commission. Solid proof overcomes common denials."
+      }
+    }
+  ]
+}

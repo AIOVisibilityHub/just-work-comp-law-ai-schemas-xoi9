@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Missed some work before reporting injury in West Valley, hurts claim?",
+  "description": "No, if within 180 days; explain gaps.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-missed-some-work-before-reporting-injury-in-west-valley-hurts-claim-124",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Missed some work before reporting injury in West Valley, hurts claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, if within 180 days; explain gaps.[1]",
+        "description": "No if reported within 180 days; but gaps raise doubts—explain with records.[1][2] Key factors: Wage docs show losses. Practical guidance: Submit pay stubs; doctor notes timeline. Promptness still key despite prior absences.[1] Focus on injury proof.[2]"
+      }
+    }
+  ]
+}

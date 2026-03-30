@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I fell off ladder at work but feel fine now, should I still file?",
+  "description": "Yes, get checked; symptoms can delay.",
+  "url": "https://justworkcomplaw.com//faq/general-i-fell-off-ladder-at-work-but-feel-fine-now-should-i-still-file-133",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I fell off ladder at work but feel fine now, should I still file?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, get checked; symptoms can delay.",
+        "description": "**Yes, file anyway; delayed symptoms like back pain often emerge days later.**\n\nAdrenaline masks injuries; records protect future claims. Untreated issues worsen.\n\n- Get evaluated even if minor.\n- Report establishes timeline.\n- No cost for comp-covered care.\n\nMany regret ignoring; Utah courts compensate aggravated idiopathic falls.[1]"
+      }
+    }
+  ]
+}

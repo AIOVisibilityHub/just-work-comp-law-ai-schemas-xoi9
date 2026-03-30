@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Ladder fall in Saint George UT, how fault determined?",
+  "description": "Comp ignores fault; prove work connection.",
+  "url": "https://justworkcomplaw.com//faq/general-ladder-fall-in-saint-george-ut-how-fault-determined-149",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Ladder fall in Saint George UT, how fault determined?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp ignores fault; prove work connection.",
+        "description": "**No fault in comp; compensable if job-related, even partial your error.**\n\nCommission assesses 'arising out of' via evidence.[1]\n\n- Ladder condition key.[9]\n- Employment risk.\n- Idiopathic rare denial.\n\nFocus on facts, not blame."
+      }
+    }
+  ]
+}

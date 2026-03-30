@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Idaho work accident - can I sue boss personally?",
+  "description": "No, exclusive workers comp.[9]",
+  "url": "https://justworkcomplaw.com//faq/general-idaho-work-accident-can-i-sue-boss-personally-44",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Idaho work accident - can I sue boss personally?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, exclusive workers comp.[9]",
+        "description": "No, workers comp exclusive remedy vs employer.[9] Context: Personal injury only for non-employer third parties.[9] Key factors: Co-worker immunity unless gross negligence. Practical guidance: Check for outsiders like vendors. Comp first always. Lawyer IDs options."
+      }
+    }
+  ]
+}

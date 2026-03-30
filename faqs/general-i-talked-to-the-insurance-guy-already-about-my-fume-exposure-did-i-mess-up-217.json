@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I talked to the insurance guy already about my fume exposure—did I mess up?",
+  "description": "Maybe—lawyer can mitigate; halt talks now.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-i-talked-to-the-insurance-guy-already-about-my-fume-exposure-did-i-mess-up-217",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I talked to the insurance guy already about my fume exposure—did I mess up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maybe—lawyer can mitigate; halt talks now.[2]",
+        "description": "**Possibly**—adjusters seek lowball statements; recorded calls can hurt claims.[2]\n\nNo legal harm if truthful, but limits future arguments.[1]\n\n**Key factors:**\n- What you admitted\n- Symptom minimization\n- Signed releases\n\n**Practical guidance:** Lawyer reviews transcript; stops further contact.\nDamage control possible."
+      }
+    }
+  ]
+}

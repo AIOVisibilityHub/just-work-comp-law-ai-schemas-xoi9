@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Claim denied after machine crushed my hand—what now?",
+  "description": "Appeal fast with lawyer; add evidence[1].",
+  "url": "https://justworkcomplaw.com//faq/general-claim-denied-after-machine-crushed-my-hand-what-now-160",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Claim denied after machine crushed my hand—what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal fast with lawyer; add evidence[1].",
+        "description": "**Appeal within deadlines, usually 20-30 days.** Gather more evidence like expert medical[1]. **Key factors:** Common reasons: late report, no causation. **Practical guidance:** Lawyer files appeal; Utah Industrial Commission handles[1]. Don't give up—many win on appeal."
+      }
+    }
+  ]
+}

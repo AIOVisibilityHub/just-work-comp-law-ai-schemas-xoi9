@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much time off work before comp pays?",
+  "description": "3-day wait in Utah, often waived.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-time-off-work-before-comp-pays-45",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much time off work before comp pays?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "3-day wait in Utah, often waived.[2]",
+        "description": "Utah has 3-day wait, waived if off 14+ days.[2] Context: Temporary disability starts after waiting period.[6] Key factors: Employer pays first 3 sometimes. Practical guidance: Use sick leave bridge; track hours. Retroactive if qualified. Apply immediately."
+      }
+    }
+  ]
+}

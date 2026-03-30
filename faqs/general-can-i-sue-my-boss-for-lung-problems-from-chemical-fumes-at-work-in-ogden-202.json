@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my boss for lung problems from chemical fumes at work in Ogden?",
+  "description": "No direct lawsuit against employer in Utah—use workers' comp; sue third parties if applicable.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-boss-for-lung-problems-from-chemical-fumes-at-work-in-ogden-202",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my boss for lung problems from chemical fumes at work in Ogden?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No direct lawsuit against employer in Utah—use workers' comp; sue third parties if applicable.[3]",
+        "description": "In Utah, respiratory injuries from workplace exposure are typically handled through **workers' compensation as the exclusive remedy**, not lawsuits against employers. You can sue third parties like equipment manufacturers if their defect caused exposure.[1][3]\n\nWorkers' comp provides no-fault benefits for medical care and lost wages without proving negligence. Exceptions are rare, requiring proof of employer fraud or intentional harm.[3]\n\n**Key factors:**\n- Diagnosis linking illness to job exposure\n- Employer's failure to provide PPE or ventilation\n- No dual capacity or gross negligence piercing exclusivity\n- Third-party liability for defective gear\n\n**Practical guidance:** File a workers' comp claim promptly via Utah Labor Commission; hire an attorney for complex exposure cases. Document everything medically.\nConsult a specialist to evaluate all options."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Permanent disability from work crush injury, how rated in Utah?",
+  "description": "Doctor % impairment via AMA; pays ongoing.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-permanent-disability-from-work-crush-injury-how-rated-in-utah-123",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Permanent disability from work crush injury, how rated in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Doctor % impairment via AMA; pays ongoing.[1]",
+        "description": "Doctor assigns impairment percentage using AMA guides; translates to weekly benefits for life or lump sum.[1][2] Key factors: Objective medical exam. Practical guidance: Dispute low ratings via independent eval; attorney negotiates. Covers lost capacity.[1] Higher % = more payout.[2]"
+      }
+    }
+  ]
+}

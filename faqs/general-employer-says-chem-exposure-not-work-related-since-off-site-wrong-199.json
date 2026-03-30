@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Employer says chem exposure not work-related since off-site—wrong?",
+  "description": "Compensable if job-linked, even off-site.",
+  "url": "https://justworkcomplaw.com//faq/general-employer-says-chem-exposure-not-work-related-since-off-site-wrong-199",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Employer says chem exposure not work-related since off-site—wrong?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compensable if job-linked, even off-site.",
+        "description": "**If traveling for work or fumes followed you, it's compensable under 'arising out of' employment.** Utah covers occupational exposures broadly.[6] Key factors: job duties link, medical opinion. Off-site doesn't auto-exclude; prove nexus. Challenge via hearing."
+      }
+    }
+  ]
+}

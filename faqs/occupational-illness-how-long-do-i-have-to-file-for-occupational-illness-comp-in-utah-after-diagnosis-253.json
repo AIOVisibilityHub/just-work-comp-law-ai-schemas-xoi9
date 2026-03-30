@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to file for occupational illness comp in Utah after diagnosis?",
+  "description": "Report within 180 days, file claim within 1 year of diagnosis/disability under Utah ODA rules.[6][4]",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-how-long-do-i-have-to-file-for-occupational-illness-comp-in-utah-after-diagnosis-253",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to file for occupational illness comp in Utah after diagnosis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report within 180 days, file claim within 1 year of diagnosis/disability under Utah ODA rules.[6][4]",
+        "description": "You generally have one year from the date of injury or diagnosis to file, but for occupational diseases under Utah's ODA, it may hinge on when disability occurs.[4][6] Utah law sets a 180-day reporting window to your supervisor, with stricter claim filing deadlines via the Labor Commission.[6] Key factors: date symptoms became disabling, continuous exposure proof, and no-fault requirements under ODA exclusivity.[1] Track all dates meticulously, submit medical reports promptly, and appeal denials within 30 days. Delays often lead to outright rejection."
+      }
+    }
+  ]
+}

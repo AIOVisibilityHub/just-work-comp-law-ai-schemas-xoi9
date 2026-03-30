@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can they fire me for missing work due to injury in Draper?",
+  "description": "Possible if can't perform duties, but no retaliation allowed.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-can-they-fire-me-for-missing-work-due-to-injury-in-draper-86",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can they fire me for missing work due to injury in Draper?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Possible if can't perform duties, but no retaliation allowed.[2]",
+        "description": "No automatic protection, but can't retaliate for filing claim; if can't do job, may terminate.[2] ADA for larger employers.[2] Key factors: Seek rehab via USOR if partial disability.[2] Document all.[2] Lawyer fights wrongful discharge.[2]"
+      }
+    }
+  ]
+}

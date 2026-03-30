@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Denied comp for machine injury in St George—employer negligence?",
+  "description": "Comp no-fault; appeal denial anyway[1].",
+  "url": "https://justworkcomplaw.com//faq/general-denied-comp-for-machine-injury-in-st-george-employer-negligence-175",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Denied comp for machine injury in St George—employer negligence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp no-fault; appeal denial anyway[1].",
+        "description": "**Negligence doesn't affect comp eligibility—it's no-fault.** Appeal denial on other grounds[1][4]. **Key factors:** Safety irrelevant. **Practical guidance:** Lawyer refiles with proof; Utah commission reviews."
+      }
+    }
+  ]
+}

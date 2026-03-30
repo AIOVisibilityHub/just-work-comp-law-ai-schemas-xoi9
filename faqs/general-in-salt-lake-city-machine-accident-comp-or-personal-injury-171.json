@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Salt Lake City, machine accident—comp or personal injury?",
+  "description": "Comp primary; PI for third-parties in Utah[1].",
+  "url": "https://justworkcomplaw.com//faq/general-in-salt-lake-city-machine-accident-comp-or-personal-injury-171",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Salt Lake City, machine accident—comp or personal injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp primary; PI for third-parties in Utah[1].",
+        "description": "**Workers comp first; third-party PI if others liable.** Utah follows this[1][8]. **Key factors:** Exclusive remedy vs employer. **Practical guidance:** File comp, explore third-party. Local attorney knows nuances."
+      }
+    }
+  ]
+}

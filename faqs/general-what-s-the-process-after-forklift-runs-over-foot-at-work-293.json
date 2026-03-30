@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the process after forklift runs over foot at work?",
+  "description": "Treat, report, file, settle with lawyer help.",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-the-process-after-forklift-runs-over-foot-at-work-293",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the process after forklift runs over foot at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treat, report, file, settle with lawyer help.",
+        "description": "Medical > report > file comp > treat > settle/award.[5] Context: 6-12 months typical. Key factors: Authorized doctors only. Practical guidance: Attorney manages paperwork; avoids pitfalls. Stay compliant."
+      }
+    }
+  ]
+}

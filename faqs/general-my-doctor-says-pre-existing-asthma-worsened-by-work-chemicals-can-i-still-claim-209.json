@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My doctor says pre-existing asthma worsened by work chemicals—can I still claim?",
+  "description": "Yes, claim covers work-aggravated portion of pre-existing respiratory issues.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-my-doctor-says-pre-existing-asthma-worsened-by-work-chemicals-can-i-still-claim-209",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My doctor says pre-existing asthma worsened by work chemicals—can I still claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, claim covers work-aggravated portion of pre-existing respiratory issues.[2]",
+        "description": "**Yes, if work exposure aggravated** your condition, Utah workers' comp covers the increase in impairment.[2]\n\nApportionment separates pre-existing from occupational worsening via medical reports.[1]\n\n**Key factors:**\n- Proof of aggravation (before/after tests)\n- Exposure history\n- No prior disability claims\n\n**Practical guidance:** Get specialist opinion on work causation; lawyer handles disputes.\nAggravation claims succeed often."
+      }
+    }
+  ]
+}

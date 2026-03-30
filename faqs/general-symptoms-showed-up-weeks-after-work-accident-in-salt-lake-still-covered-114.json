@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Symptoms showed up weeks after work accident in Salt Lake, still covered?",
+  "description": "Yes, if doctor links to work; report within 180 days.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-symptoms-showed-up-weeks-after-work-accident-in-salt-lake-still-covered-114",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Symptoms showed up weeks after work accident in Salt Lake, still covered?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if doctor links to work; report within 180 days.[1]",
+        "description": "Yes if linked to incident; Utah covers delayed symptoms from work injuries.[1] Doctor causation key.[2] Key factors: Medical timeline; no intervening causes. Practical guidance: See doctor soon; explain delay. Document everything. Delayed claims common, report within 180 days.[1]"
+      }
+    }
+  ]
+}

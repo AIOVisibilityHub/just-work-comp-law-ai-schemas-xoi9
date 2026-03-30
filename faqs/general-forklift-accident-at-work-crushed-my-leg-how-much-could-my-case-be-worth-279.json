@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Forklift accident at work crushed my leg, how much could my case be worth?",
+  "description": "$120k+ for fractures, millions for amputations/brain damage. Depends on injury proof.",
+  "url": "https://justworkcomplaw.com//faq/general-forklift-accident-at-work-crushed-my-leg-how-much-could-my-case-be-worth-279",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Forklift accident at work crushed my leg, how much could my case be worth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$120k+ for fractures, millions for amputations/brain damage. Depends on injury proof.",
+        "description": "Settlements range $120k-$20M depending on injury severity, lost wages, and pain; Utah averages $50k-$200k for serious cases.[1][2] Context: Workers' comp covers basics; third-party adds pain/suffering. Key factors: Permanent disability, future care, OSHA violations boost value. Practical guidance: Get independent medical exam; lawyer negotiates liens. Values vary by specifics."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Symptoms from my work fall in Boise showed up weeks later—what to do?",
+  "description": "Report when symptoms hit, within 180 days.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-symptoms-from-my-work-fall-in-boise-showed-up-weeks-later-what-to-do-13",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Symptoms from my work fall in Boise showed up weeks later—what to do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report when symptoms hit, within 180 days.[1]",
+        "description": "**Report as soon as symptoms appear, linking to the incident.** Utah allows if within 180 days total.[1] Key factors: Delayed injuries common; medical causation proof essential. See doctor immediately, document timeline. Late symptoms don't bar claims if connected."
+      }
+    }
+  ]
+}

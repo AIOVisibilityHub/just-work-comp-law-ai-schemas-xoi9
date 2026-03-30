@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is fault determined in occupational hearing loss cases?",
+  "description": "No-fault; prove job causation.[4]",
+  "url": "https://justworkcomplaw.com//faq/general-how-is-fault-determined-in-occupational-hearing-loss-cases-239",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is fault determined in occupational hearing loss cases?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No-fault; prove job causation.[4]",
+        "description": "**Fault irrelevant in workers' comp; no-fault system covers if arising out of employment.** Prove substantial job causation via noise levels, duration, protection adequacy.[2][4] Strict liability on employer for unsafe noise. Third-party suits possible for defective equipment.[5] Medical opinions decisive.[1]"
+      }
+    }
+  ]
+}

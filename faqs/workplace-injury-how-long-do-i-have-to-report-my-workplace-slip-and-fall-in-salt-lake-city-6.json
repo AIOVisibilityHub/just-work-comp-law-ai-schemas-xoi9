@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to report my workplace slip and fall in Salt Lake City?",
+  "description": "180 days in Utah, but report right away.[1]",
+  "url": "https://justworkcomplaw.com//faq/workplace-injury-how-long-do-i-have-to-report-my-workplace-slip-and-fall-in-salt-lake-city-6",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to report my workplace slip and fall in Salt Lake City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "180 days in Utah, but report right away.[1]",
+        "description": "**You have 180 days in Utah to report a workplace injury, but do it immediately to avoid issues.** Failure disqualifies benefits; employers must report to insurer in 7 days.[1][3] Key factors: Document details; physician submits Form 123 in 7 days; delays complicate proof. Notify supervisor/HR promptly, get treated, keep records. Sooner reporting strengthens your case significantly."
+      }
+    }
+  ]
+}

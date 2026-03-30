@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much is my broken leg from work worth in a comp claim here in Utah?",
+  "description": "Covers medical, 2/3 lost wages, permanency; calculate via wage/impairment.[1][2]",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-is-my-broken-leg-from-work-worth-in-a-comp-claim-here-in-utah-105",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much is my broken leg from work worth in a comp claim here in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Covers medical, 2/3 lost wages, permanency; calculate via wage/impairment.[1][2]",
+        "description": "Value depends on medical costs, lost wages (2/3 of average weekly wage), and permanent impairment rating; no fixed formula but temporary total disability pays while off work.[1][2] Utah's no-fault system covers these without suing employer.[1] Key factors: Wage at injury time; duration off work; doctor-rated permanent loss. Death benefits for dependents if fatal.[5] Practical guidance: Track all bills and pay stubs; get impairment evaluation. Use attorney for max settlement. Consult for personalized estimate based on records.[2]"
+      }
+    }
+  ]
+}

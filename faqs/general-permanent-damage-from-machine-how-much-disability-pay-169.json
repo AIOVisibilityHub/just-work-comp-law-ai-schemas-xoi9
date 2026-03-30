@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Permanent damage from machine—how much disability pay?",
+  "description": "Scheduled weeks of pay based on impairment[4].",
+  "url": "https://justworkcomplaw.com//faq/general-permanent-damage-from-machine-how-much-disability-pay-169",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Permanent damage from machine—how much disability pay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Scheduled weeks of pay based on impairment[4].",
+        "description": "**Scheduled benefits by body part, e.g., arm loss up to 250 weeks pay.** Plus impairment rating[4]. **Key factors:** Doctor rating. **Practical guidance:** Wait for max med improvement; negotiate. Varies by state wage."
+      }
+    }
+  ]
+}

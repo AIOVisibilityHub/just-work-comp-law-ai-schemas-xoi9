@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Partially my fault for not wearing PPE during chem exposure—still eligible?",
+  "description": "Yes, no-fault covers unless willful misconduct.",
+  "url": "https://justworkcomplaw.com//faq/general-partially-my-fault-for-not-wearing-ppe-during-chem-exposure-still-eligible-194",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Partially my fault for not wearing PPE during chem exposure—still eligible?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, no-fault covers unless willful misconduct.",
+        "description": "**Yes, workers' comp ignores your fault unless 100% willful misconduct.** Minor PPE lapses don't bar claims in Utah.[6] Key factors: employer duty to provide/train regardless. Document provided gear; intoxication rare bar. Claims proceed normally."
+      }
+    }
+  ]
+}

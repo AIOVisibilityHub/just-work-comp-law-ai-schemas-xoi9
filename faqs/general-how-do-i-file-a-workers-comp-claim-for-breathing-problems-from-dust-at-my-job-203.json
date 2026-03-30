@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I file a workers comp claim for breathing problems from dust at my job?",
+  "description": "Notify employer, file Form 5A with Utah Labor Commission, provide medical proof of job-related respiratory illness.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-file-a-workers-comp-claim-for-breathing-problems-from-dust-at-my-job-203",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I file a workers comp claim for breathing problems from dust at my job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Notify employer, file Form 5A with Utah Labor Commission, provide medical proof of job-related respiratory illness.[1]",
+        "description": "**Submit a formal claim** to your employer's insurer or Utah Labor Commission within 1 year of diagnosis using Form 5A. Include medical records proving job-related respiratory damage.[2]\n\nThe process involves employer notification, medical evaluation, and hearings if disputed. Benefits cover treatment, wage loss, and disability.[1]\n\n**Key factors:**\n- Clear link between work exposure and illness (e.g., silica, chemicals)\n- Timely filing to avoid denial\n- Supporting evidence like air quality reports\n- Ongoing medical proof\n\n**Practical guidance:** Get a doctor's note specifying occupational cause; avoid adjuster traps by using a lawyer. Attend all required exams.\nEarly filing maximizes approval chances."
+      }
+    }
+  ]
+}

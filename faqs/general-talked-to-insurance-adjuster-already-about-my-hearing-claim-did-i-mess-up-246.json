@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Talked to insurance adjuster already about my hearing claim, did I mess up?",
+  "description": "Get lawyer now; don't say more.[4]",
+  "url": "https://justworkcomplaw.com//faq/general-talked-to-insurance-adjuster-already-about-my-hearing-claim-did-i-mess-up-246",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Talked to insurance adjuster already about my hearing claim, did I mess up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Get lawyer now; don't say more.[4]",
+        "description": "**Possibly; avoid recorded statements without counsel as they probe for denials.** Request all in writing now. Adjusters minimize claims.[4] Get lawyer to renegotiate. No admissions harm cases.[3] Common mistake; recoverable with appeal."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I fell off a ladder at work yesterday, what do I do right now?",
+  "description": "Seek medical care immediately, report to employer in writing today, photograph everything, and don't talk to insurance without a lawyer.",
+  "url": "https://justworkcomplaw.com//faq/general-i-fell-off-a-ladder-at-work-yesterday-what-do-i-do-right-now-126",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I fell off a ladder at work yesterday, what do I do right now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seek medical care immediately, report to employer in writing today, photograph everything, and don't talk to insurance without a lawyer.",
+        "description": "**Immediately seek medical attention** to document your injuries and notify your employer in writing within 24-48 hours.\n\nWorkers' compensation typically covers job-related ladder falls as they arise from employment hazards. Delaying reports can jeopardize claims, as most states require notice within 30 days.\n\n- Get emergency care if needed; minor injuries still warrant a doctor's visit for records.\n- Report the incident to your supervisor or HR promptly, detailing how the fall occurred.\n- Avoid signing any statements without understanding them.\n\nTake photos of the ladder, site, and injuries; save all medical records. Consult a workers' comp attorney before discussing with insurance adjusters. Utah and Idaho have strict reporting deadlines.[1][9]"
+      }
+    }
+  ]
+}

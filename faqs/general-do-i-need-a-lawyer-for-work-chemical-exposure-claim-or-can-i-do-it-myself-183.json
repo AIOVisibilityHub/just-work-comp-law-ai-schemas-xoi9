@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer for work chemical exposure claim or can I do it myself?",
+  "description": "DIY possible but lawyer boosts payout 25%+ on contingency—no risk.",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-need-a-lawyer-for-work-chemical-exposure-claim-or-can-i-do-it-myself-183",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer for work chemical exposure claim or can I do it myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DIY possible but lawyer boosts payout 25%+ on contingency—no risk.",
+        "description": "**You can file initially yourself, but a lawyer dramatically increases success odds, especially for denials or complex exposures.** Utah and Idaho workers' comp is adversarial; insurers contest chemical claims rigorously.[1][6] Key factors: no upfront fees (contingency), higher payouts (up to 25% more), and handling appeals/paperwork. Common mistakes like early settlements cost thousands; lawyers negotiate better. Most offer free consults—use one if symptoms persist."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I missed some work before realizing my rash was occupational—claim still good?",
+  "description": "Yes, report within 180 days of awareness.[6]",
+  "url": "https://justworkcomplaw.com//faq/general-i-missed-some-work-before-realizing-my-rash-was-occupational-claim-still-good-263",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I missed some work before realizing my rash was occupational—claim still good?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, report within 180 days of awareness.[6]",
+        "description": "Yes, if you report within 180 days and prove work link; prior absences don't bar if not reported then.[6] Utah allows claims post-realization under ODA.[6] Key factors: prompt reporting after knowledge, evidence of progression. Explain delays medically, file fully documented. Many succeed despite gaps."
+      }
+    }
+  ]
+}

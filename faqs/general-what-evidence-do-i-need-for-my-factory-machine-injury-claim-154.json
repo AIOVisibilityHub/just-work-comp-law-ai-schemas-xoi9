@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need for my factory machine injury claim?",
+  "description": "Medical records, reports, photos, witnesses—document immediately[4].",
+  "url": "https://justworkcomplaw.com//faq/general-what-evidence-do-i-need-for-my-factory-machine-injury-claim-154",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need for my factory machine injury claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical records, reports, photos, witnesses—document immediately[4].",
+        "description": "**Medical records, incident report, witness statements, photos of machine.** Prove injury occurred at work via employer logs and doctor notes linking to accident[4]. **Key factors:** Timely reporting strengthens case; video if available. **Practical guidance:** Keep all docs organized; don't alter scene. In Utah, causation key for comp[1]. Lawyer gathers evidence effectively."
+      }
+    }
+  ]
+}

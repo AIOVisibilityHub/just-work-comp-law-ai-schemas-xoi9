@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I'm scared talking to the insurance adjuster after my Salt Lake City injury—what should I say?",
+  "description": "Basics only; get lawyer before details.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-i-m-scared-talking-to-the-insurance-adjuster-after-my-salt-lake-city-injury-what-21",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I'm scared talking to the insurance adjuster after my Salt Lake City injury—what should I say?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Basics only; get lawyer before details.[2]",
+        "description": "**Say little—provide basic facts, no details or recorded statements without advice.** They minimize claims.[2] Key factors: Get everything in writing; lawyer handles. Request forms first. Silence protects your payout."
+      }
+    }
+  ]
+}

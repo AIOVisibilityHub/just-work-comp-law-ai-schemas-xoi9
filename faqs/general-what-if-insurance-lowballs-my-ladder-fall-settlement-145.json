@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if insurance lowballs my ladder fall settlement?",
+  "description": "Push back with proof and attorney.",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-insurance-lowballs-my-ladder-fall-settlement-145",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if insurance lowballs my ladder fall settlement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Push back with proof and attorney.",
+        "description": "**Reject and negotiate or go to hearing; average increases with representation.**\n\nValue based on future medical, wage loss. Don't accept first offer.\n\n- Independent medical exam.\n- Vocational expert.\n- Comp boards award fairer.\n\nLawyer negotiates higher; UT cases show it.[1]"
+      }
+    }
+  ]
+}

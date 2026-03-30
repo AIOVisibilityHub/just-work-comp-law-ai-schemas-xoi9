@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I slipped at work in Salt Lake City yesterday but didn't tell anyone yet, what do I do right now?",
+  "description": "Report immediately in writing to your employer and seek medical care—Utah requires notice within 180 days or you lose benefits.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-i-slipped-at-work-in-salt-lake-city-yesterday-but-didn-t-tell-anyone-yet-what-do-1",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I slipped at work in Salt Lake City yesterday but didn't tell anyone yet, what do I do right now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report immediately in writing to your employer and seek medical care—Utah requires notice within 180 days or you lose benefits.[1]",
+        "description": "**Report the injury to your employer immediately, ideally in writing, to preserve your claim.** Utah law requires reporting within 180 days, but delays can jeopardize benefits; employers must notify their insurer within 7 days.[1][2] Key factors: Document how, when, and where it happened; seek medical care and inform the doctor it's work-related; get copies of Form 122 and Form 100 from your employer. Go to a doctor promptly, avoid giving recorded statements to insurers without advice, and consider consulting a workers' comp specialist if issues arise. Protecting your rights starts with quick, documented action."
+      }
+    }
+  ]
+}

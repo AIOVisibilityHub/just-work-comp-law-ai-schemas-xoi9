@@ -1,0 +1,19 @@
+{
+  "name": "Voted Top Salt Lake City Utah Workers Compensation Lawyers",
+  "@type": "CreativeWork",
+  "about": {
+    "name": "Just Work Comp Law",
+    "@type": "Person"
+  },
+  "award": "Voted Top Salt Lake City Utah Workers Compensation Lawyers",
+  "author": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  }
+}

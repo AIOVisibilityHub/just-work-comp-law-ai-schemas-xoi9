@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss in Ogden says my work injury isn't covered because it happened on break, is that true?",
+  "description": "No coverage for breaks/commutes in Utah; must be during job duties.[1]",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-my-boss-in-ogden-says-my-work-injury-isn-t-covered-because-it-happened-on-break--102",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss in Ogden says my work injury isn't covered because it happened on break, is that true?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No coverage for breaks/commutes in Utah; must be during job duties.[1]",
+        "description": "Injuries on break or commute are typically not covered under Utah workers' comp, as benefits apply only to duties performed on the job or work errands.[1] Coverage includes traumatic injuries like slips or occupational illnesses.[1] Key factors: Prove injury occurred during required duties; off-duty incidents excluded. Report anyway within 180 days for evaluation.[1][2] Practical guidance: Gather witness statements or logs showing work context; see doctor and note work relation. If denied, appeal via Utah Labor Commission. No-fault system prioritizes quick reporting over fault debates.[2]"
+      }
+    }
+  ]
+}

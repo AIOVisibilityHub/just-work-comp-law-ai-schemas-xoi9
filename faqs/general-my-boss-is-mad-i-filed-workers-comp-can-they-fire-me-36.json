@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss is mad I filed workers comp - can they fire me?",
+  "description": "No, retaliation illegal; report it.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-is-mad-i-filed-workers-comp-can-they-fire-me-36",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss is mad I filed workers comp - can they fire me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, retaliation illegal; report it.[2]",
+        "description": "Utah prohibits retaliation for filing legitimate claims.[2] Context: Firing for injury report illegal; protections strong.[2] Key factors: Prove timing link; document threats. Practical guidance: Report to Labor Commission; keep job search records if terminated. Sue for reinstatement/damages. Don't quit voluntarily."
+      }
+    }
+  ]
+}

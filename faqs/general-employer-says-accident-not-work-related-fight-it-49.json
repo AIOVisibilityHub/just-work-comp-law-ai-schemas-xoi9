@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Employer says accident not work-related - fight it?",
+  "description": "Appeal with scope proof.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-employer-says-accident-not-work-related-fight-it-49",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Employer says accident not work-related - fight it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal with scope proof.[1]",
+        "description": "Yes, appeal if arose out of employment.[1] Context: Scope disputes common; prove duties link.[1][2] Key factors: Schedules, tasks evidence. Practical guidance: Gather coworker statements; Labor hearing. Wins frequent with proof. Don't accept denial."
+      }
+    }
+  ]
+}

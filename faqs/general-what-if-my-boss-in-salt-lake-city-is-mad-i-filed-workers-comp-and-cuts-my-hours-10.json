@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my boss in Salt Lake City is mad I filed workers comp and cuts my hours?",
+  "description": "Illegal—report to Utah Labor Commission; fines up to $5k.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-my-boss-in-salt-lake-city-is-mad-i-filed-workers-comp-and-cuts-my-hours-10",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my boss in Salt Lake City is mad I filed workers comp and cuts my hours?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Illegal—report to Utah Labor Commission; fines up to $5k.[1]",
+        "description": "**That's illegal retaliation; Utah bans intimidation to block claims, with up to $5,000 fines.** Report to Labor Commission.[1][2] Key factors: Protects filing rights; document harassment. File complaint, keep job search records if terminated. Seek legal help to enforce anti-retaliation laws."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What proof do I need for my repetitive strain injury claim in Bountiful?",
+  "description": "Doctor report + records proving work causation; report timely.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-what-proof-do-i-need-for-my-repetitive-strain-injury-claim-in-bountiful-85",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proof do I need for my repetitive strain injury claim in Bountiful?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Doctor report + records proving work causation; report timely.[1]",
+        "description": "Doctor's report detailing how/when/where work caused it (Form 123); medical records, witness accounts.[1][5] Key factors: Report within 180 days; employer form 122.[1] Track symptoms progression.[1] Preserve evidence fast.[5]"
+      }
+    }
+  ]
+}
