@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What do I do first if I think my cancer is from asbestos at my job in Boise?",
+  "description": "Report to employer now, see doctor for work-related diagnosis, file claim.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-what-do-i-do-first-if-i-think-my-cancer-is-from-asbestos-at-my-job-in-boise-378",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What do I do first if I think my cancer is from asbestos at my job in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report to employer now, see doctor for work-related diagnosis, file claim.[3]",
+        "description": "Report immediately to your employer in writing and seek medical care explaining work connection.[2][3] Idaho requires notice within 60 days, but exceptions exist if no prejudice.[3] Key factors: Get doctor's report tying illness to work, file claim form promptly, notify insurer. Document everything and avoid signing denials; contact an Idaho workers comp attorney for guidance on next steps."
+      }
+    }
+  ]
+}

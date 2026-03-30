@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Multiple contractors on site in Saint George—how to figure out who's liable for my fall?",
+  "description": "Lawyer investigates contracts, witnesses, OSHA.",
+  "url": "https://justworkcomplaw.com//faq/general-multiple-contractors-on-site-in-saint-george-how-to-figure-out-who-s-liable-for--313",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Multiple contractors on site in Saint George—how to figure out who's liable for my fall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lawyer investigates contracts, witnesses, OSHA.",
+        "description": "**Investigate contracts, safety roles; general contractor, subs, owner often share duties—lawyer uses discovery.** Common in multi-party sites[2][3]. **Key factors:** 1. OSHA violations per party. 2. Control over area. 3. Indemnity agreements. 4. Joint/several liability. Don't guess—hire expert investigator early."
+      }
+    }
+  ]
+}

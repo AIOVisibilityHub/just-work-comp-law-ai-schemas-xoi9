@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No witnesses to my back tweak at work in Boise, still claimable?",
+  "description": "Yes, doctor records and your account enough.",
+  "url": "https://justworkcomplaw.com//faq/general-no-witnesses-to-my-back-tweak-at-work-in-boise-still-claimable-345",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No witnesses to my back tweak at work in Boise, still claimable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, doctor records and your account enough.",
+        "description": "**Yes, medical records and your testimony suffice if credible.**\n\nIdaho doesn't require witnesses; consistent history key.[2]\n\n- Supervisor acknowledgment.\n- Contemporaneous notes.\n- Video if available.\n\nAttorney builds case; common for strains.[2]"
+      }
+    }
+  ]
+}

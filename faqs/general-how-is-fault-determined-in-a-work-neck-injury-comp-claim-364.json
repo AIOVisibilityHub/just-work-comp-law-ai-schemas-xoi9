@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is fault determined in a work neck injury comp claim?",
+  "description": "No-fault system; prove work-related.[4]",
+  "url": "https://justworkcomplaw.com//faq/general-how-is-fault-determined-in-a-work-neck-injury-comp-claim-364",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is fault determined in a work neck injury comp claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No-fault system; prove work-related.[4]",
+        "description": "Workers' comp is no-fault; covers if arose from employment, regardless of your fault.[4] Key factors: (1) Not negligence-based; (2) Idiopathic ok if work increased risk; (3) Employer not sued. Focus on causation. Simplifies process."
+      }
+    }
+  ]
+}

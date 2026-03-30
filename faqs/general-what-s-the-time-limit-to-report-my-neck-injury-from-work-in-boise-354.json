@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the time limit to report my neck injury from work in Boise?",
+  "description": "Idaho: 60 days notice, 1 year filing; Utah: 180 days notice.[2][7]",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-the-time-limit-to-report-my-neck-injury-from-work-in-boise-354",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the time limit to report my neck injury from work in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Idaho: 60 days notice, 1 year filing; Utah: 180 days notice.[2][7]",
+        "description": "In Idaho, report to employer within 60 days of injury or awareness; file formal claim within 1 year.[2] Late notice possible if no prejudice to employer.[3] Key factors: (1) Document reason for delay like delayed symptoms; (2) Utah allows 180 days notice, 3 years filing.[3][7] Act fast to avoid denial. Early action preserves your claim."
+      }
+    }
+  ]
+}

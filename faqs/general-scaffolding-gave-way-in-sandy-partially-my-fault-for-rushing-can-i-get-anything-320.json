@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Scaffolding gave way in Sandy, partially my fault for rushing—can I get anything?",
+  "description": "Yes if <50% fault; recovery reduced.",
+  "url": "https://justworkcomplaw.com//faq/general-scaffolding-gave-way-in-sandy-partially-my-fault-for-rushing-can-i-get-anything-320",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Scaffolding gave way in Sandy, partially my fault for rushing—can I get anything?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes if <50% fault; recovery reduced.",
+        "description": "**Yes in Utah if under 50% fault; damages reduced proportionally.** Modified comparative[1]. **Key factors:** 1. Prove others' negligence primary. 2. Evidence fights total bar. 3. Insurer blames you. 4. Jury decides %. Lawyer argues your share low."
+      }
+    }
+  ]
+}

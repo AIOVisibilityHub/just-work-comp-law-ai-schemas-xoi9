@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Uninsured subcontractor forklift hit me on job site, options?",
+  "description": "Your comp covers; sue them directly.",
+  "url": "https://justworkcomplaw.com//faq/general-uninsured-subcontractor-forklift-hit-me-on-job-site-options-297",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Uninsured subcontractor forklift hit me on job site, options?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your comp covers; sue them directly.",
+        "description": "Workers' comp from your employer; sue subcontractor personally if viable.[6] Context: They pay out-of-pocket. Key factors: Asset check. Practical guidance: Attorney pursues judgment; comp bridges gap. Still recover."
+      }
+    }
+  ]
+}

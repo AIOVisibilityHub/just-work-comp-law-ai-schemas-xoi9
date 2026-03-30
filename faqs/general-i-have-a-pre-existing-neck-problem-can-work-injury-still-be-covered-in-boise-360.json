@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have a pre-existing neck problem, can work injury still be covered in Boise?",
+  "description": "Yes, if work aggravated it; prove with medical opinion.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-i-have-a-pre-existing-neck-problem-can-work-injury-still-be-covered-in-boise-360",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have a pre-existing neck problem, can work injury still be covered in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if work aggravated it; prove with medical opinion.[1]",
+        "description": "Yes, if work aggravated it substantially; medical evidence shows worsening.[1] Key factors: (1) Doctor opines work caused flare-up; (2) Not just symptoms, but acceleration; (3) Portion compensable. Get specialist eval. Aggravation claims succeed often."
+      }
+    }
+  ]
+}

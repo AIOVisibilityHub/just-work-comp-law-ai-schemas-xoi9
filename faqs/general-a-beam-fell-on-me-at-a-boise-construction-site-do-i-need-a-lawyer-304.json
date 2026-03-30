@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "A beam fell on me at a Boise construction site—do I need a lawyer?",
+  "description": "Yes for third-party claims; they investigate and maximize recovery.",
+  "url": "https://justworkcomplaw.com//faq/general-a-beam-fell-on-me-at-a-boise-construction-site-do-i-need-a-lawyer-304",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "A beam fell on me at a Boise construction site—do I need a lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes for third-party claims; they investigate and maximize recovery.",
+        "description": "**Yes, hire a construction injury lawyer, especially for third-party claims beyond workers' comp in Idaho.** Multiple parties like subs, owners, or manufacturers may be liable, and lawyers investigate fault[2]. **Key factors:** 1. Workers' comp is no-fault but limited. 2. Third-party suits need proof of negligence under Idaho Code §72-223. 3. 2-year statute of limitations. 4. Comparative fault reduces recovery if partly your fault[2]. Don't sign insurer statements alone; a lawyer identifies all claims and negotiates better settlements. Most work on contingency—no win, no fee."
+      }
+    }
+  ]
+}

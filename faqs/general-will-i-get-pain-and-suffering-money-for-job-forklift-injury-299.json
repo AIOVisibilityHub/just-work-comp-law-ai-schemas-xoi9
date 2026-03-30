@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will I get pain and suffering money for job forklift injury?",
+  "description": "Only via third-party lawsuit, not comp.",
+  "url": "https://justworkcomplaw.com//faq/general-will-i-get-pain-and-suffering-money-for-job-forklift-injury-299",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will I get pain and suffering money for job forklift injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Only via third-party lawsuit, not comp.",
+        "description": "Not from workers' comp; yes from third-party negligence suits.[1] Context: Adds big value. Key factors: Clear fault by others. Practical guidance: Pursue if applicable; attorney evaluates. Comp limits otherwise."
+      }
+    }
+  ]
+}

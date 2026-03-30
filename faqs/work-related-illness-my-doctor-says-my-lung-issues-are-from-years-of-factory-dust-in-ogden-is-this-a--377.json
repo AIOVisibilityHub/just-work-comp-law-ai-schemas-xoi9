@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My doctor says my lung issues are from years of factory dust in Ogden, is this a work-related illness I can claim?",
+  "description": "Yes, if medical evidence proves work caused it; get specialist report.[2]",
+  "url": "https://justworkcomplaw.com//faq/work-related-illness-my-doctor-says-my-lung-issues-are-from-years-of-factory-dust-in-ogden-is-this-a--377",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My doctor says my lung issues are from years of factory dust in Ogden, is this a work-related illness I can claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if medical evidence proves work caused it; get specialist report.[2]",
+        "description": "Yes, occupational diseases like lung conditions from prolonged work exposure qualify for workers comp if proven work-related.[2] Utah covers illnesses from job duties, not pre-existing or off-duty issues.[1][2] Key factors: Medical expert opinion linking exposure to illness, employment duration, no other causes. Gather work history, exposure records, and specialist diagnosis. Consult a Utah workers comp lawyer to build causation evidence before filing."
+      }
+    }
+  ]
+}

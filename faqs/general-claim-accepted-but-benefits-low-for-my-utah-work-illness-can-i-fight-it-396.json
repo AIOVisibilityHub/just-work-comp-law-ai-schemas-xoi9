@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Claim accepted but benefits low for my Utah work illness, can I fight it?",
+  "description": "Yes, appeal rating or benefits calc.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-claim-accepted-but-benefits-low-for-my-utah-work-illness-can-i-fight-it-396",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Claim accepted but benefits low for my Utah work illness, can I fight it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, appeal rating or benefits calc.[2]",
+        "description": "Yes, request formal hearing or medical panel for reevaluation.[2][5] Challenge impairment rating.[5] Key factors: Independent exam, wage calc errors. Attorney maximizes via negotiation/appeal."
+      }
+    }
+  ]
+}

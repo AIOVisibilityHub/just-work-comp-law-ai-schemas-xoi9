@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer for my work back injury in Salt Lake?",
+  "description": "Yes, they win denied claims and max benefits—no fee unless you win.",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-need-a-lawyer-for-my-work-back-injury-in-salt-lake-334",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer for my work back injury in Salt Lake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, they win denied claims and max benefits—no fee unless you win.",
+        "description": "**Yes, strongly recommended; insurers deny 40%+ back claims initially.**\n\nUtah attorneys win hearings for wages, medicals, impairments when carriers fight.[1] Free until win.\n\n- Handle filings, appeals.\n- Counter 'not at work' denials.\n- Maximize settlement.\n\nCall for consult; self-handling risks less benefits.[1] Essential for complications."
+      }
+    }
+  ]
+}

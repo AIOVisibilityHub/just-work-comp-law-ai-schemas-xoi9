@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I hurt my neck at work today in Salt Lake City, what do I do right now?",
+  "description": "Report to supervisor now, see approved doctor, document details. Utah requires notice within 180 days.[7]",
+  "url": "https://justworkcomplaw.com//faq/general-i-hurt-my-neck-at-work-today-in-salt-lake-city-what-do-i-do-right-now-351",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I hurt my neck at work today in Salt Lake City, what do I do right now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report to supervisor now, see approved doctor, document details. Utah requires notice within 180 days.[7]",
+        "description": "Report the injury to your supervisor or HR immediately, seek medical attention from an approved provider, and document everything including witnesses and photos.[1][7] In Utah workers' comp cases, prompt reporting within 180 days is required, and delays can jeopardize claims.[7] Key factors: (1) Get treated at an employer-authorized doctor to ensure coverage; (2) Avoid signing any statements without advice; (3) Note symptoms even if minor, as neck injuries like whiplash can worsen.[1] File a formal claim with the Utah Labor Commission promptly; consider consulting a workers' comp attorney if unsure. Protecting your rights starts with these steps."
+      }
+    }
+  ]
+}

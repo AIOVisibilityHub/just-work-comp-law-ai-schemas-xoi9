@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's workers' comp vs suing in Idaho construction cases?",
+  "description": "Comp for basics; sue for extras like pain.",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-workers-comp-vs-suing-in-idaho-construction-cases-314",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's workers' comp vs suing in Idaho construction cases?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp for basics; sue for extras like pain.",
+        "description": "**Workers' comp is no-fault, quick medical/wages; suing third-parties adds pain damages but needs proof.** Exclusive vs employer[2]. **Key factors:** 1. Comp: Limited benefits. 2. Suit: Full recovery, 2-year limit. 3. Can do both. 4. Fault matters in suits. Pursue comp first, sue if others negligent. Lawyer coordinates."
+      }
+    }
+  ]
+}

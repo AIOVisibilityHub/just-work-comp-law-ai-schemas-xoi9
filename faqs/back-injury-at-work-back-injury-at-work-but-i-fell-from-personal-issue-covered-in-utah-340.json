@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Back injury at work but I fell from personal issue, covered in Utah?",
+  "description": "Yes if work (hard floor) made fall injury worse per Utah law.",
+  "url": "https://justworkcomplaw.com//faq/back-injury-at-work-back-injury-at-work-but-i-fell-from-personal-issue-covered-in-utah-340",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Back injury at work but I fell from personal issue, covered in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes if work (hard floor) made fall injury worse per Utah law.",
+        "description": "**Possibly, if work conditions worsened it like hard floor.**\n\nUtah appeals clarify idiopathic falls compensable if job increased injury severity.[3]\n\n- Prove employment aggravated risk.\n- Medical on floor impact.\n- Not just 'increased risk' but actual worse injury.\n\nAttorney argues per Ackley case.[3] Viable for backs."
+      }
+    }
+  ]
+}

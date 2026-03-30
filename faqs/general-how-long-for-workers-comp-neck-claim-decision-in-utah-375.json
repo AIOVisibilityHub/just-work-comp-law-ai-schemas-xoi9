@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long for workers comp neck claim decision in Utah?",
+  "description": "45 days initial; months for appeals.[7]",
+  "url": "https://justworkcomplaw.com//faq/general-how-long-for-workers-comp-neck-claim-decision-in-utah-375",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long for workers comp neck claim decision in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "45 days initial; months for appeals.[7]",
+        "description": "Initial 45 days for acceptance/denial; appeals 6-12 months to ALJ.[7] Key factors: (1) Bump to hearing if disputed; (2) Expedite medical; (3) Commission timeline. Patience needed. Track status."
+      }
+    }
+  ]
+}

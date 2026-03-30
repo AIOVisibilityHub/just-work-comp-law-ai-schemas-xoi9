@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Talked to insurance adjuster after back injury at work, did I mess up?",
+  "description": "Stop talking; get lawyer to handle adjuster.",
+  "url": "https://justworkcomplaw.com//faq/back-injury-at-work-talked-to-insurance-adjuster-after-back-injury-at-work-did-i-mess-up-339",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Talked to insurance adjuster after back injury at work, did I mess up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stop talking; get lawyer to handle adjuster.",
+        "description": "**Possibly; statements can be twisted to deny.**\n\nAdjusters minimize; recorded calls harm claims.[1]\n\n- Don't discuss without lawyer.\n- Request all in writing.\n- Avoid admitting fault.\n\nHire attorney now to counter; they negotiate better.[1] Common mistake."
+      }
+    }
+  ]
+}

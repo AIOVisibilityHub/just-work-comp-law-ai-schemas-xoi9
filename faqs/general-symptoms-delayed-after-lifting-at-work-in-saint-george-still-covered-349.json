@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Symptoms delayed after lifting at work in Saint George, still covered?",
+  "description": "Yes if doctor links; report when symptoms hit.",
+  "url": "https://justworkcomplaw.com//faq/general-symptoms-delayed-after-lifting-at-work-in-saint-george-still-covered-349",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Symptoms delayed after lifting at work in Saint George, still covered?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes if doctor links; report when symptoms hit.",
+        "description": "**Yes, if linked to incident; Utah allows late discovery.**\n\nCourts accept if no prejudice, symptoms manifest later.[4]\n\n- Doctor ties to date of accident.\n- Report when known.\n- Within statute.\n\nAttorney preserves via timely filing.[4]"
+      }
+    }
+  ]
+}

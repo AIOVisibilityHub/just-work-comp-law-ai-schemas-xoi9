@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Boise Idaho, forklift training fail caused my arm break, next steps?",
+  "description": "Comp claim + OSHA proof; lawyer ASAP.",
+  "url": "https://justworkcomplaw.com//faq/general-in-boise-idaho-forklift-training-fail-caused-my-arm-break-next-steps-300",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Boise Idaho, forklift training fail caused my arm break, next steps?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp claim + OSHA proof; lawyer ASAP.",
+        "description": "File Idaho workers' comp; third-party if third-party fault; cite OSHA 1910.178.[5] Context: Idaho 1-year limit. Key factors: Training records. Practical guidance: Attorney requests docs; strong negligence case. Free filing."
+      }
+    }
+  ]
+}

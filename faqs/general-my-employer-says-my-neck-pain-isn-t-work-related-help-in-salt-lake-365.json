@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My employer says my neck pain isn't work-related, help in Salt Lake?",
+  "description": "Get causation opinion, appeal to Commission.[1][2]",
+  "url": "https://justworkcomplaw.com//faq/general-my-employer-says-my-neck-pain-isn-t-work-related-help-in-salt-lake-365",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My employer says my neck pain isn't work-related, help in Salt Lake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Get causation opinion, appeal to Commission.[1][2]",
+        "description": "Challenge with IME or your doctor's causation letter; appeal denial.[2] Key factors: (1) Independent medical exam; (2) Show duties caused it; (3) Commission resolves disputes.[1] Gather stronger evidence. You can overturn."
+      }
+    }
+  ]
+}

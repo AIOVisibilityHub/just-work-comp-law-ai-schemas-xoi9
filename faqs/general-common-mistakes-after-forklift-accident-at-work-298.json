@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Common mistakes after forklift accident at work?",
+  "description": "Delay report, talk insurance, no photos.",
+  "url": "https://justworkcomplaw.com//faq/general-common-mistakes-after-forklift-accident-at-work-298",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Common mistakes after forklift accident at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Delay report, talk insurance, no photos.",
+        "description": "Talking to adjuster alone, delaying medical, signing quick releases, not documenting.[5] Context: Cost thousands. Key factors: Evidence loss. Practical guidance: Lawyer prevents; free help. Learn from others."
+      }
+    }
+  ]
+}

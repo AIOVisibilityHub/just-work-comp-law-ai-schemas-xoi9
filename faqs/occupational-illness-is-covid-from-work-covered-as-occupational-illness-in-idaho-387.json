@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is COVID from work covered as occupational illness in Idaho?",
+  "description": "Yes if work-related exposure proven.[7]",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-is-covid-from-work-covered-as-occupational-illness-in-idaho-387",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is COVID from work covered as occupational illness in Idaho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes if work-related exposure proven.[7]",
+        "description": "Yes, if contracted during job duties, like coworker exposure.[7] Proven by testing, work timeline.[3] Key factors: No home exposure proof, medical link. File promptly; attorney argues causation in hearings."
+      }
+    }
+  ]
+}

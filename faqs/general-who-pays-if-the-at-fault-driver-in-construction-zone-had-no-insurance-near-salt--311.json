@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who pays if the at-fault driver in construction zone had no insurance near Salt Lake?",
+  "description": "Your UM insurance or sue driver; comp backup.",
+  "url": "https://justworkcomplaw.com//faq/general-who-pays-if-the-at-fault-driver-in-construction-zone-had-no-insurance-near-salt--311",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who pays if the at-fault driver in construction zone had no insurance near Salt Lake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your UM insurance or sue driver; comp backup.",
+        "description": "**Your uninsured motorist coverage or workers' comp first; sue the driver personally if viable.** Third-party claim possible[2]. **Key factors:** 1. UM policy check. 2. Driver assets/judgment. 3. Comp as safety net. 4. Utah minimums low. Notify your insurer immediately. Lawyer pursues all angles including site negligence."
+      }
+    }
+  ]
+}

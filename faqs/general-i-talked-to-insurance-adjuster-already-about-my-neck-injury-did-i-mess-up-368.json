@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I talked to insurance adjuster already about my neck injury, did I mess up?",
+  "description": "Be cautious; get lawyer before more talks.[7]",
+  "url": "https://justworkcomplaw.com//faq/general-i-talked-to-insurance-adjuster-already-about-my-neck-injury-did-i-mess-up-368",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I talked to insurance adjuster already about my neck injury, did I mess up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Be cautious; get lawyer before more talks.[7]",
+        "description": "Possibly if you admitted fault or downplayed; statements can be used against you.[7] Key factors: (1) Don't sign releases; (2) Record all calls; (3) Lawyer reviews. Limit further talks. Correct with medical facts."
+      }
+    }
+  ]
+}

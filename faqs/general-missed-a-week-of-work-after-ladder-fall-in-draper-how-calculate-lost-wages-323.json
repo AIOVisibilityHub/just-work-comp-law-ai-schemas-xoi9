@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Missed a week of work after ladder fall in Draper—how calculate lost wages?",
+  "description": "Avg weekly pay x time off; prove with stubs.",
+  "url": "https://justworkcomplaw.com//faq/general-missed-a-week-of-work-after-ladder-fall-in-draper-how-calculate-lost-wages-323",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Missed a week of work after ladder fall in Draper—how calculate lost wages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Avg weekly pay x time off; prove with stubs.",
+        "description": "**Wages = average weekly x weeks missed + future if disabled; workers' comp pays partial, suit full.** Tax-free[3]. **Key factors:** 1. Pay stubs prove base. 2. Bonuses/OT included. 3. Doctor restrictions. 4. Permanent multipliers. Submit to insurer. Lawyer ensures full amount."
+      }
+    }
+  ]
+}

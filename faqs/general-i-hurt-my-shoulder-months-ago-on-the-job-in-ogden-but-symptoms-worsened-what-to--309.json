@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I hurt my shoulder months ago on the job in Ogden but symptoms worsened—what to do?",
+  "description": "Report worsening now; link to original via medicals.",
+  "url": "https://justworkcomplaw.com//faq/general-i-hurt-my-shoulder-months-ago-on-the-job-in-ogden-but-symptoms-worsened-what-to--309",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I hurt my shoulder months ago on the job in Ogden but symptoms worsened—what to do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report worsening now; link to original via medicals.",
+        "description": "**Notify employer of worsened condition linking to original injury; file/amend workers' comp claim promptly.** Delayed symptoms common in construction[3]. **Key factors:** 1. Utah allows claims if connected. 2. Deadlines from awareness. 3. Medical proof needed. 4. Third-party if negligence. See doctor for records tying to accident. Lawyer extends timelines if needed."
+      }
+    }
+  ]
+}

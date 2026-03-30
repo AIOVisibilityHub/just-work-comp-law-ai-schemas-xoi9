@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have a pre-existing back problem, can I still claim new work injury in Utah?",
+  "description": "Yes if work aggravated it; need doctor linking to job.",
+  "url": "https://justworkcomplaw.com//faq/general-i-have-a-pre-existing-back-problem-can-i-still-claim-new-work-injury-in-utah-331",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have a pre-existing back problem, can I still claim new work injury in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes if work aggravated it; need doctor linking to job.",
+        "description": "**Yes, if work aggravated it or caused new damage.**\n\nUtah comp covers aggravations; prior conditions don't bar if job incident worsened symptoms.[4] Courts assess contribution.\n\n- Medical opinion on aggravation needed.\n- Disclose history honestly.\n- Compare pre/post injury records.\n\nAttorney helps prove industrial causation amid pre-existing debates.[1] Vital for back claims."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No police report for my minor construction cut in Murray—still claimable?",
+  "description": "Yes via employer/medical records.",
+  "url": "https://justworkcomplaw.com//faq/general-no-police-report-for-my-minor-construction-cut-in-murray-still-claimable-317",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No police report for my minor construction cut in Murray—still claimable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes via employer/medical records.",
+        "description": "**Yes, employer incident report and medicals suffice for workers' comp/third-party.** Police not always involved[3]. **Key factors:** 1. Supervisor log. 2. Photos/eyewitness notes. 3. Doctor records. 4. Timely report. File anyway. Lawyer builds case sans police."
+      }
+    }
+  ]
+}

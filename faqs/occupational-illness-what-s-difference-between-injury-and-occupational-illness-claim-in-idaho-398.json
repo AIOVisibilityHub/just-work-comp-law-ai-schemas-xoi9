@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's difference between injury and occupational illness claim in Idaho?",
+  "description": "Illness cumulative; harder causation proof.[3]",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-what-s-difference-between-injury-and-occupational-illness-claim-in-idaho-398",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's difference between injury and occupational illness claim in Idaho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Illness cumulative; harder causation proof.[3]",
+        "description": "Illness gradual exposure vs sudden injury; both covered but illness needs stronger causation.[3][7] Notice stricter for late reports.[3] Key factors: Proof burden higher for illness. Attorney differentiates for approval."
+      }
+    }
+  ]
+}

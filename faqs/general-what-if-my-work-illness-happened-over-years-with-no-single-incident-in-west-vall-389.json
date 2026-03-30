@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my work illness happened over years with no single incident in West Valley?",
+  "description": "Yes as occupational disease; prove work cause.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-my-work-illness-happened-over-years-with-no-single-incident-in-west-vall-389",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my work illness happened over years with no single incident in West Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes as occupational disease; prove work cause.[2]",
+        "description": "Cumulative trauma/occupational diseases covered if predominant work cause.[2] No 'accident' needed.[1] Key factors: Exposure duration, medical causation. Document job tasks; specialist report essential."
+      }
+    }
+  ]
+}

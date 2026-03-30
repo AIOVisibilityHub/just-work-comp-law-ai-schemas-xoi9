@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I missed work due to work illness but employer is mad, is that retaliation?",
+  "description": "Yes illegal; report to Utah Labor Commission.[9]",
+  "url": "https://justworkcomplaw.com//faq/general-i-missed-work-due-to-work-illness-but-employer-is-mad-is-that-retaliation-386",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I missed work due to work illness but employer is mad, is that retaliation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes illegal; report to Utah Labor Commission.[9]",
+        "description": "Yes, Utah prohibits retaliation for filing comp claims.[9] Protected activity includes reporting illnesses.[1] Key factors: Timing of discipline, performance records. File UALD complaint within 180 days; lawyer assesses wrongful termination too."
+      }
+    }
+  ]
+}

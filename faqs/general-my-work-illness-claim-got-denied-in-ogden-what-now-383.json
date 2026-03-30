@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My work illness claim got denied in Ogden, what now?",
+  "description": "Appeal to Labor Commission within 20 days with more proof.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-my-work-illness-claim-got-denied-in-ogden-what-now-383",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My work illness claim got denied in Ogden, what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal to Labor Commission within 20 days with more proof.[2]",
+        "description": "Appeal within 20 days to Utah Labor Commission; request hearing.[2] Denials often reversible with better evidence.[3] Key factors: New medicals, causation proof, prejudice argument. Hire attorney experienced in appeals; they handle paperwork and hearings effectively."
+      }
+    }
+  ]
+}

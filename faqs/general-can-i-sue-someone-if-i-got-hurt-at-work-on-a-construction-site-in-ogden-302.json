@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue someone if I got hurt at work on a construction site in Ogden?",
+  "description": "Workers' comp from employer; sue third parties like subs or owners if negligent.",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-someone-if-i-got-hurt-at-work-on-a-construction-site-in-ogden-302",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue someone if I got hurt at work on a construction site in Ogden?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers' comp from employer; sue third parties like subs or owners if negligent.",
+        "description": "**Yes, you can pursue workers' compensation from your employer and potentially sue third parties like negligent subcontractors or equipment makers in Utah.** Workers' comp is usually the exclusive remedy against your employer, but third-party claims allow extra recovery for negligence[2][3]. **Key factors:** 1. Prove third-party duty, breach, and causation. 2. Common liable parties: general contractors, property owners, manufacturers[1][4]. 3. Utah's 50% comparative fault rule applies—if you're less than 50% at fault, recover reduced damages[1]. 4. File within 4 years[3]. Document everything and hire a lawyer to identify all liable parties. This can cover pain, suffering, and full losses workers' comp misses[4]."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Symptoms of my work neck injury started late, is claim still good in Utah?",
+  "description": "Yes, if no prejudice; Utah courts upheld delayed neck claims.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-symptoms-of-my-work-neck-injury-started-late-is-claim-still-good-in-utah-361",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Symptoms of my work neck injury started late, is claim still good in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if no prejudice; Utah courts upheld delayed neck claims.[3]",
+        "description": "Yes, if unaware of work causation until later; no prejudice to employer.[3] Key factors: (1) Medical link to incident; (2) File within 3 years; (3) Document delayed diagnosis. Courts allow like in Sun case.[3] Don't delay reporting."
+      }
+    }
+  ]
+}

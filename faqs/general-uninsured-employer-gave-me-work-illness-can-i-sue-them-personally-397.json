@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Uninsured employer gave me work illness, can I sue them personally?",
+  "description": "Yes, exclusive remedy waived.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-uninsured-employer-gave-me-work-illness-can-i-sue-them-personally-397",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Uninsured employer gave me work illness, can I sue them personally?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, exclusive remedy waived.[1]",
+        "description": "Yes, tort suit allowed if no coverage.[1] Or pursue comp fund.[1] Key factors: Prove no insurance. Lawyer files negligence claim for full damages."
+      }
+    }
+  ]
+}

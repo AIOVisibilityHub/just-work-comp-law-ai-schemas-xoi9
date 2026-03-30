@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my employer if I got really sick from toxic exposure at work in West Valley City?",
+  "description": "Generally no, workers comp is exclusive remedy in Utah.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-employer-if-i-got-really-sick-from-toxic-exposure-at-work-in-west-v-379",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my employer if I got really sick from toxic exposure at work in West Valley City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally no, workers comp is exclusive remedy in Utah.[1]",
+        "description": "No, Utah's exclusive remedy rule limits you to workers comp for work illnesses, barring rare exceptions like intentional harm.[1] This prevents tort lawsuits for negligence but allows third-party suits.[1] Key factors: Prove intent or no insurance coverage for exceptions; staffing agencies covered if insured. Focus on comp claim first; lawyer can check third-party liability like equipment makers."
+      }
+    }
+  ]
+}

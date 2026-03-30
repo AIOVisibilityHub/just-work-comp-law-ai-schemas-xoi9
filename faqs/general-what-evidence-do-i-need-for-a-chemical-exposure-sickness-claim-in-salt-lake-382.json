@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need for a chemical exposure sickness claim in Salt Lake?",
+  "description": "Medicals tying to work, exposure docs, witnesses.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-what-evidence-do-i-need-for-a-chemical-exposure-sickness-claim-in-salt-lake-382",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need for a chemical exposure sickness claim in Salt Lake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medicals tying to work, exposure docs, witnesses.[2]",
+        "description": "Medical reports linking illness to work, exposure records, coworker statements, job history.[2][3] Physician's First Report starts claim.[2] Key factors: Timeline of symptoms, no alternative causes, expert testimony. Collect safety data sheets, photos; attorney preserves evidence chain."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have a pre-existing condition but work made my breathing worse, can I get comp in Utah?",
+  "description": "Yes for aggravation; need medical proof of work worsening it.[5]",
+  "url": "https://justworkcomplaw.com//faq/general-i-have-a-pre-existing-condition-but-work-made-my-breathing-worse-can-i-get-comp--381",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have a pre-existing condition but work made my breathing worse, can I get comp in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes for aggravation; need medical proof of work worsening it.[5]",
+        "description": "Yes, if work substantially aggravated it, causing new disability.[5] Workers comp covers aggravations of pre-existing issues.[2] Key factors: Medical panel opinion on causation, work exposure proof. Get independent medical exam; Utah lawyers can refer to panels for strong evidence."
+      }
+    }
+  ]
+}

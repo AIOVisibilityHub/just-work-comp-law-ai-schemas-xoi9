@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is fault decided if I was partly to blame in a Saint George site accident?",
+  "description": "Utah/Idaho: Recover if <50% at fault, reduced proportionally.",
+  "url": "https://justworkcomplaw.com//faq/general-how-is-fault-decided-if-i-was-partly-to-blame-in-a-saint-george-site-accident-305",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is fault decided if I was partly to blame in a Saint George site accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Utah/Idaho: Recover if <50% at fault, reduced proportionally.",
+        "description": "**Utah uses modified comparative negligence: recover if under 50% at fault, reduced by your share; barred if 50% or more.** Insurers often blame victims for not wearing gear or ignoring warnings[1]. **Key factors:** 1. Fault assessed via evidence like photos, witnesses, OSHA reports. 2. Applies to third-party claims. 3. Idaho similar with 50% bar[2]. 4. Multiple parties' negligence apportioned. Gather all evidence immediately. A lawyer counters insurer arguments to protect your compensation percentage."
+      }
+    }
+  ]
+}

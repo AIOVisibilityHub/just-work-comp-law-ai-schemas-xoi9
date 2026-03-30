@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Claim denied because 'not serious enough' in Millcreek—what now?",
+  "description": "Appeal fast with medical proof.",
+  "url": "https://justworkcomplaw.com//faq/general-claim-denied-because-not-serious-enough-in-millcreek-what-now-325",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Claim denied because 'not serious enough' in Millcreek—what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal fast with medical proof.",
+        "description": "**Appeal to Labor Commission showing medical need/impact; explore third-party if others at fault.** Common tactic[3]. **Key factors:** 1. 20-day appeal window. 2. New evidence allowed. 3. Comp minimums low. 4. Suit alternative. Gather doctor notes. Lawyer overturns denials often."
+      }
+    }
+  ]
+}

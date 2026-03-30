@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is a neck injury from slipping at work covered like a back injury?",
+  "description": "Yes, treated similarly if proven work-related.[3][4]",
+  "url": "https://justworkcomplaw.com//faq/general-is-a-neck-injury-from-slipping-at-work-covered-like-a-back-injury-359",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is a neck injury from slipping at work covered like a back injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, treated similarly if proven work-related.[3][4]",
+        "description": "Yes, both are compensable if work-related; neck often paired with shoulder in falls.[3] Key factors: (1) Prove employment nexus; (2) Idiopathic falls ok if floor worsened impact.[4] Similar treatment in claims. Expect parallel processes."
+      }
+    }
+  ]
+}

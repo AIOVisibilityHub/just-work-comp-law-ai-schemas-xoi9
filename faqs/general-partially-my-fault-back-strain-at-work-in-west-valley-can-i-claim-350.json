@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Partially my fault back strain at work in West Valley, can I claim?",
+  "description": "Yes, workers' comp no-fault—your partial blame irrelevant.",
+  "url": "https://justworkcomplaw.com//faq/general-partially-my-fault-back-strain-at-work-in-west-valley-can-i-claim-350",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Partially my fault back strain at work in West Valley, can I claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, workers' comp no-fault—your partial blame irrelevant.",
+        "description": "**Yes, no-fault system ignores your fault.**\n\nUtah comp covers regardless of negligence if work-related.[1]\n\n- Don't admit fault to insurer.\n- Prove arising from duties.\n- Safety violations irrelevant.\n\nProceed confidently; lawyer handles pushback.[1]"
+      }
+    }
+  ]
+}

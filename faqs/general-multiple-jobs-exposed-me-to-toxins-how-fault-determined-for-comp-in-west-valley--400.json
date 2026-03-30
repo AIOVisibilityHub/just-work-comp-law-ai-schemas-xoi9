@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Multiple jobs exposed me to toxins, how fault determined for comp in West Valley City?",
+  "description": "No-fault; current employer's policy.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-multiple-jobs-exposed-me-to-toxins-how-fault-determined-for-comp-in-west-valley--400",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Multiple jobs exposed me to toxins, how fault determined for comp in West Valley City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No-fault; current employer's policy.[2]",
+        "description": "Comp no-fault; benefits from employer at contraction time.[2] Prorate if needed.[1] Key factors: Predominant cause. Medical allocates; file with current employer."
+      }
+    }
+  ]
+}

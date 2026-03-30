@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If staffing agency sent me to site where I got sick, who pays comp in Salt Lake?",
+  "description": "Staffing agency usually.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-if-staffing-agency-sent-me-to-site-where-i-got-sick-who-pays-comp-in-salt-lake-394",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If staffing agency sent me to site where I got sick, who pays comp in Salt Lake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Staffing agency usually.[1]",
+        "description": "Agency if insured; exclusive remedy applies.[1] Client may be third-party.[1] Key factors: Who carried policy. Lawyer identifies liable party quickly."
+      }
+    }
+  ]
+}

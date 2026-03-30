@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my boss fires me after my neck injury at work?",
+  "description": "Illegal retaliation; file wrongful discharge claim with proof.[7]",
+  "url": "https://justworkcomplaw.com//faq/neck-injury-at-work-what-if-my-boss-fires-me-after-my-neck-injury-at-work-357",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my boss fires me after my neck injury at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Illegal retaliation; file wrongful discharge claim with proof.[7]",
+        "description": "Utah and Idaho prohibit retaliation for filing workers' comp; it's illegal discharge.[7] Key factors: (1) Timing suggests retaliation; (2) Prove injury report led to firing; (3) File wrongful termination claim. Document communications. You have protections against reprisal."
+      }
+    }
+  ]
+}

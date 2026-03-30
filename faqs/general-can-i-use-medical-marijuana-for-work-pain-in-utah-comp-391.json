@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use medical marijuana for work pain in Utah comp?",
+  "description": "No reimbursement under federal rules.[4]",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-use-medical-marijuana-for-work-pain-in-utah-comp-391",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use medical marijuana for work pain in Utah comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No reimbursement under federal rules.[4]",
+        "description": "No, federal law bars reimbursement as Schedule I drug.[4] State may allow but comp won't pay.[4] Key factors: Alternative treatments required. Doctor recommends others; appeal denials carefully."
+      }
+    }
+  ]
+}

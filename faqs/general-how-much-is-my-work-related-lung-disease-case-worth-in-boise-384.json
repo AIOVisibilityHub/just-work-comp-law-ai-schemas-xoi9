@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much is my work-related lung disease case worth in Boise?",
+  "description": "Medical + wage loss + permanency; varies by impairment.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-is-my-work-related-lung-disease-case-worth-in-boise-384",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much is my work-related lung disease case worth in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical + wage loss + permanency; varies by impairment.[2]",
+        "description": "Depends on medical costs, lost wages, permanent impairment rating; temporary disability up to 68% wages, permanency via schedule.[2] No caps on medicals.[2] Key factors: Disability degree, future care, age. Attorney calculates via comp guidelines; free consult estimates value."
+      }
+    }
+  ]
+}

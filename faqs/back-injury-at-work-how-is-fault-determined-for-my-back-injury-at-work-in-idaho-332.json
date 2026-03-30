@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is fault determined for my back injury at work in Idaho?",
+  "description": "No-fault in Idaho workers' comp—if work-related, covered.",
+  "url": "https://justworkcomplaw.com//faq/back-injury-at-work-how-is-fault-determined-for-my-back-injury-at-work-in-idaho-332",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is fault determined for my back injury at work in Idaho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No-fault in Idaho workers' comp—if work-related, covered.",
+        "description": "**Workers' comp is no-fault; you get benefits regardless of blame if work-related.**\n\nIdaho system covers injuries arising from employment without proving employer fault.[2] Third parties can be sued separately.\n\n- Focus on 'arising out of' work.\n- No comparative negligence bar.\n- Intentional employer acts allow suits.\n\nReport and file; attorney handles causation proof.[2] Simplifies back claims."
+      }
+    }
+  ]
+}

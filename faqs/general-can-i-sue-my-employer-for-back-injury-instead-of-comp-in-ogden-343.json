@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my employer for back injury instead of comp in Ogden?",
+  "description": "No, comp exclusive unless intentional act.",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-employer-for-back-injury-instead-of-comp-in-ogden-343",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my employer for back injury instead of comp in Ogden?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, comp exclusive unless intentional act.",
+        "description": "**No, workers' comp is exclusive remedy unless gross negligence or third party.**\n\nUtah bars suits for negligence; intentional only.[2 similar]\n\n- Third party fault: yes sue.\n- Employer intent: rare exception.\n- Comp limits but no-fault.\n\nStick to comp; attorney pursues extras.[1]"
+      }
+    }
+  ]
+}

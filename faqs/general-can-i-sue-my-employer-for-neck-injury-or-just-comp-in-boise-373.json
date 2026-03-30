@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my employer for neck injury or just comp in Boise?",
+  "description": "Comp only, unless intentional act.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-employer-for-neck-injury-or-just-comp-in-boise-373",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my employer for neck injury or just comp in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp only, unless intentional act.[2]",
+        "description": "Workers' comp exclusive remedy unless gross negligence or intentional.[2] Key factors: (1) No third-party suit if sole employer fault; (2) Exceptions rare. Stick to comp. Limits but guarantees benefits."
+      }
+    }
+  ]
+}

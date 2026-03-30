@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I hurt my back at work today in Salt Lake City, what do I do right now?",
+  "description": "Report to your supervisor now in writing, seek medical care, and call a workers' comp lawyer today to protect your Utah claim.",
+  "url": "https://justworkcomplaw.com//faq/general-i-hurt-my-back-at-work-today-in-salt-lake-city-what-do-i-do-right-now-326",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I hurt my back at work today in Salt Lake City, what do I do right now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report to your supervisor now in writing, seek medical care, and call a workers' comp lawyer today to protect your Utah claim.",
+        "description": "**Report the injury to your supervisor immediately, ideally in writing.**\n\nUtah workers' compensation requires prompt notice to preserve your claim; delays can lead to denial.[1] Seek medical attention to document the injury linking it to work.\n\n- Get treated at an approved provider or ER if severe.\n- Request an incident report form from HR.\n- Avoid signing any statements without advice.\n\nContact a workers' comp attorney within days to file properly; carriers often deny back claims aggressively.[1] Free consultations help navigate this."
+      }
+    }
+  ]
+}

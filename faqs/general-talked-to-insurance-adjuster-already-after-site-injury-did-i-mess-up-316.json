@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Talked to insurance adjuster already after site injury—did I mess up?",
+  "description": "Maybe; lawyer reviews, halts further talks.",
+  "url": "https://justworkcomplaw.com//faq/general-talked-to-insurance-adjuster-already-after-site-injury-did-i-mess-up-316",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Talked to insurance adjuster already after site injury—did I mess up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maybe; lawyer reviews, halts further talks.",
+        "description": "**Possibly; recorded statements can be twisted—stop talking without lawyer.** Common mistake[1]. **Key factors:** 1. Lowball offers early. 2. Admissions used against. 3. Right to silence. 4. Consult now. Lawyer reviews what said, counters with evidence."
+      }
+    }
+  ]
+}

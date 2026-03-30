@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My insurer wants more info on my delayed work sickness, how long do they have in Utah?",
+  "description": "21-45 days max to decide.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-my-insurer-wants-more-info-on-my-delayed-work-sickness-how-long-do-they-have-in--390",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My insurer wants more info on my delayed work sickness, how long do they have in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "21-45 days max to decide.[2]",
+        "description": "21 days to accept/deny or investigate further, plus 24 days extension.[2] Don't delay responses.[3] Key factors: Provide records promptly. Attorney communicates to avoid denial."
+      }
+    }
+  ]
+}

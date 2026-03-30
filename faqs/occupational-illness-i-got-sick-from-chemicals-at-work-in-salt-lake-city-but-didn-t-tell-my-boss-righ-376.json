@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I got sick from chemicals at work in Salt Lake City but didn't tell my boss right away, can I still file a workers comp claim?",
+  "description": "Yes in Utah if no prejudice to employer; report ASAP with medical proof.[2][3]",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-i-got-sick-from-chemicals-at-work-in-salt-lake-city-but-didn-t-tell-my-boss-righ-376",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I got sick from chemicals at work in Salt Lake City but didn't tell my boss right away, can I still file a workers comp claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes in Utah if no prejudice to employer; report ASAP with medical proof.[2][3]",
+        "description": "Yes, you can still file if your employer wasn't prejudiced by the delay, but late reporting risks denial.[1][2][3] Utah law requires notice within 180 days for occupational illnesses, but courts consider if delay harmed investigation.[3] Key factors: Document symptoms timeline, get medical reports linking illness to work, explain delay reason. See a workers comp attorney immediately to assess prejudice and file formally. Time is critical to protect benefits."
+      }
+    }
+  ]
+}

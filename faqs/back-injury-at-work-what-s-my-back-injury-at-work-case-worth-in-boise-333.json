@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's my back injury at work case worth in Boise?",
+  "description": "Idaho avg $740k for severe back; get impairment rating.",
+  "url": "https://justworkcomplaw.com//faq/back-injury-at-work-what-s-my-back-injury-at-work-case-worth-in-boise-333",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's my back injury at work case worth in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Idaho avg $740k for severe back; get impairment rating.",
+        "description": "**Varies: average Idaho neck/back settlements ~$740k, median $362k, but comp caps apply.**\n\nDepends on severity, lost wages, impairment rating; severe cases hit millions.[7] Comp limits to medicals, TTD, PPI.\n\n- Mild: $10k-$50k.\n- Surgery/permanent: $100k+.\n- Total disability: higher.\n\nGet rated by doctor; attorney negotiates max vs. insurer lowballs.[7]"
+      }
+    }
+  ]
+}

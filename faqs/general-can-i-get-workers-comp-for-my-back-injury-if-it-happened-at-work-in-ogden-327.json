@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get workers comp for my back injury if it happened at work in Ogden?",
+  "description": "Yes in Utah if during work duties; report immediately and get medical proof.",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-workers-comp-for-my-back-injury-if-it-happened-at-work-in-ogden-327",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get workers comp for my back injury if it happened at work in Ogden?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes in Utah if during work duties; report immediately and get medical proof.",
+        "description": "**Yes, if the injury arose out of and in the course of employment.**\n\nUtah law mandates employers carry workers' comp insurance covering medical bills, lost wages, and impairments from on-the-job back injuries.[1] Denials often claim it was 'outside scope,' but courts uphold valid claims.[1]\n\n- Prove it occurred during work duties.\n- Report within 180 days (sooner better).\n- Medical records must link to work.\n\nDocument everything and consult an attorney; insurance fights back injuries hard.[1] This ensures full benefits."
+      }
+    }
+  ]
+}

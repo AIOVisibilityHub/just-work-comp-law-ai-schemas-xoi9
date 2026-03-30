@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Employer says no comp because I wasn't clocked in during forklift hit, true?",
+  "description": "Likely covered; lawyer fights denial.",
+  "url": "https://justworkcomplaw.com//faq/general-employer-says-no-comp-because-i-wasn-t-clocked-in-during-forklift-hit-true-295",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Employer says no comp because I wasn't clocked in during forklift hit, true?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Likely covered; lawyer fights denial.",
+        "description": "No, coverage if on premises for work; Utah 'course of employment' broad.[5] Context: Lunch/breaks often included. Key factors: Purpose test. Practical guidance: Attorney argues facts; wins most disputes."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I got hit by a falling tool on a construction site in Salt Lake City yesterday, what do I do right now?",
+  "description": "Report to employer now, get medical help, take photos—don't talk to insurance alone.",
+  "url": "https://justworkcomplaw.com//faq/general-i-got-hit-by-a-falling-tool-on-a-construction-site-in-salt-lake-city-yesterday-w-301",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I got hit by a falling tool on a construction site in Salt Lake City yesterday, what do I do right now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report to employer now, get medical help, take photos—don't talk to insurance alone.",
+        "description": "**Report the injury to your employer immediately and seek medical attention to document your injuries.** Construction accidents like falling objects are common hazards under OSHA rules, and in Utah, prompt reporting preserves your workers' comp claim while opening doors to third-party lawsuits if another party was negligent[1][3]. **Key factors:** 1. Notify employer within 180 days for workers' comp eligibility in Utah. 2. Get photos of the site and hazards before changes occur. 3. OSHA/UOSH may investigate if serious. 4. Preserve evidence as sites change fast[3]. Avoid giving statements to insurance without advice; consult a lawyer quickly to evaluate third-party claims against subcontractors or owners[1]. Early action maximizes recovery beyond basic workers' comp."
+      }
+    }
+  ]
+}

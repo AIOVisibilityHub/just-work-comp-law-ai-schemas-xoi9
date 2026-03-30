@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Pre-existing back condition worsened at work in Idaho, what proof?",
+  "description": "Medical proof of aggravation; compare records.",
+  "url": "https://justworkcomplaw.com//faq/general-pre-existing-back-condition-worsened-at-work-in-idaho-what-proof-342",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Pre-existing back condition worsened at work in Idaho, what proof?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical proof of aggravation; compare records.",
+        "description": "**Doctor opinion showing work incident aggravated it.**\n\nIdaho covers if job contributed; prior doesn't bar.[5]\n\n- Pre/post MRI comparisons.\n- Functional capacity eval.\n- No prior disability proof.\n\nAttorney uses experts for ISIF or denials.[5] Key for multiples."
+      }
+    }
+  ]
+}

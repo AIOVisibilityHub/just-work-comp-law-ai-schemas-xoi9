@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to file a workers comp claim for a work illness that showed up months later in Saint George?",
+  "description": "Utah: 3 years from discovery for illnesses; act fast.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-how-long-do-i-have-to-file-a-workers-comp-claim-for-a-work-illness-that-showed-u-380",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to file a workers comp claim for a work illness that showed up months later in Saint George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Utah: 3 years from discovery for illnesses; act fast.[2]",
+        "description": "In Utah, file within 3 years of injury/illness discovery or 12 years of exposure for occupational diseases.[2] Late claims risk denial if employer prejudiced.[3] Key factors: Date symptoms started, notice given, statute limits. Track medical records from onset; attorney can help meet deadlines and appeal denials."
+      }
+    }
+  ]
+}
