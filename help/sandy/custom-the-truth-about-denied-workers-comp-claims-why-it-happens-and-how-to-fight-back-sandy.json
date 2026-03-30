@@ -1,0 +1,18 @@
+{
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "The Truth About Denied Workers' Comp Claims: Why It Happens and How to Fight Back",
+    "text": "The Truth About Denied Workers' Comp Claims: Why It Happens and How to Fight Back",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Receiving a notice that your workers' compensation claim has been denied is a frightening experience. You are hurt, unable to work, and now the insurance company is saying they won't help. Understanding the 'why' behind the denial is the first step toward winning your appeal.\n\n### Common Reasons for Denial\n1. **The 'No Injury' Defense:** The insurer claims your injury didn't happen at work or is actually a pre-existing condition.\n2. **Missing Deadlines:** They claim you didn't report the injury to your boss within the 30 or 60-day window.\n3. **Lack of Medical Evidence:** The doctor's notes don't clearly state that the work accident 'caused' the physical problem.\n4. **Employment Status:** They argue you are an independent contractor, not an employee.\n\n### The Appeal Process in Utah and Idaho\nIn Utah, you must file an 'Application for Hearing' with the Labor Commission. In Idaho, you file a 'Complaint' with the Industrial Commission. This isn't just a letter; it’s the start of a formal legal process. You will enter a discovery phase, take depositions, and eventually present your case to an Administrative Law Judge.\n\n### What Evidence Do You Need?\nTo overturn a denial, you need 'Medical Causation.' This usually requires a doctor to state that your injury was 'more likely than not' caused by the workplace incident. We often work with independent medical experts to provide a second opinion that counters the insurance company's 'hired gun' doctors.\n\n### Should You Represent Yourself?\nWhile you are allowed to represent yourself at a hearing, it is highly discouraged. The insurance company will have a team of professional lawyers whose only job is to prove their denial was correct. A workers' comp lawyer works on a contingency fee, meaning they only get paid if they win your case and recover your benefits.\n\nA denial is not a permanent 'No.' It is an invitation to a legal fight. Most successful workers' comp cases start with a denial that was successfully challenged by an attorney who knows how to navigate the state commissions.",
+      "@type": "Answer",
+      "author": {
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      }
+    }
+  }
+}

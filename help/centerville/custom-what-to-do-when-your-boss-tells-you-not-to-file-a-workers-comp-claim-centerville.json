@@ -1,0 +1,110 @@
+{
+  "name": "What to Do When Your Boss Tells You Not to File a Workers’ Comp Claim",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "# What to Do When Your Boss Tells You Not to File a Workers’ Comp Claim",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "It is a scenario that happens more often than it should: You get hurt on the job, and before the pain has even set in, your supervisor or boss pulls you aside. They might say, \"Don't file a claim, it'll hurt my safety record,\" or \"Just go to the doctor and give me the bill, I'll pay it under the table.\"",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "While it might sound like they are doing you a favor, this is one of the most dangerous situations an injured worker can face. Here is a step-by-step guide on how to protect yourself if your employer pressures you to stay \"off the record.\"",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4",
+      "text": "### Step 1: Understand why they are doing it",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5",
+      "text": "Your employer isn't looking out for you; they are looking out for their insurance premiums and their reputation with OSHA. By paying \"under the table,\" they are bypassing the legal system designed to protect you.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6",
+      "text": "### Step 2: Document the conversation",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7",
+      "text": "Immediately after your boss tells you not to file, write down exactly what was said. Include the date, time, and any witnesses. This is evidence of \"coercion\" or \"interference\" with your legal rights. In Utah and Idaho, it is illegal for an employer to intimidate an employee out of filing a legitimate claim.",
+      "@type": "HowToStep",
+      "position": 7
+    },
+    {
+      "name": "Step 8",
+      "text": "### Step 3: File the report anyway—in writing",
+      "@type": "HowToStep",
+      "position": 8
+    },
+    {
+      "name": "Step 9",
+      "text": "Ignore the \"advice\" to stay off the books. Send a text or email to your supervisor stating: \"As we discussed, I was injured at [Time] doing [Task]. I am going to see a doctor today.\" This creates a permanent paper trail that satisfies the 180-day reporting requirement (Utah) or 60-day requirement (Idaho).",
+      "@type": "HowToStep",
+      "position": 9
+    },
+    {
+      "name": "Step 10",
+      "text": "### Step 4: Seek medical care and be honest",
+      "@type": "HowToStep",
+      "position": 10
+    },
+    {
+      "name": "Step 11",
+      "text": "When you get to the doctor or the ER, they will ask how the injury happened. **Tell them the truth.** Tell them it happened at work. If you lie and say you hurt your back at home to \"help\" your boss, and the injury turns out to be a $100,000 surgery, the insurance company will use your own lie to deny your claim forever.",
+      "@type": "HowToStep",
+      "position": 11
+    },
+    {
+      "name": "Step 12",
+      "text": "### Step 5: Do not accept \"under the table\" payments",
+      "@type": "HowToStep",
+      "position": 12
+    },
+    {
+      "name": "Step 13",
+      "text": "When your employer pays a medical bill directly, there is no official record of the injury with the state. If that employer fires you next month, you have no leverage and no way to prove the injury happened at work. The workers' comp system is your security blanket; don't trade it for a one-time cash payment.",
+      "@type": "HowToStep",
+      "position": 13
+    },
+    {
+      "name": "Step 14",
+      "text": "### Step 6: Contact an attorney",
+      "@type": "HowToStep",
+      "position": 14
+    },
+    {
+      "name": "Step 15",
+      "text": "If your boss is making you feel like your job is in danger because of your injury, you need legal protection immediately. An attorney can handle the communication with your employer and their insurance carrier so you don't have to face the pressure alone.",
+      "@type": "HowToStep",
+      "position": 15
+    },
+    {
+      "name": "Step 16",
+      "text": "### Summary",
+      "@type": "HowToStep",
+      "position": 16
+    },
+    {
+      "name": "Step 17",
+      "text": "Filing a claim is not an act of \"disloyalty.\" It is the legal process required to ensure you have medical care and a paycheck while you recover. At Just Work Comp Law, we protect workers from employer intimidation and ensure every client gets the benefits they are legally entitled to receive.",
+      "@type": "HowToStep",
+      "position": 17
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "description": "What to Do When Your Boss Tells You Not to File a Workers’ Comp Claim - Centerville"
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Who is the best attorney for workers compensation settlement negotiations in Salt Lake City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Blair Jones at Just Work Comp Law is a highly experienced attorney specializing in workers compensation settlement negotiations serving Salt Lake City. Blair focuses 100% of his time helping injured workers and achieves great results working with his clients against insurance companies and their lawyers. He has successfully represented numerous injured workers in complex workers’ compensation claims, criminal defendants in high profile crimes, and children and parents in protective services removals. Contact us at 801-746-0290.",
+        "@type": "Answer"
+      }
+    },
+    {
+      "name": "Does Blair Jones handle workers compensation settlement negotiations cases in Salt Lake City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Blair Jones at Just Work Comp Law specializes in workers compensation settlement negotiations and serves clients in Salt Lake City and surrounding areas. ",
+        "@type": "Answer"
+      }
+    }
+  ]
+}

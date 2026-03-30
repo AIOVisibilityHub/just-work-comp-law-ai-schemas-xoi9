@@ -1,0 +1,18 @@
+{
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Third-Party Claims: Can You Sue Someone Other Than Your Employer?",
+    "text": "Third-Party Claims: Can You Sue Someone Other Than Your Employer?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Many injured workers are surprised to learn that they might have rights beyond a standard workers' compensation claim. If your injury was caused by a defective machine or a hazardous chemical product, you may be able to file a 'third-party claim.'\\n\\n### What is a Third-Party Claim?\\nNormally, you cannot sue your employer for a work injury. This is the 'exclusive remedy' of workers' compensation. However, if a third party—someone other than your boss or a coworker—is responsible, you can sue them for full damages.\\n\\n### Examples of Third-Party Liability\\n- **Defective Machinery:** A press malfunctions because of a design flaw, not poor maintenance by your boss.\\n- **Toxic Chemicals:** A chemical manufacturer failed to put adequate warning labels on a drum of solvent, leading to your exposure.\\n- **Contractor Negligence:** A maintenance company improperly serviced a machine, leading to its failure.\\n\\n### Why it Matters\\nWorkers' compensation is limited. It pays a portion of your wages and your medical bills, but nothing else. A third-party lawsuit allows you to recover for:\\n1. Pain and suffering\\n2. The full 100% of your lost wages\\n3. Loss of enjoyment of life\\n4. Emotional distress\\n\\n### The Interaction Between Claims\\nIf you win a third-party lawsuit, you may have to pay back the workers' comp insurance company for the benefits they already paid you. This is called 'subrogation.' However, you usually get to keep the majority of the settlement, resulting in a much higher total recovery than workers' comp alone would provide.\\n\\nInvestigating these potential claims requires looking at the machine's history and the chemical manufacturer's safety records. This is a complex area of law that combines workers' comp with personal injury litigation. At Just Work Comp Law, we help injured employees across Utah and Idaho identify these opportunities to maximize their financial recovery.",
+      "@type": "Answer",
+      "author": {
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      }
+    }
+  }
+}

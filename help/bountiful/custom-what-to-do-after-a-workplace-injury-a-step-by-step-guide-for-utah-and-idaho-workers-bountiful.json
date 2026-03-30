@@ -1,0 +1,80 @@
+{
+  "name": "What to Do After a Workplace Injury: A Step-by-Step Guide for Utah and Idaho Workers",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Getting hurt on the job is traumatic enough without the added stress of a complex legal system. If you’ve suffered a work injury in Utah or Idaho, the actions you take in the first 48 hours can determine whether your medical bills are paid or if you’re left facing financial ruin.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "### Step 1: Report the Injury Immediately",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "The most common mistake workers make is 'toughing it out.' In Utah, you have 30 days to report; in Idaho, 60 days. However, waiting even three days can give the insurance company an excuse to claim the injury happened over the weekend. Tell your supervisor, 'I was hurt on the job,' and ensure they create a written incident report.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4",
+      "text": "### Step 2: Seek Medical Care and Be Specific",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5",
+      "text": "Go to the doctor your employer designates, but be very clear about how the injury happened. If you fell from a ladder, don't just say 'my back hurts.' Say 'I fell 10 feet from a ladder and landed on my back.' This 'causation' is the legal link required for workers' comp to pay. Note every body part that hurts, even if it seems minor compared to the main injury.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6",
+      "text": "### Step 3: Document Everything",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7",
+      "text": "Keep a folder. Inside, put copies of your doctor’s notes, work status slips, and any letters from the insurance company. Note the dates and times of conversations with your boss or the insurance adjuster. If you have visible injuries like bruising or surgical scars, take photos.",
+      "@type": "HowToStep",
+      "position": 7
+    },
+    {
+      "name": "Step 8",
+      "text": "### Step 4: Understand Your Benefits",
+      "@type": "HowToStep",
+      "position": 8
+    },
+    {
+      "name": "Step 9",
+      "text": "Workers' comp isn't just for medical bills. You are entitled to 'Temporary Total Disability' (TTD) if you can't work, which pays roughly 66% of your wages. You are also entitled to reimbursement for mileage to and from doctor appointments.",
+      "@type": "HowToStep",
+      "position": 9
+    },
+    {
+      "name": "Step 10",
+      "text": "### Step 5: Don't Sign Anything Without Review",
+      "@type": "HowToStep",
+      "position": 10
+    },
+    {
+      "name": "Step 11",
+      "text": "The insurance company may offer a 'quick settlement' or ask for a broad medical release. Be careful. Once you settle, you may lose the right to future surgery or medical care. Before signing away your rights, consult with a workers' compensation attorney to ensure you aren't leaving money or medical care on the table.",
+      "@type": "HowToStep",
+      "position": 11
+    },
+    {
+      "name": "Step 12",
+      "text": "Conclusion: Following these steps puts you in the strongest position to have your claim approved. If you hit a roadblock, such as a claim denial or a doctor who won't listen, professional legal help can step in to handle the litigation while you focus on recovery.",
+      "@type": "HowToStep",
+      "position": 12
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "description": "What to Do After a Workplace Injury: A Step-by-Step Guide for Utah and Idaho Workers - Bountiful"
+}

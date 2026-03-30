@@ -1,0 +1,18 @@
+{
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can You Sue? When a Workplace Injury Becomes a Third-Party Lawsuit",
+    "text": "Can You Sue? When a Workplace Injury Becomes a Third-Party Lawsuit",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "# Can You Sue? When a Workplace Injury Becomes a Third-Party Lawsuit\n\nIn the world of workers' compensation, there is a concept called the \"Exclusive Remedy.\" This means that in nearly all cases, you cannot sue your employer or your coworkers for an accident, even if they were negligent. You are limited to the benefits provided by workers' comp (medical care and 2/3 of your wages).\n\nHowever, what if someone else caused your injury? This is where \"Third-Party Claims\" come in.\n\n### What is a Third-Party Claim?\nA third-party claim is a separate personal injury lawsuit brought against a person or company that is *not* your employer. Unlike workers' comp, a third-party lawsuit allows you to recover for **pain and suffering, emotional distress, and 100% of your lost wages.**\n\n### Common Examples of Third-Party Situations:\n\n1.  **Motor Vehicle Accidents:** You are driving for work and a distracted driver hits your company truck. You have a workers' comp claim (against your employer) AND a personal injury claim (against the other driver).\n2.  **Defective Products:** You are using a specialized saw at a construction site in Ogden, and the safety guard fails because of a manufacturing defect. You can sue the manufacturer of the saw.\n3.  **Premises Liability:** You are making a delivery to a customer's warehouse and slip on a puddle of oil that they failed to clean up. You can sue the owner of that warehouse.\n4.  **Subcontractor Negligence:** You work for an electrical company on a job site, and a worker from a separate framing company drops a beam on you. You can sue the framing company.\n\n### The Problem of the \"Lien\"\nThis is the part that surprises many workers. If you win a settlement from a third party (like the other driver's insurance), the workers' compensation insurance company in Utah or Idaho generally has a right to be paid back for the medical bills they paid on your behalf. This is called a \"subrogation lien.\"\n\nA lawyer’s job is to negotiate that lien down as far as possible so that you keep the majority of the settlement.\n\n### Why You Need an Attorney\nManaging both a workers' comp claim and a third-party lawsuit is like playing two games of chess at once. You have different deadlines, different rules of evidence, and different insurance adjusters to deal with. If you aren't careful, the two claims can conflict with each other.\n\nAt Just Work Comp Law, we analyze every workplace accident to see if there is a third party involved. We don't just want you to get the \"basic\" benefits; we want you to get the full compensation you deserve for the pain and permanent impact the accident has had on your life.",
+      "@type": "Answer",
+      "author": {
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      }
+    }
+  }
+}

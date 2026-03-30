@@ -1,0 +1,86 @@
+{
+  "name": "What to Do After a Work Injury: A Step-by-Step Guide for Utah and Idaho Workers",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "The moments following a workplace injury are often chaotic and stressful. Whether you’ve suffered a sudden fall or a repetitive motion injury, the steps you take in the first few hours and days will determine whether your medical bills are paid and your lost wages are replaced.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "### 1. Notify Your Supervisor Immediately",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "In Utah, you have 30 days to report an injury, and in Idaho, you have 60. However, waiting even a few days can give the insurance company a reason to doubt your claim. Tell your supervisor exactly what happened, where it happened, and what parts of your body are hurting. If possible, do it in writing (email or text) so there is a date-stamped record.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4",
+      "text": "### 2. Seek Medical Attention",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5",
+      "text": "Go to the doctor right away. If your employer has a designated occupational clinic, you may be required to go there first. Be extremely clear with the doctor that your injury happened at work. Your medical records are the most important evidence in your case. If you don't mention 'work' in your first visit, the insurance company will likely deny the claim later.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6",
+      "text": "### 3. Identify the Hazard (For Falls)",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7",
+      "text": "If you slipped or tripped, identify the cause. Take photos of the floor, the lighting, or the equipment involved. If there were witnesses, get their names and phone numbers. In a 'no-fault' system, you don't need to prove they were negligent, but you do need to prove the injury happened because of your work environment.",
+      "@type": "HowToStep",
+      "position": 7
+    },
+    {
+      "name": "Step 8",
+      "text": "### 4. File the Official State Forms",
+      "@type": "HowToStep",
+      "position": 8
+    },
+    {
+      "name": "Step 9",
+      "text": "Reporting to your boss is not the same as filing a claim with the state. In Utah, you should ensure an 'Employer’s First Report of Injury' is filed with the Labor Commission. In Idaho, the form is the 'First Report of Injury' (FROI). If your employer refuses to file, you can (and should) file your own claim.",
+      "@type": "HowToStep",
+      "position": 9
+    },
+    {
+      "name": "Step 10",
+      "text": "### 5. Keep a Detailed Log",
+      "@type": "HowToStep",
+      "position": 10
+    },
+    {
+      "name": "Step 11",
+      "text": "Start a notebook. Record every doctor's visit, the names of the people you talk to at the insurance company, and how your injury is affecting your daily life. Also, track your mileage to and from every medical appointment—you are entitled to reimbursement for these costs.",
+      "@type": "HowToStep",
+      "position": 11
+    },
+    {
+      "name": "Step 12",
+      "text": "### 6. Consult an Expert",
+      "@type": "HowToStep",
+      "position": 12
+    },
+    {
+      "name": "Step 13",
+      "text": "Insurance adjusters may act friendly, but their job is to save the company money. Before signing any documents or giving a recorded statement, talk to a workers' compensation attorney. They can ensure you aren't accidentally signing away your rights to future medical care or accepting a settlement that is far below what you deserve.",
+      "@type": "HowToStep",
+      "position": 13
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "description": "What to Do After a Work Injury: A Step-by-Step Guide for Utah and Idaho Workers - Holladay"
+}

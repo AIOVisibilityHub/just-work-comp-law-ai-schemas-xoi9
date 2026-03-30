@@ -1,0 +1,18 @@
+{
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Understanding the Value of Your Workers' Comp Claim",
+    "text": "Understanding the Value of Your Workers' Comp Claim",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "The most common question injured workers ask is, 'How much is my case worth?' In Utah and Idaho, workers' compensation is not like a standard personal injury lawsuit. You cannot recover for 'pain and suffering.' Instead, your compensation is determined by specific state laws and formulas designed to cover three things: medical costs, lost wages, and permanent impairment.\n\n### 1. Medical Benefits\nThis is often the most valuable part of a claim. The insurance company must pay for all medical treatment necessary to cure or relieve the effects of your injury. This includes surgeries, PT, medications, and even travel costs to see doctors. In a settlement, you might receive a lump sum to cover what these things will cost you in the future.\n\n### 2. Temporary Disability (Lost Wages)\nWhile you are unable to work, you are entitled to Temporary Total Disability (TTD) benefits. This is generally two-thirds (66.67%) of your average weekly wage, up to a state maximum. If you can work but only at a lower-paying light-duty job, you receive 'Temporary Partial Disability' to help bridge the gap.\n\n### 3. Permanent Partial Disability (PPD)\nOnce you have finished medical treatment and reached 'Maximum Medical Improvement' (MMI), a doctor will evaluate whether you have any permanent physical loss. They assign a percentage of impairment (e.g., a 15% whole-body rating). This percentage is multiplied by a state-set dollar amount to determine your PPD payout.\n\n### 4. Vocational Rehabilitation\nIn Idaho especially, if your injury is so severe that you cannot return to your old job, you may be entitled to help finding a new career. This can include retraining costs and additional weekly benefits while you are in school or a training program.\n\n### Why Settlements Vary\nNo two injuries are the same. A 30-year-old construction worker with a back injury will likely have a different settlement value than a 60-year-old office worker with the same injury, because their future earning capacity and medical needs differ. An experienced attorney knows how to 'stack' these different benefits to ensure the insurance company doesn't leave out important components, like future prescriptions or home modifications.\n\nNever accept a settlement offer until you have talked to a lawyer. Once you sign the 'Full and Final' release, you can never ask for more money, even if you need another surgery a year later. Protection of your future medical needs is the most important part of any settlement negotiation.",
+      "@type": "Answer",
+      "author": {
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      }
+    }
+  }
+}
